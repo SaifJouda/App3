@@ -1,0 +1,6766 @@
+fileFormatVersion: 2
+guid: 658c9e00e0e690a45a6ae2e237c377b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Meal_Poop
+  - first:
+      213: 21300002
+    second: Necklace_4
+  - first:
+      213: 21300004
+    second: GiftSmall
+  - first:
+      213: 21300006
+    second: StainedGlass
+  - first:
+      213: 21300008
+    second: Wood
+  - first:
+      213: 21300010
+    second: Meal_Medium_Mixed
+  - first:
+      213: 21300012
+    second: Meal_Deadly
+  - first:
+      213: 21300014
+    second: TunicTalisman_Small_Piece1
+  - first:
+      213: 21300016
+    second: Acorn
+  - first:
+      213: 21300018
+    second: Meal_Great_Mixed
+  - first:
+      213: 21300020
+    second: KnowledgeScrollBlue
+  - first:
+      213: 21300022
+    second: SeedMushroom
+  - first:
+      213: 21300024
+    second: Fish_Octopus
+  - first:
+      213: 21300026
+    second: GiftMedium
+  - first:
+      213: 21300028
+    second: StoneRefined
+  - first:
+      213: 21300030
+    second: Grass2 - Copy
+  - first:
+      213: 21300032
+    second: SeedRedFlower
+  - first:
+      213: 21300034
+    second: GoldRefined
+  - first:
+      213: 21300036
+    second: Meat_Morsel
+  - first:
+      213: 21300038
+    second: Meal_Follower_Meat
+  - first:
+      213: 21300040
+    second: Seed
+  - first:
+      213: 21300042
+    second: Meal_Meat - Copy
+  - first:
+      213: 21300044
+    second: Rope
+  - first:
+      213: 21300046
+    second: Necklace_2
+  - first:
+      213: 21300048
+    second: Grass5
+  - first:
+      213: 21300050
+    second: SeedWhiteFlower
+  - first:
+      213: 21300052
+    second: BeholderEye
+  - first:
+      213: 21300054
+    second: Mushroom
+  - first:
+      213: 21300056
+    second: SeedMushroom - Copy
+  - first:
+      213: 21300058
+    second: Meal_Rotten
+  - first:
+      213: 21300060
+    second: Meal
+  - first:
+      213: 21300062
+    second: Bone
+  - first:
+      213: 21300064
+    second: Seed Pumpkin
+  - first:
+      213: 21300066
+    second: Bloodstone
+  - first:
+      213: 21300068
+    second: Food
+  - first:
+      213: 21300070
+    second: Poop
+  - first:
+      213: 21300072
+    second: Shell
+  - first:
+      213: 21300074
+    second: Acorn - Copy
+  - first:
+      213: 21300076
+    second: SpiderWeb
+  - first:
+      213: 21300078
+    second: Meal_Rotten - Copy
+  - first:
+      213: 21300080
+    second: TunicTalisman_Small_Piece4
+  - first:
+      213: 21300082
+    second: Meal_Good_Fish
+  - first:
+      213: 21300084
+    second: Crystal
+  - first:
+      213: 21300086
+    second: Berries
+  - first:
+      213: 21300088
+    second: MapPiece
+  - first:
+      213: 21300090
+    second: Fish Big
+  - first:
+      213: 21300092
+    second: Meal_Great
+  - first:
+      213: 21300094
+    second: Flower_Red
+  - first:
+      213: 21300096
+    second: Grass3 - Copy
+  - first:
+      213: 21300098
+    second: GoldNugget
+  - first:
+      213: 21300100
+    second: Seed Beetroot
+  - first:
+      213: 21300102
+    second: DoctrineStone_3
+  - first:
+      213: 21300104
+    second: Fish
+  - first:
+      213: 21300106
+    second: Grass3
+  - first:
+      213: 21300108
+    second: LogRefined
+  - first:
+      213: 21300110
+    second: Fish_Blowfish
+  - first:
+      213: 21300112
+    second: Vine
+  - first:
+      213: 21300114
+    second: Fish_Crab
+  - first:
+      213: 21300116
+    second: Meal_Medium_Veg
+  - first:
+      213: 21300118
+    second: BlackGold
+  - first:
+      213: 21300120
+    second: Grass2
+  - first:
+      213: 21300122
+    second: Meal_Great - Copy
+  - first:
+      213: 21300124
+    second: Pumpkin
+  - first:
+      213: 21300126
+    second: Meal_Grass - Copy
+  - first:
+      213: 21300128
+    second: Grass4 - Copy
+  - first:
+      213: 21300130
+    second: GoldCoin
+  - first:
+      213: 21300132
+    second: Empty Meal
+  - first:
+      213: 21300134
+    second: TunicTalisman_Small_Piece2
+  - first:
+      213: 21300136
+    second: SeedRedFlower - Copy
+  - first:
+      213: 21300138
+    second: Meal_Mushrooms - Copy
+  - first:
+      213: 21300140
+    second: Cotton
+  - first:
+      213: 21300142
+    second: BoneKey
+  - first:
+      213: 21300144
+    second: Meal_Follower_Meat - Copy
+  - first:
+      213: 21300146
+    second: Meal_Burnt
+  - first:
+      213: 21300148
+    second: TunicTalisman_Small_Piece3
+  - first:
+      213: 21300150
+    second: Meal_Mushrooms
+  - first:
+      213: 21300152
+    second: Necklace_3
+  - first:
+      213: 21300154
+    second: Fish_Swordfish
+  - first:
+      213: 21300156
+    second: Fish Small
+  - first:
+      213: 21300158
+    second: FaceShroom
+  - first:
+      213: 21300160
+    second: Meal_Bad_Fish
+  - first:
+      213: 21300162
+    second: MeatRotten
+  - first:
+      213: 21300164
+    second: Meal_Good_Fish - Copy
+  - first:
+      213: 21300166
+    second: Meal_Great_Fish
+  - first:
+      213: 21300168
+    second: Cauliflower
+  - first:
+      213: 21300170
+    second: Fish_Lobster
+  - first:
+      213: 21300172
+    second: Meal_Bad_Mixed
+  - first:
+      213: 21300174
+    second: Necklace_5
+  - first:
+      213: 21300176
+    second: Meal_Poop - Copy
+  - first:
+      213: 21300178
+    second: Meal_Grass
+  - first:
+      213: 21300180
+    second: Empty Meal - Copy
+  - first:
+      213: 21300182
+    second: MonsterHeart
+  - first:
+      213: 21300184
+    second: DoctrineStone_1
+  - first:
+      213: 21300186
+    second: SeedWhiteFlower - Copy
+  - first:
+      213: 21300188
+    second: Wheat
+  - first:
+      213: 21300190
+    second: DoctrineStone_2
+  - first:
+      213: 21300192
+    second: Seed Cauliflower
+  - first:
+      213: 21300194
+    second: VileBones
+  - first:
+      213: 21300196
+    second: Meal Good
+  - first:
+      213: 21300198
+    second: Meal_Berries
+  - first:
+      213: 21300200
+    second: Grass
+  - first:
+      213: 21300202
+    second: KnowledgeScroll
+  - first:
+      213: 21300204
+    second: Meal_Bad_Meat
+  - first:
+      213: 21300206
+    second: MeatLarge
+  - first:
+      213: 21300208
+    second: MeatLarge Rotten
+  - first:
+      213: 21300210
+    second: SacredFlowers
+  - first:
+      213: 21300212
+    second: Grass4
+  - first:
+      213: 21300214
+    second: CottonNew
+  - first:
+      213: 21300216
+    second: Fish_Squid
+  - first:
+      213: 21300218
+    second: Grass5 - Copy
+  - first:
+      213: 21300220
+    second: MapPiece - Copy
+  - first:
+      213: 21300222
+    second: Beetroot
+  - first:
+      213: 21300224
+    second: Necklace_1
+  - first:
+      213: 21300226
+    second: Meal_Great_Meat
+  - first:
+      213: 21300228
+    second: item_log
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 29
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Meal_Poop
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 985
+        width: 109
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.5, y: -38}
+        - {x: -54.5, y: -35}
+        - {x: -54.5, y: 35}
+        - {x: -53.5, y: 38}
+        - {x: 50.5, y: 38}
+        - {x: 54.5, y: 34}
+        - {x: 54.5, y: -34}
+        - {x: 39.5, y: -38}
+      physicsShape:
+      - - {x: 54.5, y: 23}
+        - {x: 50.5, y: 28.99999}
+        - {x: 45.5, y: 30}
+        - {x: 39.5, y: 27}
+        - {x: 38.5, y: 38}
+        - {x: 15.5, y: 38}
+        - {x: 6.5, y: 33}
+        - {x: 2.5, y: 38}
+        - {x: -34.5, y: 38}
+        - {x: -37.5, y: 34}
+        - {x: -44.5, y: 28.99999}
+        - {x: -53.5, y: 25}
+        - {x: -54.5, y: 22}
+        - {x: -54.5, y: -9}
+        - {x: -50.5, y: -20}
+        - {x: -38.5, y: -30}
+        - {x: -29.5, y: -35}
+        - {x: -21.5, y: -38}
+        - {x: 21.5, y: -38}
+        - {x: 31.5, y: -35}
+        - {x: 45.5, y: -27}
+        - {x: 54.5, y: -13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bbc6492d0f4ab09f4fc7b77a480e9b
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklace_4
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1378
+        width: 72
+        height: 76
+      alignment: 9
+      pivot: {x: 0.498424, y: 0.3432251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: -38}
+        - {x: -36, y: -10}
+        - {x: -36, y: 38}
+        - {x: 32, y: 38}
+        - {x: 36, y: 37}
+        - {x: 36, y: -17}
+        - {x: 23, y: -38}
+      physicsShape:
+      - - {x: 36, y: 8}
+        - {x: 36, y: 26}
+        - {x: 31, y: 34}
+        - {x: 25, y: 38}
+        - {x: -26, y: 38}
+        - {x: -36, y: 28}
+        - {x: -36, y: 2.999999}
+        - {x: -27, y: -27}
+        - {x: -15, y: -38}
+        - {x: 14, y: -38}
+        - {x: 18, y: -35}
+        - {x: 32, y: -25}
+        - {x: 31, y: -3.000001}
+      - - {x: -14, y: 12}
+        - {x: -16, y: 15}
+        - {x: -16, y: 18}
+        - {x: -11, y: 20}
+        - {x: -9, y: 22}
+        - {x: 9, y: 22}
+        - {x: 12, y: 20}
+        - {x: 17, y: 18}
+        - {x: 17, y: 16}
+        - {x: 10, y: 9}
+        - {x: 6, y: 11}
+        - {x: 1, y: 11}
+        - {x: 0, y: 10}
+        - {x: -5, y: 10}
+        - {x: -7, y: 8}
+        - {x: -10, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014ad5a7ffa9426a9b435a9d1b2cab87
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiftSmall
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 193
+        width: 110
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5096899, y: 0.1632079}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55, y: -48}
+        - {x: -55, y: -48}
+        - {x: -55, y: 24}
+        - {x: -40, y: 48}
+        - {x: 53, y: 48}
+        - {x: 55, y: 44}
+      physicsShape:
+      - - {x: 55, y: 4}
+        - {x: 53, y: 15}
+        - {x: 43, y: 21}
+        - {x: 31, y: 22}
+        - {x: 19, y: 26}
+        - {x: 23, y: 39}
+        - {x: 18, y: 46}
+        - {x: 14, y: 47.99999}
+        - {x: -35, y: 47.99999}
+        - {x: -40, y: 47}
+        - {x: -44, y: 41}
+        - {x: -44, y: 27}
+        - {x: -37, y: 21}
+        - {x: -55, y: 12}
+        - {x: -55, y: -30}
+        - {x: -41, y: -45}
+        - {x: -32, y: -48}
+        - {x: 21, y: -48}
+        - {x: 38, y: -45}
+        - {x: 53, y: -34}
+        - {x: 55, y: -31}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc2b12e6d7b408a93ca456928f8748c
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StainedGlass
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 372
+        width: 135
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5013195, y: 0.3148148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.5, y: -42.5}
+        - {x: -67.5, y: -8.5}
+        - {x: -67.5, y: 23.5}
+        - {x: -23.5, y: 50.5}
+        - {x: 31.5, y: 50.5}
+        - {x: 67.5, y: 37.5}
+        - {x: 67.5, y: -16.5}
+        - {x: 53.5, y: -32.5}
+        - {x: 23.5, y: -50.5}
+        - {x: -15.5, y: -50.5}
+      physicsShape:
+      - - {x: 66.5, y: -13.5}
+        - {x: 67.5, y: -9.5}
+        - {x: 67.5, y: 10.5}
+        - {x: 64.5, y: 14.5}
+        - {x: 53.5, y: 24.5}
+        - {x: 37.5, y: 23.5}
+        - {x: 34.5, y: 23.5}
+        - {x: 20.5, y: 20.5}
+        - {x: 5.5, y: 8.499998}
+        - {x: -13.5, y: 24.5}
+        - {x: -25.5, y: 34.5}
+        - {x: -32.5, y: 34.5}
+        - {x: -40.5, y: 28.5}
+        - {x: -46.5, y: 19.5}
+        - {x: -67.5, y: 11.5}
+        - {x: -67.5, y: -4.5}
+        - {x: -63.5, y: -11.5}
+        - {x: -39.5, y: -31.5}
+        - {x: -14.5, y: -38.5}
+        - {x: -2.5, y: -50.5}
+        - {x: 17.5, y: -50.5}
+        - {x: 41.5, y: -36.5}
+        - {x: 50.5, y: -29.5}
+        - {x: 56.5, y: -11.5}
+      - - {x: 5.5, y: 46.5}
+        - {x: -13.5, y: 44.5}
+        - {x: -18.5, y: 39.5}
+        - {x: -18.5, y: 34.5}
+        - {x: -14.5, y: 27.5}
+        - {x: -3.5, y: 18.5}
+        - {x: 5.5, y: 14.5}
+        - {x: 16.5, y: 14.5}
+        - {x: 36.5, y: 28.5}
+        - {x: 36.5, y: 42.5}
+        - {x: 35.5, y: 46.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48885988e82a49c2a927c6db25b8bab5
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wood
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 94
+        width: 116
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5583042, y: 0.1349974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: -45}
+        - {x: -58, y: -44}
+        - {x: -58, y: 45}
+        - {x: 58, y: 45}
+        - {x: 58, y: -45}
+      physicsShape:
+      - - {x: 52, y: 17}
+        - {x: 42, y: 32}
+        - {x: 31, y: 40}
+        - {x: 18, y: 40}
+        - {x: -7.999999, y: 27}
+        - {x: -28, y: 26}
+        - {x: -44, y: 21}
+        - {x: -55, y: 8}
+        - {x: -57, y: 4}
+        - {x: -57, y: -21}
+        - {x: -52, y: -36}
+        - {x: -40, y: -45}
+        - {x: -12, y: -45}
+        - {x: 46, y: -30}
+        - {x: 55, y: -19}
+        - {x: 55, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249f5738712046b38d5890c2a68c94ed
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meal_Medium_Mixed
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 517
+        width: 109
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.5, y: -25.5}
+        - {x: -54.5, y: -17.5}
+        - {x: -54.5, y: 28.5}
+        - {x: -43.5, y: 46.5}
+        - {x: 48.5, y: 46.5}
+        - {x: 54.5, y: 33.5}
+        - {x: 54.5, y: -26.5}
+        - {x: 43.5, y: -46.5}
+        - {x: -40.5, y: -46.5}
+      physicsShape:
+      - - {x: 54.5, y: 12.5}
+        - {x: 53.5, y: 17.5}
+        - {x: 44.5, y: 28.5}
+        - {x: 42.5, y: 39.49999}
+        - {x: 39.5, y: 46.5}
+        - {x: 16.5, y: 46.5}
+        - {x: 7.5, y: 42.5}
+        - {x: -2.5, y: 46.5}
+        - {x: -40.5, y: 46.5}
+        - {x: -43.5, y: 42.5}
+        - {x: -54.5, y: 23.5}
+        - {x: -54.5, y: -18.5}
+        - {x: -49.5, y: -27.5}
+        - {x: -38.5, y: -37.5}
+        - {x: -27.5, y: -43.5}
+        - {x: -19.5, y: -46.5}
+        - {x: 18.5, y: -46.5}
+        - {x: 33.5, y: -40.5}
+        - {x: 44.5, y: -33.5}
+        - {x: 54.5, y: -16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6732b0887304a13bc1e51d0063df061
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meal_Deadly
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1173
+        width: 107
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.5, y: -39.5}
+        - {x: -53.5, y: -39.5}
+        - {x: -53.5, y: 28.5}
+        - {x: -12.5, y: 39.5}
+        - {x: 10.5, y: 39.5}
+        - {x: 53.5, y: 24.5}
+        - {x: 53.5, y: -21.5}
+        - {x: 49.5, y: -35.5}
+      physicsShape:
+      - - {x: 52.5, y: 20.5}
+        - {x: 42.5, y: 24.5}
+        - {x: 19.5, y: 31.5}
+        - {x: 6.5, y: 39.5}
+        - {x: -9.5, y: 39.5}
+        - {x: -30.5, y: 28.5}
+        - {x: -53.5, y: 20.5}
+        - {x: -53.5, y: -16.5}
+        - {x: -45.5, y: -29.5}
+        - {x: -23.5, y: -39.5}
+        - {x: 26.5, y: -39.5}
+        - {x: 34.5, y: -38.5}
+        - {x: 53.5, y: -15.5}
+        - {x: 53.5, y: 18.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44797d5b8b0842f196d6b7005ffec9f0
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TunicTalisman_Small_Piece1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 477
+        width: 102
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: -63}
+        - {x: -51, y: 63}
+        - {x: 51, y: 63}
+        - {x: 51, y: -63}
+      physicsShape:
+      - - {x: 43, y: 2}
+        - {x: 46, y: 8}
+        - {x: 48, y: 33}
+        - {x: 42, y: 48}
+        - {x: 31, y: 42.99999}
+        - {x: 21, y: 35.99999}
+        - {x: 13, y: 50}
+        - {x: 1, y: 63}
+        - {x: -6, y: 63}
+        - {x: -12, y: 57.99999}
+        - {x: -25, y: 38}
+        - {x: -39, y: 48}
+        - {x: -50, y: 43.99999}
+        - {x: -50, y: 32}
+        - {x: -49, y: 9}
+        - {x: -51, y: -1}
+        - {x: -51, y: -17}
+        - {x: -13, y: -56}
+        - {x: -4, y: -63}
+        - {x: 3, y: -63}
+        - {x: 48, y: -24}
+        - {x: 51, y: -21}
+        - {x: 51, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f8fc5341b84eaab4e7fd085113c03c
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acorn
+      rect:
+        serializedVersion: 2
+        x: 394.0761
+        y: 1327.043
+        width: 66.89713
+        height: 75.88097
+      alignment: 9
+      pivot: {x: 0.5071052, y: -0.1323508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.475315, y: -37.98339}
+        - {x: -33.52468, y: -37.98339}
+        - {x: -33.52468, y: 10.01661}
+        - {x: -13.52468, y: 38.01661}
+        - {x: 33.47532, y: 38.01661}
+        - {x: 33.47532, y: -20.98339}
+      physicsShape:
+      - - {x: 32.47532, y: 5.016602}
+        - {x: 27.47531, y: 20.01661}
+        - {x: 32.47532, y: 23.01661}
+        - {x: 32.47532, y: 34.01661}
+        - {x: 31.47532, y: 38.0166}
+        - {x: 19.47532, y: 38.0166}
+        - {x: -7.524685, y: 33.01661}
+        - {x: -15.52468, y: 28.01661}
+        - {x: -25.52468, y: 18.01661}
+        - {x: -33.52468, y: -0.9833946}
+        - {x: -33.52468, y: -28.98339}
+        - {x: -27.52468, y: -35.98339}
+        - {x: -21.52468, y: -36.98339}
+        - {x: -7.524685, y: -36.98339}
+        - {x: 6.475315, y: -30.98339}
+        - {x: 20.47531, y: -20.9834}
+        - {x: 32.47532, y: -7.983398}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8701b21cd94d5b981cf1f848471783
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meal_Great_Mixed
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 716
+        width: 111
+        height: 110
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: -53}
+        - {x: -55.5, y: -31}
+        - {x: -55.5, y: 34}
+        - {x: -54.5, y: 47}
+        - {x: -43.5, y: 55}
+        - {x: 34.5, y: 55}
+        - {x: 42.5, y: 53.00001}
+        - {x: 55.5, y: 36}
+        - {x: 55.5, y: -43}
+        - {x: 36.5, y: -55}
+        - {x: -29.5, y: -55}
+      physicsShape:
+      - - {x: 55.5, y: 23}
+        - {x: 53.5, y: 27}
+        - {x: 31.5, y: 55}
+        - {x: 0.5, y: 55}
+        - {x: -9.5, y: 51.99999}
+        - {x: -16.5, y: 55}
+        - {x: -29.5, y: 55}
+        - {x: -36.5, y: 52.99999}
+        - {x: -47.5, y: 48}
+        - {x: -48.5, y: 38}
+        - {x: -55.5, y: 23}
+        - {x: -55.5, y: -22}
+        - {x: -54.5, y: -27}
+        - {x: -49.5, y: -34}
+        - {x: -41.5, y: -43}
+        - {x: -29.5, y: -50}
+        - {x: -20.5, y: -55}
+        - {x: 20.5, y: -55}
+        - {x: 26.5, y: -53}
+        - {x: 36.5, y: -48}
+        - {x: 55.5, y: -27}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5aa596bbf6411c9282cf358b93baea
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnowledgeScrollBlue
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 293
+        width: 85
+        height: 123
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: -61.5}
+        - {x: -42.5, y: 14.5}
+        - {x: -42.5, y: 54.5}
+        - {x: -30.5, y: 61.5}
+        - {x: 21.5, y: 61.5}
+        - {x: 24.5, y: 53.5}
+        - {x: 42.5, y: -29.5}
+        - {x: 42.5, y: -57.5}
+        - {x: 37.5, y: -61.5}
+      physicsShape:
+      - - {x: 42.5, y: -53.5}
+        - {x: 42.5, y: -39.5}
+        - {x: 29.5, y: -1.500004}
+        - {x: 26.5, y: 15.5}
+        - {x: 24.5, y: 52.5}
+        - {x: 21.5, y: 60.5}
+        - {x: 3.5, y: 61.5}
+        - {x: -30.5, y: 61.5}
+        - {x: -42.5, y: 51.5}
+        - {x: -42.5, y: 36.49999}
+        - {x: -40.5, y: 29.5}
+        - {x: -35.5, y: 17.5}
+        - {x: -28.5, y: -14.5}
+        - {x: -29.5, y: -28.5}
+        - {x: -27.5, y: -45.5}
+        - {x: -26.5, y: -57.5}
+        - {x: -19.5, y: -61.5}
+        - {x: -4.5, y: -61.5}
+        - {x: 2.5, y: -60.5}
+        - {x: 4.5, y: -61.5}
+        - {x: 21.5, y: -61.5}
+        - {x: 25.5, y: -54.5}
+        - {x: 29.5, y: -56.5}
+        - {x: 41.5, y: -54.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513211767af4463090e3d631844a359c
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeedMushroom
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1185
+        width: 96
+        height: 73
+      alignment: 9
+      pivot: {x: 0.4974673, y: 0.1558373}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -36.5}
+        - {x: -48, y: -12.5}
+        - {x: -48, y: 28.5}
+        - {x: -24, y: 36.5}
+        - {x: 38, y: 36.5}
+        - {x: 37, y: 9.5}
+        - {x: 36, y: 8.5}
+        - {x: 45, y: 10.5}
+        - {x: 48, y: 3.500002}
+        - {x: 48, y: -32.5}
+        - {x: 46, y: -36.5}
+      physicsShape:
+      - - {x: 35, y: -8.5}
+        - {x: 42, y: 16.5}
+        - {x: 21, y: 36.5}
+        - {x: -14, y: 36.5}
+        - {x: -34, y: -1.5}
+        - {x: -34, y: -6.500002}
+        - {x: -23, y: -9.5}
+        - {x: -20, y: -10.5}
+        - {x: -11, y: -10.5}
+        - {x: -9, y: -8.5}
+        - {x: -7, y: -4.5}
+        - {x: -7, y: -0.5}
+        - {x: 0, y: -0.5}
+        - {x: -8, y: -6.500002}
+        - {x: -9, y: -10.5}
+        - {x: -22, y: -10.5}
+        - {x: -28, y: -11.5}
+        - {x: -34, y: -15.5}
+        - {x: -34, y: -27.5}
+        - {x: -31, y: -36.5}
+        - {x: 41, y: -36.5}
+        - {x: 48, y: -34.5}
+        - {x: 48, y: -14.5}
+        - {x: 39, y: -7.5}
+      - - {x: -43, y: 6.499998}
+        - {x: -48, y: 4.5}
+        - {x: -48, y: -8.5}
+        - {x: -44, y: -12.5}
+        - {x: -32, y: -12.5}
+        - {x: -29, y: -8.5}
+        - {x: -29, y: 1.5}
+        - {x: -33, y: 6.499998}
+      - - {x: 35, y: 7.5}
+        - {x: 31, y: 3.499998}
+        - {x: 31, y: -6.500002}
+        - {x: 34, y: -8.5}
+        - {x: 45, y: -8.5}
+        - {x: 47, y: -6.500002}
+        - {x: 47, y: -0.5}
+        - {x: 45, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d16583401bd47d397793dc90229ecfc
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_Octopus
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 136
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68, y: -69.5}
+        - {x: -68, y: 69.5}
+        - {x: 68, y: 69.5}
+        - {x: 68, y: -69.5}
+      physicsShape:
+      - - {x: 45, y: -66.5}
+        - {x: 66, y: -51.5}
+        - {x: 68, y: -43.5}
+        - {x: 68, y: -32.5}
+        - {x: 63, y: -30.5}
+        - {x: 66, y: -15.5}
+        - {x: 66, y: 5.5}
+        - {x: 55, y: 18.5}
+        - {x: 48, y: 14.5}
+        - {x: 48, y: -2.500008}
+        - {x: 38, y: -20.5}
+        - {x: 32, y: -20.5}
+        - {x: 40, y: -12.5}
+        - {x: 45, y: -0.5}
+        - {x: 47, y: 9.5}
+        - {x: 45, y: 21.5}
+        - {x: 37, y: 39.5}
+        - {x: 6, y: 69.5}
+        - {x: -15, y: 69.5}
+        - {x: -43, y: 43.5}
+        - {x: -49, y: 34.5}
+        - {x: -57, y: 19.5}
+        - {x: -58, y: 3.499992}
+        - {x: -56, y: -4.5}
+        - {x: -50, y: -16.5}
+        - {x: -38, y: -27.5}
+        - {x: -43, y: -27.5}
+        - {x: -51, y: -16.5}
+        - {x: -59, y: 1.5}
+        - {x: -64, y: 1.5}
+        - {x: -68, y: -1.5}
+        - {x: -68, y: -25.5}
+        - {x: -66.99999, y: -29.5}
+        - {x: -64, y: -54.5}
+        - {x: -57, y: -63.5}
+        - {x: -43, y: -69.5}
+        - {x: -12, y: -69.5}
+        - {x: 8, y: -63.5}
+        - {x: 21, y: -66.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3484c610278f45c5b7269ded546b9ad9
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GiftMedium
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 830
+        width: 121
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5020463, y: 0.1614509}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.5, y: -22}
+        - {x: -60.5, y: -17}
+        - {x: -60.5, y: 28}
+        - {x: -37.5, y: 49}
+        - {x: 26.5, y: 49}
+        - {x: 60.5, y: 14}
+        - {x: 60.5, y: -41}
+        - {x: 52.5, y: -49}
+        - {x: -27.5, y: -49}
+        - {x: -40.5, y: -42}
+      physicsShape:
+      - - {x: 60.5, y: -13}
+        - {x: 57.5, y: -9}
+        - {x: 57.5, y: 3}
+        - {x: 50.5, y: 19}
+        - {x: 40.5, y: 24}
+        - {x: 30.5, y: 27}
+        - {x: 28.5, y: 43}
+        - {x: 19.5, y: 49}
+        - {x: -30.5, y: 49}
+        - {x: -39.5, y: 42}
+        - {x: -41.5, y: 30}
+        - {x: -51.5, y: 28}
+        - {x: -57.5, y: 24}
+        - {x: -60.5, y: 14}
+        - {x: -60.5, y: -6}
+        - {x: -56.5, y: -20}
+        - {x: -45.5, y: -37}
+        - {x: -27.5, y: -46}
+        - {x: -22.5, y: -48}
+        - {x: -1.5, y: -48}
+        - {x: 5.5, y: -49}
+        - {x: 22.5, y: -49}
+        - {x: 26.5, y: -46}
+        - {x: 55.5, y: -45}
+        - {x: 60.5, y: -28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb791285cd345cc90c504740ed184b4
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StoneRefined
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 805
+        width: 117
+        height: 99
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: -49.5}
+        - {x: -58.5, y: -36.5}
+        - {x: -58.5, y: 3.499996}
+        - {x: -41.5, y: 34.5}
+        - {x: -5.5, y: 49.5}
+        - {x: 24.5, y: 49.5}
+        - {x: 58.5, y: 34.5}
+        - {x: 58.5, y: -33.5}
+        - {x: -0.5, y: -49.5}
+      physicsShape:
+      - - {x: 56.5, y: 33.5}
+        - {x: 47.5, y: 38.5}
+        - {x: 12.5, y: 49.49999}
+        - {x: 0.5, y: 49.49999}
+        - {x: -17.5, y: 43.5}
+        - {x: -35.5, y: 36.49999}
+        - {x: -40.5, y: 31.5}
+        - {x: -42.5, y: 22.5}
+        - {x: -40.5, y: 8.5}
+        - {x: -54.5, y: 0.5}
+        - {x: -58.5, y: -1.5}
+        - {x: -58.5, y: -25.5}
+        - {x: -57.5, y: -30.5}
+        - {x: -54.5, y: -35.5}
+        - {x: -45.5, y: -41.5}
+        - {x: -20.5, y: -49.5}
+        - {x: -3.5, y: -49.5}
+        - {x: 30.5, y: -40.5}
+        - {x: 58.5, y: -30.5}
+        - {x: 58.5, y: 29.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02226b3f202a49c9bd9d1807673bd92b
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass2 - Copy
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1065
+        width: 81
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: -41}
+        - {x: -40.5, y: -37}
+        - {x: -40.5, y: 41}
+        - {x: 17.5, y: 41}
+        - {x: 40.5, y: 33}
+        - {x: 40.5, y: -37}
+        - {x: 35.5, y: -41}
+      physicsShape:
+      - - {x: 30.5, y: -18}
+        - {x: 40.5, y: -9.999999}
+        - {x: 40.5, y: 15}
+        - {x: 34.5, y: 13}
+        - {x: 19.5, y: 3}
+        - {x: 19.5, y: 16}
+        - {x: 15.5, y: 25}
+        - {x: 10.5, y: 33}
+        - {x: 2.5, y: 40}
+        - {x: 0.5, y: 41}
+        - {x: -8.5, y: 41}
+        - {x: -11.5, y: 35}
+        - {x: -2.5, y: 14}
+        - {x: -7.5, y: 15}
+        - {x: -18.5, y: 37}
+        - {x: -26.5, y: 40}
+        - {x: -31.5, y: 33}
+        - {x: -40.5, y: 8}
+        - {x: -40.5, y: -16}
+        - {x: -35.5, y: -32}
+        - {x: -33.5, y: -41}
+        - {x: -22.5, y: -38}
+        - {x: -8.5, y: -41}
+        - {x: 29.5, y: -41}
+        - {x: 40.5, y: -31}
+        - {x: 40.5, y: -20}
+      - - {x: -23.5, y: 4}
+        - {x: -25.5, y: 6}
+        - {x: -22.5, y: -7}
+        - {x: -21.5, y: -5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5610eb43529a46199993d28a5a2bd9e7
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeedRedFlower
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1500
+        width: 97
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4991227, y: 0.338303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.5, y: -29}
+        - {x: 24.5, y: -35}
+        - {x: -24.5, y: -35}
+        - {x: -48.5, y: -25}
+        - {x: -48.5, y: 11}
+        - {x: -1.5, y: 35}
+        - {x: 31.5, y: 35}
+        - {x: 45.5, y: 33}
+        - {x: 48.5, y: 24}
+        - {x: 48.5, y: -6}
+        - {x: 42.5, y: -20}
+        - {x: 35.5, y: -16}
+        - {x: 28.5, y: -16}
+        - {x: 35.5, y: -20}
+      physicsShape:
+      - - {x: -1.5, y: -9}
+        - {x: -10.5, y: -16}
+        - {x: -10.5, y: -29}
+        - {x: -8.5, y: -35}
+        - {x: 31.5, y: -35}
+        - {x: 34.5, y: -29}
+        - {x: 34.5, y: -20}
+        - {x: 23.5, y: -9}
+      - - {x: 40.5, y: -16}
+        - {x: 48.5, y: -4}
+        - {x: 48.5, y: 23}
+        - {x: 44.5, y: 28}
+        - {x: 27.5, y: 35}
+        - {x: 8.499999, y: 35}
+        - {x: 4.5, y: 34}
+        - {x: 2.5, y: 14}
+        - {x: -7.5, y: 11}
+        - {x: -20.5, y: 17}
+        - {x: -39.5, y: 13}
+        - {x: -48.5, y: 2}
+        - {x: -48.5, y: -17}
+        - {x: -41.5, y: -20}
+        - {x: -20.5, y: -20}
+        - {x: -13.5, y: -19}
+        - {x: 3.5, y: -9}
+        - {x: 16.5, y: -12}
+        - {x: 26.5, y: -17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adf58d03fcc41fcac9e1b499785b5e8
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldRefined
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 0
+        width: 129
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: -43.5}
+        - {x: -64.5, y: -30.5}
+        - {x: -64.5, y: 1.5}
+        - {x: -62.5, y: 9.499996}
+        - {x: -16.5, y: 43.5}
+        - {x: 45.5, y: 43.5}
+        - {x: 64.5, y: 7.5}
+        - {x: 64.5, y: -42.5}
+        - {x: 58.5, y: -43.5}
+      physicsShape:
+      - - {x: 61.5, y: -3.500004}
+        - {x: 55.5, y: 4.5}
+        - {x: 43.5, y: 7.5}
+        - {x: 42.5, y: 13.5}
+        - {x: 38.5, y: 28.5}
+        - {x: 35.5, y: 31.5}
+        - {x: 20.5, y: 37.5}
+        - {x: 2.5, y: 43.5}
+        - {x: -7.5, y: 43.5}
+        - {x: -28.5, y: 29.49999}
+        - {x: -51.5, y: 13.5}
+        - {x: -61.5, y: 6.5}
+        - {x: -64.5, y: -7.5}
+        - {x: -64.5, y: -24.5}
+        - {x: -47.5, y: -33.5}
+        - {x: -24.5, y: -43.5}
+        - {x: -16.5, y: -41.5}
+        - {x: 16.5, y: -43.5}
+        - {x: 32.5, y: -43.5}
+        - {x: 53.5, y: -34.5}
+        - {x: 64.5, y: -26.5}
+        - {x: 64.5, y: -15.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70be568d5514a82b2054cfbe787f5c2
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meat_Morsel
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 809
+        width: 115
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.5, y: -38.5}
+        - {x: -57.5, y: -38.5}
+        - {x: -57.5, y: 16.5}
+        - {x: -54.5, y: 20.5}
+        - {x: 5.5, y: 38.5}
+        - {x: 57.5, y: 38.5}
+        - {x: 57.5, y: -23.5}
+      physicsShape:
+      - - {x: 23.5, y: -27.5}
+        - {x: 37.5, y: -15.5}
+        - {x: 37.5, y: -5.5}
+        - {x: 47.5, y: -9.5}
+        - {x: 57.5, y: -3.5}
+        - {x: 57.5, y: 13.5}
+        - {x: 51.5, y: 20.5}
+        - {x: 51.5, y: 35.5}
+        - {x: 47.5, y: 38.5}
+        - {x: 30.5, y: 38.5}
+        - {x: 24.5, y: 34.49999}
+        - {x: 11.5, y: 33.5}
+        - {x: -19.5, y: 27.5}
+        - {x: -30.5, y: 16.5}
+        - {x: -54.5, y: 8.5}
+        - {x: -57.5, y: 1.499996}
+        - {x: -57.5, y: -14.5}
+        - {x: -50.5, y: -23.5}
+        - {x: -51.5, y: -31.5}
+        - {x: -43.5, y: -38.5}
+        - {x: -29.5, y: -38.5}
+        - {x: -23.5, y: -35.5}
+        - {x: -11.5, y: -35.5}
+        - {x: 5.5, y: -32.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d9c7d249f34b47971a1b03de67f816
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meal_Follower_Meat
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 494
+        width: 109
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.5, y: -42}
+        - {x: -54.5, y: -33}
+        - {x: -54.5, y: 38}
+        - {x: -40.5, y: 42}
+        - {x: 48.5, y: 42}
+        - {x: 54.5, y: 34}
+        - {x: 54.5, y: -38}
+        - {x: 36.5, y: -42}
+      physicsShape:
+      - - {x: 54.5, y: 19}
+        - {x: 50.5, y: 24.99999}
+        - {x: 41.5, y: 28}
+        - {x: 28.5, y: 42}
+        - {x: 3.5, y: 42}
+        - {x: -4.5, y: 32}
+        - {x: -14.5, y: 35}
+        - {x: -28.5, y: 36}
+        - {x: -50.5, y: 24}
+        - {x: -54.5, y: 17}
+        - {x: -54.5, y: -12}
+        - {x: -50.5, y: -24}
+        - {x: -38.5, y: -35}
+        - {x: -22.5, y: -42}
+        - {x: 21.5, y: -42}
+        - {x: 31.5, y: -39}
+        - {x: 45.5, y: -31}
+        - {x: 54.5, y: -17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793c1fa96ccd4474a70c491d1068ee8a
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1118
+        width: 79
+        height: 96
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: -48}
+        - {x: -39.5, y: -48}
+        - {x: -39.5, y: 40}
+        - {x: -12.5, y: 48}
+        - {x: 39.5, y: 48}
+        - {x: 39.5, y: -4}
+        - {x: 36.5, y: -21}
+      physicsShape:
+      - - {x: 21.5, y: 18.99999}
+        - {x: 33.5, y: 24}
+        - {x: 39.5, y: 27}
+        - {x: 39.5, y: 40}
+        - {x: 33.5, y: 46}
+        - {x: 30.5, y: 48}
+        - {x: 14.5, y: 48}
+        - {x: -3.5, y: 45}
+        - {x: -17.5, y: 34}
+        - {x: -27.5, y: 35}
+        - {x: -34.5, y: 31.99999}
+        - {x: -39.5, y: 24.99999}
+        - {x: -39.5, y: 17}
+        - {x: -36.5, y: 13}
+        - {x: -39.5, y: -7}
+        - {x: -39.5, y: -38}
+        - {x: -33.5, y: -48}
+        - {x: 0.5, y: -48}
+        - {x: 21.5, y: -31}
+        - {x: 28.5, y: -13}
+        - {x: 27.5, y: 7}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180553e0de9a4f1e9ba373996cbe6e5c
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meal_Meat - Copy
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 420
+        width: 110
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: -46.5}
+        - {x: -55, y: -26.5}
+        - {x: -55, y: 35.5}
+        - {x: -17, y: 46.5}
+        - {x: 46, y: 46.5}
+        - {x: 55, y: 16.5}
+        - {x: 55, y: -28.5}
+        - {x: 35, y: -46.5}
+      physicsShape:
+      - - {x: 55, y: 5.5}
+        - {x: 54, y: 11.5}
+        - {x: 46, y: 26.5}
+        - {x: 33, y: 44.5}
+        - {x: 31, y: 46.5}
+        - {x: 5, y: 46.5}
+        - {x: -4, y: 38.5}
+        - {x: -27, y: 42.5}
+        - {x: -41, y: 32.5}
+        - {x: -55, y: 13.5}
+        - {x: -55, y: -16.5}
+        - {x: -44, y: -34.5}
+        - {x: -39, y: -38.5}
+        - {x: -21, y: -46.5}
+        - {x: 19, y: -46.5}
+        - {x: 34, y: -40.5}
+        - {x: 45, y: -33.5}
+        - {x: 55, y: -16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1020a064c71745ec8bb9174d49156904
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rope
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 582
+        width: 133
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60.5, y: -34}
+        - {x: -66.5, y: -29}
+        - {x: -66.5, y: 6}
+        - {x: -46.5, y: 34}
+        - {x: 49.5, y: 34}
+        - {x: 65.5, y: 24}
+        - {x: 66.5, y: 16}
+        - {x: 66.5, y: -24}
+        - {x: 54.5, y: -32}
+        - {x: 33.5, y: -34}
+      physicsShape:
+      - - {x: 54.5, y: -29}
+        - {x: 66.5, y: -21}
+        - {x: 66.5, y: 11}
+        - {x: 58.5, y: 26}
+        - {x: 50.5, y: 34}
+        - {x: -39.5, y: 34}
+        - {x: -49.5, y: 27}
+        - {x: -47.5, y: -6}
+        - {x: -51.5, y: -3}
+        - {x: -58.5, y: -1}
+        - {x: -63.5, y: -7.000002}
+        - {x: -66.5, y: -14}
+        - {x: -66.5, y: -21}
+        - {x: -63.5, y: -25}
+        - {x: -58.5, y: -31}
+        - {x: -37.5, y: -34}
+        - {x: 11.5, y: -34}
+        - {x: 29.5, y: -32}
+        - {x: 31.5, y: -28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a9f6e6a3294a85a9d1f93ee2adecfa
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklace_2
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1290
+        width: 68
+        height: 84
+      alignment: 9
+      pivot: {x: 0.493417, y: 0.3840927}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: -40}
+        - {x: -34, y: -26}
+        - {x: -34, y: 35}
+        - {x: -29, y: 42}
+        - {x: 24, y: 42}
+        - {x: 34, y: 35}
+        - {x: 34, y: -33}
+        - {x: 13, y: -42}
+        - {x: -16, y: -42}
+      physicsShape:
+      - - {x: 34, y: -26}
+        - {x: 34, y: -14}
+        - {x: 33, y: -6}
+        - {x: 34, y: -2}
+        - {x: 34, y: 33}
+        - {x: 20, y: 42}
+        - {x: -23, y: 42}
+        - {x: -31, y: 36}
+        - {x: -34, y: 30}
+        - {x: -34, y: 5}
+        - {x: -30, y: -24}
+        - {x: -25, y: -29}
+        - {x: -21, y: -30}
+        - {x: -10, y: -29}
+        - {x: -3, y: -40}
+        - {x: 1, y: -41}
+        - {x: 6, y: -41}
+        - {x: 11, y: -37}
+        - {x: 16, y: -24}
+        - {x: 22, y: -33}
+      - - {x: -12, y: 15}
+        - {x: -17, y: 22}
+        - {x: -12, y: 25}
+        - {x: -8, y: 27}
+        - {x: 4, y: 27}
+        - {x: 5, y: 26}
+        - {x: 13, y: 25}
+        - {x: 16, y: 18}
+        - {x: 8, y: 13}
+        - {x: -4, y: 13}
+        - {x: -5, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d356c265d8ee40b693bae20a318c32e4
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1658
+        width: 83
+        height: 80
+      alignment: 9
+      pivot: {x: 0.491421, y: 0.1410028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: -40}
+        - {x: -41.5, y: -38}
+        - {x: -41.5, y: 32}
+        - {x: -37.5, y: 40}
+        - {x: 38.5, y: 40}
+        - {x: 41.5, y: 29}
+        - {x: 41.5, y: -40}
+      physicsShape:
+      - - {x: 41.5, y: 2.999998}
+        - {x: 34.5, y: 5}
+        - {x: 35.5, y: 28}
+        - {x: 31.5, y: 32}
+        - {x: 23.5, y: 31}
+        - {x: 19.5, y: 25}
+        - {x: 16.5, y: 21}
+        - {x: 17.5, y: 26}
+        - {x: 17.5, y: 39}
+        - {x: 16.5, y: 40}
+        - {x: 6.5, y: 40}
+        - {x: 2.5, y: 38}
+        - {x: -6.5, y: 22}
+        - {x: -11.5, y: 34}
+        - {x: -22.5, y: 40}
+        - {x: -24.5, y: 40}
+        - {x: -28.5, y: 33}
+        - {x: -26.5, y: 22}
+        - {x: -25.5, y: 2.999998}
+        - {x: -34.5, y: 13}
+        - {x: -41.5, y: 11}
+        - {x: -41.5, y: -5.000002}
+        - {x: -33.5, y: -24}
+        - {x: -36.5, y: -31}
+        - {x: -28.5, y: -40}
+        - {x: 33.5, y: -40}
+        - {x: 37.5, y: -35}
+        - {x: 41.5, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2746840ca7047c4a82dbc4f11f22ba7
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeedWhiteFlower
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1262
+        width: 97
+        height: 70
+      alignment: 9
+      pivot: {x: 0.4982454, y: 0.283415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: -35}
+        - {x: -11.5, y: -35}
+        - {x: -18.5, y: -33}
+        - {x: -41.5, y: -28}
+        - {x: -48.5, y: -19}
+        - {x: -48.5, y: 11}
+        - {x: -21.5, y: 35}
+        - {x: 34.5, y: 35}
+        - {x: 48.5, y: 27}
+        - {x: 48.5, y: -5}
+        - {x: 42.5, y: -20}
+        - {x: 35.5, y: -16}
+        - {x: 28.5, y: -16}
+        - {x: 35.5, y: -20}
+        - {x: 33.5, y: -29}
+      physicsShape:
+      - - {x: -1.5, y: -9}
+        - {x: -10.5, y: -16}
+        - {x: -10.5, y: -29}
+        - {x: -8.5, y: -35}
+        - {x: 31.5, y: -35}
+        - {x: 34.5, y: -29}
+        - {x: 34.5, y: -20}
+        - {x: 23.5, y: -9}
+      - - {x: 35.5, y: -19}
+        - {x: 48.5, y: -6}
+        - {x: 48.5, y: 23}
+        - {x: 44.5, y: 28}
+        - {x: 27.5, y: 35}
+        - {x: 8.499999, y: 35}
+        - {x: 4.5, y: 34}
+        - {x: 2.5, y: 14}
+        - {x: -7.5, y: 11}
+        - {x: -20.5, y: 17}
+        - {x: -39.5, y: 13}
+        - {x: -48.5, y: 1.999998}
+        - {x: -48.5, y: -15}
+        - {x: -38.5, y: -20}
+        - {x: -16.5, y: -20}
+        - {x: -13.5, y: -19}
+        - {x: 0.5, y: -5}
+        - {x: 7.5, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06471d8222d41c3a86e26c0a2e4a8c6
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BeholderEye
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 477
+        width: 123
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.5, y: -50.5}
+        - {x: -61.5, y: -29.5}
+        - {x: -61.5, y: 31.5}
+        - {x: -41.5, y: 50.5}
+        - {x: 32.5, y: 50.5}
+        - {x: 61.5, y: 21.5}
+        - {x: 61.5, y: -49.5}
+        - {x: 60.5, y: -50.5}
+      physicsShape:
+      - - {x: 59.5, y: -34.5}
+        - {x: 61.5, y: -31.5}
+        - {x: 61.5, y: -16.5}
+        - {x: 57.5, y: -4.500004}
+        - {x: 46.5, y: 4.5}
+        - {x: 39.5, y: 8.499996}
+        - {x: 39.5, y: 16.49999}
+        - {x: 32.5, y: 37.5}
+        - {x: 26.5, y: 42.5}
+        - {x: 17.5, y: 47.49999}
+        - {x: 7.5, y: 50.5}
+        - {x: -25.5, y: 50.5}
+        - {x: -46.5, y: 39.5}
+        - {x: -60.5, y: 23.5}
+        - {x: -61.5, y: 18.5}
+        - {x: -61.5, y: -21.5}
+        - {x: -57.5, y: -28.5}
+        - {x: -45.5, y: -40.5}
+        - {x: -29.5, y: -50.5}
+        - {x: -7.5, y: -50.5}
+        - {x: 9.5, y: -48.5}
+        - {x: 25.5, y: -38.5}
+        - {x: 32.5, y: -41.5}
+        - {x: 47.5, y: -31.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6899fd06914152b8dcd80f56ccff60
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1458
+        width: 62
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: -38}
+        - {x: -31, y: -10}
+        - {x: -31, y: 25}
+        - {x: -23, y: 38}
+        - {x: 20, y: 38}
+        - {x: 31, y: 21}
+        - {x: 31, y: -35}
+        - {x: 23, y: -38}
+      physicsShape:
+      - - {x: 31, y: 4}
+        - {x: 31, y: 14}
+        - {x: 28, y: 20}
+        - {x: 19, y: 33}
+        - {x: 9.999999, y: 38}
+        - {x: -16, y: 38}
+        - {x: -24, y: 30}
+        - {x: -31, y: 20}
+        - {x: -31, y: -4}
+        - {x: -25, y: -15}
+        - {x: 2, y: -38}
+        - {x: 21, y: -38}
+        - {x: 30, y: -33}
+        - {x: 24, y: -11}
+        - {x: 28, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e01304a10c74479954e7b5d5f3fec91
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeedMushroom - Copy
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1507
+        width: 96
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -36.5}
+        - {x: -48, y: -12.5}
+        - {x: -48, y: 28.5}
+        - {x: -24, y: 36.5}
+        - {x: 38, y: 36.5}
+        - {x: 37, y: 9.5}
+        - {x: 36, y: 8.5}
+        - {x: 45, y: 10.5}
+        - {x: 48, y: 3.5}
+        - {x: 48, y: -32.5}
+        - {x: 46, y: -36.5}
+      physicsShape:
+      - - {x: 35, y: -8.5}
+        - {x: 42, y: 16.5}
+        - {x: 21, y: 36.5}
+        - {x: -14, y: 36.5}
+        - {x: -34, y: -1.5}
+        - {x: -34, y: -6.5}
+        - {x: -23, y: -9.5}
+        - {x: -20, y: -10.5}
+        - {x: -11, y: -10.5}
+        - {x: -9, y: -8.5}
+        - {x: -7, y: -4.5}
+        - {x: -7, y: -0.5}
+        - {x: 0, y: -0.5}
+        - {x: -8, y: -6.5}
+        - {x: -9, y: -10.5}
+        - {x: -22, y: -10.5}
+        - {x: -28, y: -11.5}
+        - {x: -34, y: -15.5}
+        - {x: -34, y: -27.5}
+        - {x: -31, y: -36.5}
+        - {x: 41, y: -36.5}
+        - {x: 48, y: -34.5}
+        - {x: 48, y: -14.5}
+        - {x: 39, y: -7.5}
+      - - {x: -43, y: 6.5}
+        - {x: -48, y: 4.5}
+        - {x: -48, y: -8.5}
+        - {x: -44, y: -12.5}
+        - {x: -32, y: -12.5}
+        - {x: -29, y: -8.5}
+        - {x: -29, y: 1.5}
+        - {x: -33, y: 6.5}
+      - - {x: 35, y: 7.5}
+        - {x: 31, y: 3.5}
+        - {x: 31, y: -6.5}
+        - {x: 34, y: -8.5}
+        - {x: 45, y: -8.5}
+        - {x: 47, y: -6.5}
+        - {x: 47, y: -0.5}
+        - {x: 45, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd78fae723e42fca458f7d045cd70cb
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meal_Rotten
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 908
+        width: 107
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.5, y: -39.5}
+        - {x: -53.5, y: -26.5}
+        - {x: -53.5, y: 18.5}
+        - {x: -49.5, y: 22.5}
+        - {x: -21.5, y: 39.5}
+        - {x: 15.5, y: 39.5}
+        - {x: 53.5, y: 24.5}
+        - {x: 53.5, y: -32.5}
+        - {x: 34.5, y: -39.5}
+      physicsShape:
+      - - {x: 53.5, y: 17.5}
+        - {x: 47.5, y: 22.5}
+        - {x: 42.5, y: 24.5}
+        - {x: 19.5, y: 31.5}
+        - {x: 6.5, y: 39.5}
+        - {x: -9.5, y: 39.5}
+        - {x: -15.5, y: 29.5}
+        - {x: -30.5, y: 28.5}
+        - {x: -53.5, y: 21.5}
+        - {x: -53.5, y: -16.5}
+        - {x: -44.5, y: -28.5}
+        - {x: -37.5, y: -34.5}
+        - {x: -19.5, y: -39.5}
+        - {x: 20.5, y: -39.5}
+        - {x: 32.5, y: -35.5}
+        - {x: 51.5, y: -17.5}
+        - {x: 53.5, y: -12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858fcc819c5147fc87145a7048a7f558
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meal
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1256
+        width: 107
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: -39.5}
+        - {x: -53.5, y: -31.5}
+        - {x: -53.5, y: 31.5}
+        - {x: -30.5, y: 39.5}
+        - {x: 21.5, y: 39.5}
+        - {x: 53.5, y: 31.5}
+        - {x: 53.5, y: -26.5}
+        - {x: 35.5, y: -39.5}
+      physicsShape:
+      - - {x: 53.5, y: 17.5}
+        - {x: 50.5, y: 20.5}
+        - {x: 39.5, y: 26.5}
+        - {x: 20.5, y: 33.49999}
+        - {x: 9.5, y: 39.5}
+        - {x: -16.5, y: 39.5}
+        - {x: -33.5, y: 27.49999}
+        - {x: -52.5, y: 19.5}
+        - {x: -53.5, y: 18.5}
+        - {x: -53.5, y: -17.5}
+        - {x: -44.5, y: -28.5}
+        - {x: -37.5, y: -34.5}
+        - {x: -19.5, y: -39.5}
+        - {x: 15.5, y: -39.5}
+        - {x: 32.5, y: -35.5}
+        - {x: 51.5, y: -17.5}
+        - {x: 53.5, y: -12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcdc97c0d09448281cbc181d731a7b2
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1141
+        width: 101
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.5, y: -36.5}
+        - {x: -50.5, y: -36.5}
+        - {x: -50.5, y: 15.5}
+        - {x: -43.5, y: 27.5}
+        - {x: -5.5, y: 36.5}
+        - {x: 47.5, y: 36.5}
+        - {x: 50.5, y: 26.5}
+        - {x: 50.5, y: -27.5}
+      physicsShape:
+      - - {x: 50.5, y: -18.5}
+        - {x: 50.5, y: 17.5}
+        - {x: 43.5, y: 36.49999}
+        - {x: 17.5, y: 36.49999}
+        - {x: 11.5, y: 28.5}
+        - {x: 11.5, y: 21.5}
+        - {x: -16.5, y: 8.5}
+        - {x: -24.5, y: 18.5}
+        - {x: -36.5, y: 20.5}
+        - {x: -50.5, y: 12.5}
+        - {x: -50.5, y: -16.5}
+        - {x: -44.5, y: -30.5}
+        - {x: -38.5, y: -36.5}
+        - {x: -13.5, y: -36.5}
+        - {x: -10.5, y: -23.5}
+        - {x: 17.5, y: -10.5}
+        - {x: 27.5, y: -19.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e649e5241194e0491c797e91a25cbca
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Pumpkin
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 91
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.5, y: -52}
+        - {x: -45.5, y: -52}
+        - {x: -45.5, y: 12}
+        - {x: -34.5, y: 52}
+        - {x: 17.5, y: 52}
+        - {x: 45.5, y: 16}
+        - {x: 45.5, y: -47}
+      physicsShape:
+      - - {x: 25.5, y: 14}
+        - {x: 25.5, y: 24}
+        - {x: 23.5, y: 33}
+        - {x: 11.5, y: 52}
+        - {x: 3.5, y: 52}
+        - {x: -1.5, y: 50}
+        - {x: -3.5, y: 40}
+        - {x: -12.5, y: 46}
+        - {x: -21.5, y: 48}
+        - {x: -24.5, y: 37}
+        - {x: -18.5, y: 18}
+        - {x: -15.5, y: 14}
+        - {x: -18.5, y: 11}
+        - {x: -30.5, y: 9.999999}
+        - {x: -37.5, y: 4}
+        - {x: -45.5, y: -7}
+        - {x: -45.5, y: -30}
+        - {x: -42.5, y: -39}
+        - {x: -32.5, y: -49}
+        - {x: -28.5, y: -52}
+        - {x: 25.5, y: -52}
+        - {x: 35.5, y: -51}
+        - {x: 45.5, y: -36}
+        - {x: 45.5, y: -6}
+        - {x: 37.5, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a6122333bc48519b5e08bc3d83e2bd
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloodstone
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 0
+        width: 124
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1135266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: -22}
+        - {x: 59, y: -21}
+        - {x: 42, y: -44}
+        - {x: 39, y: -45}
+        - {x: -52, y: -45}
+        - {x: -62, y: -22}
+        - {x: -62, y: 25}
+        - {x: -34, y: 45}
+        - {x: 25, y: 45}
+        - {x: 35, y: 43}
+        - {x: 59, y: -13}
+        - {x: 59, y: -18}
+        - {x: 60, y: -17}
+        - {x: 62, y: -17}
+        - {x: 62, y: -22}
+      physicsShape:
+      - - {x: 20, y: -45}
+        - {x: 37, y: -38}
+        - {x: 45, y: -32}
+        - {x: 49, y: -27}
+        - {x: 49, y: -20}
+        - {x: 50, y: -9.000002}
+        - {x: 50, y: -3.000002}
+        - {x: 48, y: 9.999996}
+        - {x: 36, y: 33.99999}
+        - {x: 9.999999, y: 45}
+        - {x: -6, y: 45}
+        - {x: -20, y: 44}
+        - {x: -31, y: 37}
+        - {x: -41, y: 28}
+        - {x: -43, y: 20}
+        - {x: -61, y: 6}
+        - {x: -61, y: -12}
+        - {x: -58, y: -22}
+        - {x: -48, y: -37}
+        - {x: -40, y: -45}
+        - {x: -24, y: -45}
+        - {x: -21, y: -44}
+        - {x: -18, y: -45}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc943fcea2c4c9a9978934d3b5829d6
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Food
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1416
+        width: 104
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52, y: -28}
+        - {x: -52, y: -28}
+        - {x: -52, y: 14}
+        - {x: -19, y: 28}
+        - {x: 49, y: 28}
+        - {x: 52, y: 17}
+      physicsShape:
+      - - {x: 30, y: 28}
+        - {x: -11, y: 28}
+        - {x: -19, y: 23}
+        - {x: -30, y: 12}
+        - {x: -47, y: 7}
+        - {x: -51, y: 1.999998}
+        - {x: -52, y: -3}
+        - {x: -52, y: -22}
+        - {x: -45, y: -28}
+        - {x: 34, y: -28}
+        - {x: 52, y: -21}
+        - {x: 52, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9e7a14f2f245c9b4e5cd49769b47ba
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Poop
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 443
+        width: 119
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.1282051}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59.5, y: -50}
+        - {x: -59.5, y: -50}
+        - {x: -59.5, y: -10}
+        - {x: -49.5, y: 50}
+        - {x: 35.5, y: 50}
+        - {x: 50.5, y: 48}
+        - {x: 59.5, y: 35}
+      physicsShape:
+      - - {x: 59.5, y: -36}
+        - {x: 59.5, y: -16}
+        - {x: 45.5, y: -8}
+        - {x: 44.5, y: 3}
+        - {x: 33.5, y: 27}
+        - {x: 14.5, y: 29}
+        - {x: -0.5, y: 36}
+        - {x: 2.5, y: 49}
+        - {x: 0.5, y: 50}
+        - {x: -14.5, y: 50}
+        - {x: -23.5, y: 45}
+        - {x: -30.5, y: 43}
+        - {x: -34.5, y: 40.99999}
+        - {x: -37.5, y: 27.99999}
+        - {x: -37.5, y: 10}
+        - {x: -48.5, y: 11}
+        - {x: -50.5, y: 0}
+        - {x: -57.5, y: -3}
+        - {x: -55.5, y: -8}
+        - {x: -51.5, y: -15}
+        - {x: -59.5, y: -24}
+        - {x: -59.5, y: -46}
+        - {x: -54.5, y: -50}
+        - {x: 37.5, y: -50}
+        - {x: 53.5, y: -47}
+        - {x: 57.5, y: -43}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f9445f44b849d7add478e4bc0bbf19
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shell
+      rect:
+        serializedVersion: 2
+        x: 132.0363
+        y: 254.0429
+        width: 128.8813
+        height: 113.9142
+      alignment: 9
+      pivot: {x: 0.5077931, y: 0.07351843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.47694, y: -57}
+        - {x: -64.47694, y: -35}
+        - {x: -64.47694, y: 44}
+        - {x: -46.47694, y: 57}
+        - {x: 41.52306, y: 57}
+        - {x: 64.52307, y: -5}
+        - {x: 64.52307, y: -38}
+        - {x: 7.523064, y: -57}
+      physicsShape:
+      - - {x: 50.52306, y: -38}
+        - {x: 60.52306, y: -30}
+        - {x: 60.52306, y: -17}
+        - {x: 57.52306, y: 7.999996}
+        - {x: 53.52306, y: 20}
+        - {x: 42.52306, y: 36}
+        - {x: 21.52306, y: 52}
+        - {x: 5.523064, y: 57}
+        - {x: -18.47693, y: 57}
+        - {x: -36.47694, y: 49}
+        - {x: -49.47693, y: 34}
+        - {x: -58.47694, y: 21.99999}
+        - {x: -63.47694, y: 7}
+        - {x: -63.47694, y: -10}
+        - {x: -61.47693, y: -20}
+        - {x: -57.47694, y: -29}
+        - {x: -49.47693, y: -41}
+        - {x: -38.47693, y: -51}
+        - {x: -29.47694, y: -54}
+        - {x: -18.47693, y: -57}
+        - {x: -11.47694, y: -57}
+        - {x: 1.523064, y: -54}
+        - {x: 15.52306, y: -44}
+        - {x: 26.52306, y: -39}
+        - {x: 35.52306, y: -40}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8851937e1a8148488fe18b7cfa3b2a5e
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Acorn - Copy
+      rect:
+        serializedVersion: 2
+        x: 209.0761
+        y: 1548.043
+        width: 66.89713
+        height: 75.88097
+      alignment: 9
+      pivot: {x: 0.5071052, y: 0.5002188}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.475315, y: -37.9834}
+        - {x: -33.52468, y: -37.9834}
+        - {x: -33.52468, y: 10.0166}
+        - {x: -13.52468, y: 38.0166}
+        - {x: 33.47532, y: 38.0166}
+        - {x: 33.47532, y: -20.9834}
+      physicsShape:
+      - - {x: 32.47532, y: 5.016601}
+        - {x: 27.47531, y: 20.0166}
+        - {x: 32.47532, y: 23.0166}
+        - {x: 32.47532, y: 34.0166}
+        - {x: 31.47532, y: 38.0166}
+        - {x: 19.47532, y: 38.0166}
+        - {x: -7.524685, y: 33.0166}
+        - {x: -15.52468, y: 28.0166}
+        - {x: -25.52468, y: 18.0166}
+        - {x: -33.52468, y: -0.9833984}
+        - {x: -33.52468, y: -28.9834}
+        - {x: -27.52468, y: -35.9834}
+        - {x: -21.52468, y: -36.9834}
+        - {x: -7.524685, y: -36.9834}
+        - {x: 6.475315, y: -30.9834}
+        - {x: 20.47531, y: -20.9834}
+        - {x: 32.47532, y: -7.983398}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71061c82da514f9ab50c9b60cd90f464
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpiderWeb
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 935
+        width: 143
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68.5, y: -31}
+        - {x: -71.5, y: -16}
+        - {x: -71.5, y: 20}
+        - {x: -52.5, y: 36}
+        - {x: -32.5, y: 40}
+        - {x: 21.5, y: 40}
+        - {x: 54.5, y: 28}
+        - {x: 50.5, y: 25}
+        - {x: 55.5, y: 23}
+        - {x: 71.5, y: 5}
+        - {x: 71.5, y: -40}
+        - {x: -58.5, y: -40}
+      physicsShape:
+      - - {x: 59.5, y: -38}
+        - {x: 71.5, y: -31}
+        - {x: 71.5, y: -14}
+        - {x: 66.5, y: 8}
+        - {x: 56.5, y: 17}
+        - {x: 56.5, y: 23}
+        - {x: 44.5, y: 28}
+        - {x: 39.5, y: 28}
+        - {x: 33.5, y: 22}
+        - {x: 14.5, y: 20}
+        - {x: 5.5, y: 39.99999}
+        - {x: -16.5, y: 39.99999}
+        - {x: -21.5, y: 39}
+        - {x: -34.5, y: 36}
+        - {x: -42.5, y: 34}
+        - {x: -53.5, y: 26}
+        - {x: -66.5, y: 19}
+        - {x: -71.5, y: 8.999996}
+        - {x: -71.5, y: 2.999996}
+        - {x: -66.5, y: 1}
+        - {x: -70.5, y: -7}
+        - {x: -64.5, y: -29}
+        - {x: -55.5, y: -36}
+        - {x: -46.5, y: -40}
+        - {x: -22.5, y: -40}
+        - {x: -6.5, y: -33}
+        - {x: 3.5, y: -40}
+        - {x: 51.5, y: -40}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8a07b1654c435e86ff544590bd9bd7
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meal_Rotten - Copy
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1028
+        width: 107
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.5, y: -39.5}
+        - {x: -53.5, y: -26.5}
+        - {x: -53.5, y: 18.5}
+        - {x: -49.5, y: 22.5}
+        - {x: -21.5, y: 39.5}
+        - {x: 15.5, y: 39.5}
+        - {x: 53.5, y: 24.5}
+        - {x: 53.5, y: -32.5}
+        - {x: 34.5, y: -39.5}
+      physicsShape:
+      - - {x: 53.5, y: 17.5}
+        - {x: 47.5, y: 22.5}
+        - {x: 42.5, y: 24.5}
+        - {x: 19.5, y: 31.5}
+        - {x: 6.5, y: 39.5}
+        - {x: -9.5, y: 39.5}
+        - {x: -15.5, y: 29.5}
+        - {x: -30.5, y: 28.5}
+        - {x: -53.5, y: 21.5}
+        - {x: -53.5, y: -16.5}
+        - {x: -44.5, y: -28.5}
+        - {x: -37.5, y: -34.5}
+        - {x: -19.5, y: -39.5}
+        - {x: 20.5, y: -39.5}
+        - {x: 32.5, y: -35.5}
+        - {x: 51.5, y: -17.5}
+        - {x: 53.5, y: -12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e83034ad5149328b2de6d02ac7082d
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TunicTalisman_Small_Piece4
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 890
+        width: 97
+        height: 91
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.5, y: -45.5}
+        - {x: -48.5, y: 45.5}
+        - {x: 48.5, y: 45.5}
+        - {x: 48.5, y: -45.5}
+      physicsShape:
+      - - {x: 4.5, y: 44.5}
+        - {x: 2.5, y: 45.5}
+        - {x: -5.5, y: 45.5}
+        - {x: -22.5, y: 22.5}
+        - {x: -48.5, y: 14.5}
+        - {x: -48.5, y: 5.5}
+        - {x: -39.5, y: -13.5}
+        - {x: -25.5, y: -19.5}
+        - {x: -19.5, y: -19.5}
+        - {x: -2.5, y: -44.5}
+        - {x: -1.5, y: -45.5}
+        - {x: 4.5, y: -45.5}
+        - {x: 17.5, y: -36.5}
+        - {x: 39.5, y: -17.5}
+        - {x: 48.5, y: -8.5}
+        - {x: 48.5, y: -1.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4284bab20a94a98a1f50e7706852244
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meal_Good_Fish
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 694
+        width: 110
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: -53.5}
+        - {x: -55, y: 53.50001}
+        - {x: 55, y: 53.50001}
+        - {x: 55, y: -53.5}
+      physicsShape:
+      - - {x: 55, y: -1.5}
+        - {x: 54, y: 4.5}
+        - {x: 47, y: 13.49999}
+        - {x: 42, y: 31.5}
+        - {x: 34, y: 34.5}
+        - {x: 18, y: 33.5}
+        - {x: -2, y: 29.5}
+        - {x: -1, y: 32.49999}
+        - {x: -2, y: 52.49999}
+        - {x: -3, y: 53.49999}
+        - {x: -12, y: 53.49999}
+        - {x: -15, y: 52.49999}
+        - {x: -21, y: 45.49999}
+        - {x: -36, y: 39.5}
+        - {x: -53, y: 38.49999}
+        - {x: -55, y: 35.5}
+        - {x: -55, y: 26.49999}
+        - {x: -45, y: 15.5}
+        - {x: -55, y: 6.499996}
+        - {x: -55, y: -23.5}
+        - {x: -44, y: -41.5}
+        - {x: -38, y: -44.5}
+        - {x: -27, y: -50.5}
+        - {x: -19, y: -53.5}
+        - {x: 19, y: -53.5}
+        - {x: 34, y: -47.5}
+        - {x: 45, y: -40.5}
+        - {x: 55, y: -23.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6645b8a2052e4089acc27c6122efde5b
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crystal
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 105
+        width: 126
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: -44}
+        - {x: -63, y: -20}
+        - {x: -63, y: 13}
+        - {x: -49, y: 45}
+        - {x: -2, y: 45}
+        - {x: 24, y: 42}
+        - {x: 63, y: -1}
+        - {x: 63, y: -36}
+        - {x: 55, y: -45}
+        - {x: -53, y: -45}
+      physicsShape:
+      - - {x: 44, y: 6}
+        - {x: 31, y: 7}
+        - {x: 22, y: 33}
+        - {x: 19, y: 36}
+        - {x: 5, y: 40.99999}
+        - {x: -27, y: 45}
+        - {x: -44, y: 45}
+        - {x: -61, y: 12}
+        - {x: -63, y: 6}
+        - {x: -63, y: -12}
+        - {x: -61, y: -22}
+        - {x: -52, y: -26}
+        - {x: -51, y: -40}
+        - {x: -48, y: -43}
+        - {x: -2, y: -43}
+        - {x: 3, y: -41}
+        - {x: 19, y: -45}
+        - {x: 40, y: -45}
+        - {x: 63, y: -32}
+        - {x: 63, y: -18}
+        - {x: 56, y: -5.000004}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb2dd4abae34f6f99ab7abcc152ece4
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Berries
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 582
+        width: 111
+        height: 108
+      alignment: 9
+      pivot: {x: 0.4939717, y: 0.2149938}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: -54}
+        - {x: -55.5, y: -9}
+        - {x: -55.5, y: 43}
+        - {x: -22.5, y: 54}
+        - {x: 55.5, y: 54}
+        - {x: 55.5, y: -54}
+      physicsShape:
+      - - {x: 55.5, y: -33}
+        - {x: 55.5, y: -12}
+        - {x: 53.5, y: -8}
+        - {x: 46.5, y: -1}
+        - {x: 32.5, y: 7}
+        - {x: 35.5, y: 11}
+        - {x: 38.5, y: 17}
+        - {x: 38.5, y: 30}
+        - {x: 37.5, y: 37}
+        - {x: 21.5, y: 35}
+        - {x: 17.5, y: 34}
+        - {x: 10.5, y: 50}
+        - {x: 6.5, y: 54}
+        - {x: -3.5, y: 54}
+        - {x: -9.499999, y: 50.99999}
+        - {x: -13.5, y: 38}
+        - {x: -36.5, y: 36}
+        - {x: -51.5, y: 36}
+        - {x: -55.5, y: 34}
+        - {x: -55.5, y: 17}
+        - {x: -52.5, y: 11}
+        - {x: -44.5, y: 0}
+        - {x: -49.5, y: -6.000002}
+        - {x: -50.5, y: -26}
+        - {x: -44.5, y: -34}
+        - {x: -34.5, y: -44}
+        - {x: -17.5, y: -45}
+        - {x: -7.5, y: -54}
+        - {x: 18.5, y: -54}
+        - {x: 21.5, y: -52}
+        - {x: 31.5, y: -45}
+        - {x: 43.5, y: -44}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb44d47856742938a8691d144d15913
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapPiece
+      rect:
+        serializedVersion: 2
+        x: 288.0268
+        y: 105.0267
+        width: 127.9465
+        height: 120.8971
+      alignment: 9
+      pivot: {x: 0.4804606, y: -0.03330725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: -53.47532}
+        - {x: -64, y: -38.47532}
+        - {x: -64, y: 60.52468}
+        - {x: 62, y: 60.52468}
+        - {x: 64, y: -10.47532}
+        - {x: 64, y: -54.47532}
+        - {x: 35, y: -60.47532}
+        - {x: -9, y: -60.47532}
+        - {x: -30, y: -57.47532}
+        - {x: -35, y: -60.47532}
+        - {x: -48, y: -60.47532}
+      physicsShape:
+      - - {x: 18, y: -56.47532}
+        - {x: 29, y: -56.47532}
+        - {x: 48, y: -55.47532}
+        - {x: 62, y: -46.47532}
+        - {x: 64, y: -41.47532}
+        - {x: 64, y: -25.47532}
+        - {x: 62, y: -12.47532}
+        - {x: 61, y: 3.524681}
+        - {x: 59, y: 29.52468}
+        - {x: 59, y: 51.52468}
+        - {x: 53, y: 58.52468}
+        - {x: 46, y: 60.52468}
+        - {x: 34, y: 60.52468}
+        - {x: 27, y: 57.52468}
+        - {x: 26, y: 52.52467}
+        - {x: 28, y: 40.52467}
+        - {x: 10, y: 41.52467}
+        - {x: -4, y: 43.52467}
+        - {x: -27, y: 51.52468}
+        - {x: -44, y: 53.52467}
+        - {x: -56, y: 51.52468}
+        - {x: -64, y: 45.52468}
+        - {x: -64, y: 30.52468}
+        - {x: -63, y: 2.524673}
+        - {x: -62, y: -16.47532}
+        - {x: -63, y: -36.47532}
+        - {x: -60, y: -48.47532}
+        - {x: -53, y: -56.47532}
+        - {x: -44, y: -60.47532}
+        - {x: -36, y: -60.47532}
+        - {x: -33, y: -59.47532}
+        - {x: -29, y: -45.47532}
+        - {x: -3, y: -53.47532}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e7e14e39b94b5bbd89b3cc4fdbcb99
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish Big
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 155
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.5, y: -43.5}
+        - {x: -77.5, y: -31.5}
+        - {x: -77.5, y: 9.500004}
+        - {x: -46.5, y: 50.5}
+        - {x: 35.5, y: 50.5}
+        - {x: 77.5, y: 40.5}
+        - {x: 77.5, y: -29.5}
+        - {x: 70.5, y: -33.5}
+        - {x: 39.5, y: -50.5}
+        - {x: -36.5, y: -50.5}
+      physicsShape:
+      - - {x: 77.5, y: -30.5}
+        - {x: 77.5, y: -19.5}
+        - {x: 74.5, y: -13.5}
+        - {x: 68.5, y: -5.5}
+        - {x: 77.5, y: 4.5}
+        - {x: 77.5, y: 19.5}
+        - {x: 74.5, y: 23.5}
+        - {x: 47.5, y: 21.5}
+        - {x: 43.5, y: 28.5}
+        - {x: 39.5, y: 33.5}
+        - {x: 25.5, y: 35.49999}
+        - {x: 11.5, y: 29.49999}
+        - {x: 15.5, y: 31.5}
+        - {x: 21.5, y: 38.5}
+        - {x: 20.5, y: 46.5}
+        - {x: 15.5, y: 50.5}
+        - {x: -26.5, y: 50.5}
+        - {x: -40.5, y: 36.5}
+        - {x: -52.5, y: 20.5}
+        - {x: -77.5, y: 0.5}
+        - {x: -77.5, y: -26.5}
+        - {x: -71.5, y: -32.5}
+        - {x: -33.5, y: -47.5}
+        - {x: -10.5, y: -50.5}
+        - {x: 37.5, y: -50.5}
+        - {x: 41.5, y: -43.5}
+        - {x: 41.5, y: -30.5}
+        - {x: 68.5, y: -33.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b31f4a8d3974b1583faac149025ae85
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meal_Great
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 379
+        width: 120
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: -54.5}
+        - {x: -60, y: -22.5}
+        - {x: -60, y: 54.5}
+        - {x: 60, y: 54.5}
+        - {x: 60, y: -20.5}
+        - {x: 55, y: -42.5}
+        - {x: 29, y: -54.5}
+      physicsShape:
+      - - {x: 56, y: -25.5}
+        - {x: 58, y: -8.500004}
+        - {x: 55, y: 2.5}
+        - {x: 60, y: 9.5}
+        - {x: 60, y: 25.49999}
+        - {x: 56, y: 35.5}
+        - {x: 44, y: 50.49999}
+        - {x: 19, y: 51.49999}
+        - {x: 14, y: 43.49999}
+        - {x: 4, y: 54.5}
+        - {x: -9, y: 54.5}
+        - {x: -20, y: 52.49999}
+        - {x: -40, y: 48.5}
+        - {x: -46, y: 33.5}
+        - {x: -56, y: 36.5}
+        - {x: -60, y: 29.5}
+        - {x: -60, y: 5.499996}
+        - {x: -53, y: -26.5}
+        - {x: -40, y: -42.5}
+        - {x: -19, y: -54.5}
+        - {x: 22, y: -54.5}
+        - {x: 28, y: -52.5}
+        - {x: 38, y: -47.5}
+        - {x: 51, y: -33.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479979c5568944af9c768b296de3f8c3
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flower_Red
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 366
+        width: 91
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: -33}
+        - {x: -45.5, y: -13}
+        - {x: -45.5, y: 28}
+        - {x: -7.5, y: 41}
+        - {x: 31.5, y: 41}
+        - {x: 45.5, y: 26}
+        - {x: 45.5, y: -15}
+        - {x: 23.5, y: -41}
+        - {x: -14.5, y: -41}
+      physicsShape:
+      - - {x: 45.5, y: 6}
+        - {x: 39.5, y: 15}
+        - {x: 27.5, y: 35}
+        - {x: 20.5, y: 41}
+        - {x: -1.5, y: 41}
+        - {x: -9.5, y: 35}
+        - {x: -33.5, y: 29}
+        - {x: -43.5, y: 20}
+        - {x: -45.5, y: 16}
+        - {x: -45.5, y: -5}
+        - {x: -34.5, y: -14}
+        - {x: -23.5, y: -26}
+        - {x: -23.5, y: -32}
+        - {x: -13.5, y: -41}
+        - {x: 10.5, y: -41}
+        - {x: 20.5, y: -36}
+        - {x: 38.5, y: -20}
+        - {x: 45.5, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001e49543e8945c1b4d1fdbc0accaea2
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass3 - Copy
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 890
+        width: 104
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: -41.5}
+        - {x: -52, y: -23.5}
+        - {x: -52, y: 4.5}
+        - {x: -25, y: 38.5}
+        - {x: -10, y: 41.5}
+        - {x: 50, y: 41.5}
+        - {x: 49, y: 14.5}
+        - {x: 38, y: 2.5}
+        - {x: 34, y: 1.5}
+        - {x: 39, y: 2.5}
+        - {x: 46, y: 8.5}
+        - {x: 52, y: 9.5}
+        - {x: 52, y: -18.5}
+        - {x: 48, y: -39.5}
+        - {x: 35, y: -41.5}
+      physicsShape:
+      - - {x: 36, y: -28.5}
+        - {x: 52, y: -13.5}
+        - {x: 52, y: 5.5}
+        - {x: 51, y: 9.5}
+        - {x: 46, y: 7.5}
+        - {x: 45, y: 31.5}
+        - {x: 43, y: 36.5}
+        - {x: 38, y: 37.5}
+        - {x: 30, y: 27.5}
+        - {x: 27, y: 39.5}
+        - {x: 24, y: 41.5}
+        - {x: 17, y: 41.5}
+        - {x: -1, y: 24.5}
+        - {x: -14, y: 27.5}
+        - {x: -21, y: 16.5}
+        - {x: -34, y: 15.5}
+        - {x: -39, y: 3.5}
+        - {x: -52, y: 0.5}
+        - {x: -52, y: -12.5}
+        - {x: -50, y: -23.5}
+        - {x: -34, y: -34.5}
+        - {x: -16, y: -30.5}
+        - {x: -8, y: -41.5}
+        - {x: 0, y: -41.5}
+        - {x: 4, y: -40.5}
+        - {x: 7, y: -26.5}
+        - {x: 26, y: -22.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f67e0154df4e299e21535c99e6f2e1
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldNugget
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1336
+        width: 96
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: -34}
+        - {x: -48, y: -31}
+        - {x: -48, y: 8}
+        - {x: -36, y: 34}
+        - {x: 15, y: 34}
+        - {x: 48, y: -9}
+        - {x: 48, y: -31}
+        - {x: 47, y: -34}
+      physicsShape:
+      - - {x: 15, y: 34}
+        - {x: -9, y: 34}
+        - {x: -23, y: 26}
+        - {x: -28, y: 20}
+        - {x: -40, y: 11}
+        - {x: -48, y: -1}
+        - {x: -48, y: -20}
+        - {x: -42, y: -27}
+        - {x: -17, y: -30}
+        - {x: 1, y: -22}
+        - {x: 4, y: -15}
+        - {x: 11, y: -22}
+        - {x: 16, y: -34}
+        - {x: 44, y: -34}
+        - {x: 48, y: -31}
+        - {x: 48, y: -13}
+        - {x: 31, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768401f8dbb342a6bd6f6910ff8bbfbb
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Beetroot
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1256
+        width: 101
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.5, y: -40}
+        - {x: -4.5, y: -40}
+        - {x: -4.5, y: -39}
+        - {x: -7.5, y: -41}
+        - {x: -50.5, y: -41}
+        - {x: -50.5, y: 41}
+        - {x: 3.5, y: 41}
+        - {x: 4.5, y: 37}
+        - {x: 4.5, y: 9}
+        - {x: 8.5, y: 23}
+        - {x: 15.5, y: 24}
+        - {x: 49.5, y: 24}
+        - {x: 50.5, y: 23}
+        - {x: 50.5, y: -36}
+      physicsShape:
+      - - {x: -7.5, y: 41}
+        - {x: -14.5, y: 41}
+        - {x: -20.5, y: 40}
+        - {x: -23.5, y: 41}
+        - {x: -50.5, y: 41}
+        - {x: -50.5, y: 19}
+        - {x: -49.5, y: 17}
+        - {x: -50.5, y: 11}
+        - {x: -50.5, y: -22}
+        - {x: -24.5, y: -41}
+        - {x: -11.5, y: -41}
+        - {x: 4.5, y: -12}
+        - {x: 4.5, y: 1.999996}
+        - {x: 2.5, y: 31.99999}
+      - - {x: 44.5, y: 21}
+        - {x: 38.5, y: 23}
+        - {x: 22.5, y: 23}
+        - {x: 16.5, y: 21}
+        - {x: 15.5, y: 17}
+        - {x: 2.5, y: -9}
+        - {x: -3.5, y: -32}
+        - {x: -3.5, y: -40}
+        - {x: 35.5, y: -40}
+        - {x: 43.5, y: -39}
+        - {x: 48.5, y: -26}
+        - {x: 50.5, y: -18}
+        - {x: 50.5, y: 17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf86e6e455f492eb0cafb5d0a5ec35f
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoctrineStone_3
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 230
+        width: 129
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57.5, y: -43.5}
+        - {x: -64.5, y: -43.5}
+        - {x: -64.5, y: 11.5}
+        - {x: -39.5, y: 43.5}
+        - {x: 45.5, y: 43.5}
+        - {x: 64.5, y: 39.5}
+        - {x: 64.5, y: -27.5}
+      physicsShape:
+      - - {x: 64.5, y: -0.5000038}
+        - {x: 62.5, y: 8.5}
+        - {x: 49.5, y: 28.5}
+        - {x: 39.5, y: 34.5}
+        - {x: 14.5, y: 43.5}
+        - {x: -17.5, y: 43.5}
+        - {x: -36.5, y: 34.5}
+        - {x: -61.5, y: 13.5}
+        - {x: -61.5, y: 6.5}
+        - {x: -53.5, y: -6.5}
+        - {x: -64.5, y: -30.5}
+        - {x: -64.5, y: -43.5}
+        - {x: 40.5, y: -43.5}
+        - {x: 54.5, y: -41.5}
+        - {x: 61.5, y: -32.5}
+        - {x: 64.5, y: -22.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26518395fb5b48678bdaf0e2489ffaf2
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1073
+        width: 118
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: -32}
+        - {x: -59, y: -19}
+        - {x: -59, y: 21}
+        - {x: -48, y: 32}
+        - {x: 29, y: 32}
+        - {x: 50, y: 25}
+        - {x: 58, y: 26}
+        - {x: 59, y: 25}
+        - {x: 59, y: -32}
+      physicsShape:
+      - - {x: 59, y: -25}
+        - {x: 59, y: -8}
+        - {x: 56, y: 0}
+        - {x: 59, y: 7}
+        - {x: 59, y: 24}
+        - {x: 58, y: 26}
+        - {x: 45, y: 23}
+        - {x: 23, y: 32}
+        - {x: -28, y: 32}
+        - {x: -37, y: 30}
+        - {x: -50, y: 25}
+        - {x: -59, y: 12}
+        - {x: -59, y: -11}
+        - {x: -56, y: -17}
+        - {x: -40, y: -31}
+        - {x: -32, y: -32}
+        - {x: 26, y: -32}
+        - {x: 37, y: -21}
+        - {x: 58, y: -26}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c00edc900c6439391ff051e16093ad8
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 941
+        width: 104
+        height: 83
+      alignment: 9
+      pivot: {x: 0.5023735, y: 0.2329773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: -41.5}
+        - {x: -52, y: -23.5}
+        - {x: -52, y: 4.5}
+        - {x: -25, y: 38.5}
+        - {x: -10, y: 41.5}
+        - {x: 50, y: 41.5}
+        - {x: 49, y: 14.5}
+        - {x: 38, y: 2.5}
+        - {x: 34, y: 1.5}
+        - {x: 39, y: 2.5}
+        - {x: 46, y: 8.5}
+        - {x: 52, y: 9.500002}
+        - {x: 52, y: -18.5}
+        - {x: 48, y: -39.5}
+        - {x: 35, y: -41.5}
+      physicsShape:
+      - - {x: 36, y: -28.5}
+        - {x: 52, y: -13.5}
+        - {x: 52, y: 5.5}
+        - {x: 51, y: 9.499998}
+        - {x: 46, y: 7.5}
+        - {x: 45, y: 31.5}
+        - {x: 43, y: 36.5}
+        - {x: 38, y: 37.5}
+        - {x: 30, y: 27.5}
+        - {x: 27, y: 39.5}
+        - {x: 24, y: 41.5}
+        - {x: 17, y: 41.5}
+        - {x: -1, y: 24.5}
+        - {x: -14, y: 27.5}
+        - {x: -21, y: 16.5}
+        - {x: -34, y: 15.5}
+        - {x: -39, y: 3.499998}
+        - {x: -52, y: 0.5}
+        - {x: -52, y: -12.5}
+        - {x: -50, y: -23.5}
+        - {x: -34, y: -34.5}
+        - {x: -16, y: -30.5}
+        - {x: -8, y: -41.5}
+        - {x: 0.00000001490116, y: -41.5}
+        - {x: 4, y: -40.5}
+        - {x: 7, y: -26.5}
+        - {x: 26, y: -22.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872c5cd200d441199f2f49ec501d04b1
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LogRefined
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 288
+        width: 134
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63, y: -37}
+        - {x: -67, y: -37}
+        - {x: -67, y: 37}
+        - {x: 66, y: 37}
+        - {x: 67, y: 32}
+        - {x: 67, y: -26}
+      physicsShape:
+      - - {x: 66.99999, y: -23}
+        - {x: 66.99999, y: -3}
+        - {x: 66, y: -2}
+        - {x: 63, y: 0}
+        - {x: 57, y: 5}
+        - {x: 59, y: 23}
+        - {x: 34, y: 37}
+        - {x: 17, y: 37}
+        - {x: -9.999999, y: 24}
+        - {x: -31, y: 33}
+        - {x: -36, y: 32}
+        - {x: -64, y: 20}
+        - {x: -66.99999, y: 18}
+        - {x: -66.99999, y: -18}
+        - {x: -60, y: -25}
+        - {x: -48, y: -32}
+        - {x: -37, y: -37}
+        - {x: -18, y: -37}
+        - {x: 3, y: -31}
+        - {x: 24, y: -37}
+        - {x: 43, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8e00db33f2485ebe6c908255040ec6
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_Blowfish
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 91
+        width: 113
+        height: 98
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.5, y: -49}
+        - {x: -56.5, y: -25}
+        - {x: -56.5, y: 32}
+        - {x: -50.5, y: 49}
+        - {x: 37.5, y: 49}
+        - {x: 56.5, y: 43}
+        - {x: 56.5, y: -44}
+        - {x: 36.5, y: -49}
+      physicsShape:
+      - - {x: 56.5, y: -5}
+        - {x: 53.5, y: 3.999996}
+        - {x: 56.5, y: 9.999996}
+        - {x: 56.5, y: 19}
+        - {x: 52.5, y: 26}
+        - {x: 41.5, y: 27}
+        - {x: 32.5, y: 20}
+        - {x: 27.5, y: 29}
+        - {x: 14.5, y: 40}
+        - {x: 10.5, y: 48.99999}
+        - {x: -21.5, y: 48.99999}
+        - {x: -29.5, y: 46}
+        - {x: -47.5, y: 25}
+        - {x: -53.5, y: 23.99999}
+        - {x: -56.5, y: 23}
+        - {x: -56.5, y: -18}
+        - {x: -40.5, y: -45}
+        - {x: -34.5, y: -49}
+        - {x: 17.5, y: -49}
+        - {x: 35.5, y: -26}
+        - {x: 51.5, y: -31}
+        - {x: 56.5, y: -25}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a606c14491495faff0515da1da3ddf
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vine
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 339
+        width: 133
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5026522, y: 0.2883598}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.5, y: -50}
+        - {x: -66.5, y: -44}
+        - {x: -66.5, y: 50}
+        - {x: 45.5, y: 50}
+        - {x: 66.5, y: 29}
+        - {x: 66.5, y: -28}
+        - {x: 4.5, y: -50}
+      physicsShape:
+      - - {x: 13.5, y: -35}
+        - {x: 28.5, y: -29}
+        - {x: 27.5, y: -10}
+        - {x: 38.5, y: -13}
+        - {x: 34.5, y: -23}
+        - {x: 40.5, y: -25}
+        - {x: 44.5, y: -23}
+        - {x: 65.5, y: -14}
+        - {x: 66.5, y: -12}
+        - {x: 66.5, y: 0}
+        - {x: 64.5, y: 3}
+        - {x: 64.5, y: 15}
+        - {x: 53.5, y: 26}
+        - {x: 50.5, y: 40}
+        - {x: 40.5, y: 49}
+        - {x: 28.5, y: 49}
+        - {x: 21.5, y: 47}
+        - {x: -10.5, y: 46}
+        - {x: -17.5, y: 36}
+        - {x: -21.5, y: 22}
+        - {x: -21.5, y: 19}
+        - {x: -35.5, y: 6}
+        - {x: -31.5, y: 17}
+        - {x: -25.5, y: 17}
+        - {x: -21.5, y: 20}
+        - {x: -21.5, y: 23}
+        - {x: -23.5, y: 28}
+        - {x: -31.5, y: 36}
+        - {x: -47.5, y: 41}
+        - {x: -61.5, y: 36}
+        - {x: -62.5, y: 15}
+        - {x: -66.5, y: 13}
+        - {x: -66.5, y: 1}
+        - {x: -58.5, y: -9}
+        - {x: -43.5, y: -19}
+        - {x: -46.5, y: -24}
+        - {x: -48.5, y: -28}
+        - {x: -49.5, y: -37}
+        - {x: -48.5, y: -50}
+        - {x: -39.5, y: -50}
+        - {x: -26.5, y: -44}
+        - {x: -7.5, y: -45}
+        - {x: -3.5, y: -37}
+      - - {x: 2.5, y: 6}
+        - {x: 4.5, y: 14}
+        - {x: 1.5, y: 11}
+        - {x: 0.5, y: 5}
+        - {x: 1.5, y: 5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fded9045c714ac29fc622281a6a5dd5
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_Crab
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 188
+        width: 106
+        height: 96
+      alignment: 9
+      pivot: {x: 0.4910299, y: 0.1143526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53, y: -48}
+        - {x: -53, y: 48}
+        - {x: 53, y: 48}
+        - {x: 53, y: -48}
+      physicsShape:
+      - - {x: 41, y: -36}
+        - {x: 41, y: -20}
+        - {x: 37, y: -15}
+        - {x: 45, y: -5}
+        - {x: 45, y: 2.999996}
+        - {x: 53, y: 13}
+        - {x: 53, y: 26}
+        - {x: 45, y: 40}
+        - {x: 33, y: 34}
+        - {x: 29, y: 40}
+        - {x: 21, y: 37}
+        - {x: 11, y: 21}
+        - {x: -4, y: 21}
+        - {x: -17, y: 30}
+        - {x: -20, y: 41}
+        - {x: -25, y: 48}
+        - {x: -43, y: 48}
+        - {x: -53, y: 38}
+        - {x: -53, y: 20}
+        - {x: -49, y: 8.999996}
+        - {x: -44, y: -2}
+        - {x: -50, y: -6}
+        - {x: -53, y: -15}
+        - {x: -53, y: -23}
+        - {x: -42, y: -27}
+        - {x: -35, y: -39}
+        - {x: -32, y: -40}
+        - {x: -23, y: -39}
+        - {x: -11, y: -33}
+        - {x: 11, y: -33}
+        - {x: 7.999999, y: -40}
+        - {x: 10, y: -48}
+        - {x: 16, y: -48}
+        - {x: 29, y: -36}
+        - {x: 32, y: -40}
+        - {x: 37, y: -40}
+      - - {x: 19, y: 8.999996}
+        - {x: 19, y: 12}
+        - {x: 17, y: 14}
+        - {x: 17, y: 12}
+        - {x: 23, y: 5.999996}
+        - {x: 25, y: 5.999996}
+        - {x: 24, y: 5}
+        - {x: 25, y: 2.999996}
+        - {x: 25, y: 4}
+      - - {x: -25, y: 14}
+        - {x: -19, y: 22}
+        - {x: -21, y: 21}
+        - {x: -21, y: 19}
+        - {x: -23, y: 16}
+        - {x: -25, y: 16}
+        - {x: -28, y: 14}
+        - {x: -27, y: 13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee15a9c0d1649ff96f57aa9b53fe433
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meal_Medium_Veg
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 614
+        width: 109
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: -46.5}
+        - {x: -54.5, y: -28.5}
+        - {x: -54.5, y: 43.5}
+        - {x: -41.5, y: 46.5}
+        - {x: 28.5, y: 46.5}
+        - {x: 46.5, y: 40.5}
+        - {x: 54.5, y: 14.5}
+        - {x: 54.5, y: -31.5}
+        - {x: 43.5, y: -46.5}
+      physicsShape:
+      - - {x: 54.5, y: 2.499996}
+        - {x: 46.5, y: 11.5}
+        - {x: 44.5, y: 25.5}
+        - {x: 36.5, y: 32.5}
+        - {x: 14.5, y: 43.5}
+        - {x: 0.5, y: 46.5}
+        - {x: -32.5, y: 46.5}
+        - {x: -35.5, y: 42.5}
+        - {x: -52.5, y: 35.5}
+        - {x: -54.5, y: 32.5}
+        - {x: -54.5, y: 15.5}
+        - {x: -53.5, y: 11.5}
+        - {x: -54.5, y: 7.499996}
+        - {x: -54.5, y: -20.5}
+        - {x: -39.5, y: -38.5}
+        - {x: -27.5, y: -43.5}
+        - {x: -19.5, y: -46.5}
+        - {x: 18.5, y: -46.5}
+        - {x: 33.5, y: -40.5}
+        - {x: 44.5, y: -33.5}
+        - {x: 54.5, y: -16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f899c41b46614a80aaf6a3f6aba7a19e
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlackGold
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 704
+        width: 91
+        height: 101
+      alignment: 9
+      pivot: {x: 0.5078299, y: 0.1878307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: -28.5}
+        - {x: -45.5, y: -5.500002}
+        - {x: -45.5, y: 26.5}
+        - {x: -35.5, y: 50.5}
+        - {x: 22.5, y: 50.5}
+        - {x: 45.5, y: 43.5}
+        - {x: 45.5, y: -37.5}
+        - {x: 27.5, y: -50.5}
+        - {x: -21.5, y: -50.5}
+      physicsShape:
+      - - {x: 44.5, y: 24.5}
+        - {x: 37.5, y: 31.5}
+        - {x: 19.5, y: 41.5}
+        - {x: 18.5, y: 48.49999}
+        - {x: 16.5, y: 50.5}
+        - {x: -20.5, y: 50.5}
+        - {x: -22.5, y: 48.49999}
+        - {x: -24.5, y: 41.5}
+        - {x: -45.5, y: 21.5}
+        - {x: -45.5, y: -9.5}
+        - {x: -41.5, y: -29.5}
+        - {x: -29.5, y: -37.5}
+        - {x: -22.5, y: -39.5}
+        - {x: -16.5, y: -50.5}
+        - {x: 24.5, y: -50.5}
+        - {x: 28.5, y: -40.5}
+        - {x: 45.5, y: -29.5}
+        - {x: 45.5, y: 22.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db3b74607e94b11937fcbfdb95bbc72
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass2
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1138
+        width: 81
+        height: 82
+      alignment: 9
+      pivot: {x: 0.4984957, y: 0.1098502}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: -41}
+        - {x: -40.5, y: -37}
+        - {x: -40.5, y: 41}
+        - {x: 17.5, y: 41}
+        - {x: 40.5, y: 33}
+        - {x: 40.5, y: -37}
+        - {x: 35.5, y: -41}
+      physicsShape:
+      - - {x: 30.5, y: -18}
+        - {x: 40.5, y: -10}
+        - {x: 40.5, y: 15}
+        - {x: 34.5, y: 13}
+        - {x: 19.5, y: 2.999996}
+        - {x: 19.5, y: 16}
+        - {x: 15.5, y: 25}
+        - {x: 10.5, y: 33}
+        - {x: 2.5, y: 40}
+        - {x: 0.5, y: 41}
+        - {x: -8.5, y: 41}
+        - {x: -11.5, y: 35}
+        - {x: -2.5, y: 14}
+        - {x: -7.5, y: 15}
+        - {x: -18.5, y: 36.99999}
+        - {x: -26.5, y: 40}
+        - {x: -31.5, y: 33}
+        - {x: -40.5, y: 8}
+        - {x: -40.5, y: -16}
+        - {x: -35.5, y: -32}
+        - {x: -33.5, y: -41}
+        - {x: -22.5, y: -38}
+        - {x: -8.5, y: -41}
+        - {x: 29.5, y: -41}
+        - {x: 40.5, y: -31}
+        - {x: 40.5, y: -20}
+      - - {x: -23.5, y: 4}
+        - {x: -25.5, y: 5.999996}
+        - {x: -22.5, y: -7}
+        - {x: -21.5, y: -5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedcd2c5e7704e58ad8e57cfa2a5b61f
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meal_Great - Copy
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 492
+        width: 120
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: -54.5}
+        - {x: -60, y: -22.5}
+        - {x: -60, y: 54.5}
+        - {x: 60, y: 54.5}
+        - {x: 60, y: -20.5}
+        - {x: 55, y: -42.5}
+        - {x: 29, y: -54.5}
+      physicsShape:
+      - - {x: 56, y: -25.5}
+        - {x: 58, y: -8.5}
+        - {x: 55, y: 2.5}
+        - {x: 60, y: 9.5}
+        - {x: 60, y: 25.5}
+        - {x: 56, y: 35.5}
+        - {x: 44, y: 50.5}
+        - {x: 19, y: 51.5}
+        - {x: 14, y: 43.5}
+        - {x: 4, y: 54.5}
+        - {x: -9, y: 54.5}
+        - {x: -20, y: 52.5}
+        - {x: -40, y: 48.5}
+        - {x: -46, y: 33.5}
+        - {x: -56, y: 36.5}
+        - {x: -60, y: 29.5}
+        - {x: -60, y: 5.5}
+        - {x: -53, y: -26.5}
+        - {x: -40, y: -42.5}
+        - {x: -19, y: -54.5}
+        - {x: 22, y: -54.5}
+        - {x: 28, y: -52.5}
+        - {x: 38, y: -47.5}
+        - {x: 51, y: -33.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01f8903620e4720b1aa65700cc11aa6
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pumpkin
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 709
+        width: 122
+        height: 105
+      alignment: 9
+      pivot: {x: 0.4810874, y: 0.1007955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56, y: -52.5}
+        - {x: -61, y: -50.5}
+        - {x: -61, y: 31.5}
+        - {x: -40, y: 52.5}
+        - {x: 17, y: 52.5}
+        - {x: 45, y: 31.5}
+        - {x: 61, y: 17.5}
+        - {x: 61, y: -33.5}
+        - {x: 55, y: -52.5}
+      physicsShape:
+      - - {x: 61, y: 6.5}
+        - {x: 57, y: 16.5}
+        - {x: 40, y: 30.5}
+        - {x: 21, y: 31.5}
+        - {x: 14, y: 52.5}
+        - {x: -12, y: 52.5}
+        - {x: -15, y: 49.5}
+        - {x: -17, y: 45.5}
+        - {x: -20, y: 40.5}
+        - {x: -23, y: 30.5}
+        - {x: -40, y: 30.5}
+        - {x: -57, y: 15.5}
+        - {x: -61, y: 3.5}
+        - {x: -61, y: -21.5}
+        - {x: -56, y: -34.5}
+        - {x: -38, y: -50.5}
+        - {x: -33, y: -52.5}
+        - {x: 34, y: -52.5}
+        - {x: 44, y: -46.5}
+        - {x: 56, y: -33.5}
+        - {x: 61, y: -24.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8550050eb743409fa4bd94f7fac95f
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meal_Grass - Copy
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 547
+        width: 109
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 44.5}
+        - {x: 22.5, y: 38.5}
+        - {x: 21.5, y: 39.5}
+        - {x: 20.5, y: 46.5}
+        - {x: 20.5, y: 48.5}
+        - {x: 33.5, y: 48.5}
+        - {x: 54.5, y: 18.5}
+        - {x: 54.5, y: -44.5}
+        - {x: 40.5, y: -48.5}
+        - {x: -48.5, y: -48.5}
+        - {x: -54.5, y: -43.5}
+        - {x: -54.5, y: 24.5}
+        - {x: -46.5, y: 48.5}
+        - {x: -15.5, y: 48.5}
+        - {x: 14.5, y: 44.5}
+      physicsShape:
+      - - {x: 54.5, y: 12.5}
+        - {x: 50.5, y: 18.5}
+        - {x: 45.5, y: 19.5}
+        - {x: 36.5, y: 10.5}
+        - {x: 40.5, y: 33.5}
+        - {x: 37.5, y: 42.5}
+        - {x: 28.5, y: 48.5}
+        - {x: 22.5, y: 48.5}
+        - {x: 22.5, y: 47.5}
+        - {x: 14.5, y: 45.5}
+        - {x: 9.5, y: 34.5}
+        - {x: 1.5, y: 36.5}
+        - {x: -5.5, y: 39.5}
+        - {x: -13.5, y: 30.5}
+        - {x: -19.5, y: 39.5}
+        - {x: -33.5, y: 36.5}
+        - {x: -42.5, y: 31.5}
+        - {x: -44.5, y: 19.5}
+        - {x: -53.5, y: 14.5}
+        - {x: -54.5, y: 11.5}
+        - {x: -54.5, y: -20.5}
+        - {x: -51.5, y: -31.5}
+        - {x: -29.5, y: -47.5}
+        - {x: -23.5, y: -48.5}
+        - {x: 21.5, y: -48.5}
+        - {x: 31.5, y: -45.5}
+        - {x: 45.5, y: -37.5}
+        - {x: 54.5, y: -23.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342e20b23551437385f03580712eb796
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass4 - Copy
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1218
+        width: 98
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: -34}
+        - {x: -49, y: -34}
+        - {x: -49, y: -24}
+        - {x: -44, y: -19}
+        - {x: -49, y: -18}
+        - {x: -49, y: -8}
+        - {x: -42, y: 10}
+        - {x: -47, y: 17}
+        - {x: -46, y: 20}
+        - {x: -43, y: 23}
+        - {x: -28, y: 34}
+        - {x: 45, y: 34}
+        - {x: 49, y: 16}
+        - {x: 49, y: -33}
+      physicsShape:
+      - - {x: 49, y: -31}
+        - {x: 49, y: -18}
+        - {x: 44, y: -5}
+        - {x: 48, y: 4}
+        - {x: 48, y: 9.999999}
+        - {x: 43, y: 31}
+        - {x: 22, y: 23}
+        - {x: 16, y: 24}
+        - {x: -7, y: 34}
+        - {x: -23, y: 34}
+        - {x: -24, y: 28}
+        - {x: -19, y: 21}
+        - {x: -37, y: 25}
+        - {x: -47, y: 21}
+        - {x: -47, y: 16}
+        - {x: -31, y: 4}
+        - {x: -21, y: 0}
+        - {x: -36, y: -3}
+        - {x: -47, y: -9}
+        - {x: -49, y: -9.999999}
+        - {x: -49, y: -18}
+        - {x: -37, y: -20}
+        - {x: -32, y: -22}
+        - {x: -49, y: -30}
+        - {x: -49, y: -31}
+        - {x: -48, y: -34}
+        - {x: -11, y: -34}
+        - {x: 24, y: -26}
+        - {x: 39, y: -34}
+        - {x: 41, y: -34}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12279566ef5548cca5f407b31e170bb3
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GoldCoin
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 614
+        width: 110
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.1520147}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: -33}
+        - {x: -55, y: -20}
+        - {x: -55, y: 24}
+        - {x: -41, y: 43}
+        - {x: 36, y: 43}
+        - {x: 55, y: 23}
+        - {x: 55, y: -34}
+        - {x: 54, y: -41}
+        - {x: 46, y: -43}
+        - {x: -33, y: -43}
+      physicsShape:
+      - - {x: 55, y: 14}
+        - {x: 54, y: 18}
+        - {x: 44, y: 31}
+        - {x: 35, y: 41}
+        - {x: 28, y: 43}
+        - {x: -26, y: 43}
+        - {x: -35, y: 41.99999}
+        - {x: -41, y: 38}
+        - {x: -51, y: 25}
+        - {x: -55, y: 16}
+        - {x: -55, y: -11}
+        - {x: -46, y: -28}
+        - {x: -43, y: -33}
+        - {x: -33, y: -40}
+        - {x: -25, y: -43}
+        - {x: 32, y: -43}
+        - {x: 39, y: -42}
+        - {x: 52, y: -30}
+        - {x: 55, y: -17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54e73e47747430d941fe2445b1af05e
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty Meal
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1065
+        width: 107
+        height: 68.92388
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: -34.46194}
+        - {x: -53.5, y: -30.46194}
+        - {x: -53.5, y: 34.53806}
+        - {x: 53.5, y: 34.53806}
+        - {x: 53.5, y: -14.46194}
+        - {x: 49.5, y: -30.46194}
+        - {x: 42.5, y: -34.46194}
+      physicsShape:
+      - - {x: 53.5, y: 22.53806}
+        - {x: 50.5, y: 25.53806}
+        - {x: 39.5, y: 31.53806}
+        - {x: 34.5, y: 32.53805}
+        - {x: -33.5, y: 32.53805}
+        - {x: -53.5, y: 25.53806}
+        - {x: -53.5, y: -12.46194}
+        - {x: -44.5, y: -23.46194}
+        - {x: -37.5, y: -29.46194}
+        - {x: -19.5, y: -34.46194}
+        - {x: 15.5, y: -34.46194}
+        - {x: 32.5, y: -30.46194}
+        - {x: 51.5, y: -12.46194}
+        - {x: 53.5, y: -7.461943}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cde9a954444c0da5a93aec2eff9d12
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TunicTalisman_Small_Piece2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1419
+        width: 96
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48, y: -38.5}
+        - {x: -48, y: 38.5}
+        - {x: 48, y: 38.5}
+        - {x: 48, y: -38.5}
+      physicsShape:
+      - - {x: 40, y: -10.5}
+        - {x: 48, y: 2.5}
+        - {x: 48, y: 12.5}
+        - {x: 46, y: 14.5}
+        - {x: 24, y: 20.5}
+        - {x: 13, y: 34.49999}
+        - {x: 7, y: 38.5}
+        - {x: 1, y: 38.5}
+        - {x: -2, y: 36.5}
+        - {x: -14, y: 26.5}
+        - {x: -39, y: 4.499996}
+        - {x: -48, y: -1.5}
+        - {x: -48, y: -8.500002}
+        - {x: -9, y: -38.5}
+        - {x: 6, y: -38.5}
+        - {x: 11, y: -31.5}
+        - {x: 17, y: -20.5}
+        - {x: 25, y: -20.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2288929ff34ad28d3b1fe9ccf2be40
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeedRedFlower - Copy
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1584
+        width: 97
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 33.5, y: -29}
+        - {x: 24.5, y: -35}
+        - {x: -24.5, y: -35}
+        - {x: -48.5, y: -25}
+        - {x: -48.5, y: 11}
+        - {x: -1.5, y: 35}
+        - {x: 31.5, y: 35}
+        - {x: 45.5, y: 33}
+        - {x: 48.5, y: 24}
+        - {x: 48.5, y: -6}
+        - {x: 42.5, y: -20}
+        - {x: 35.5, y: -16}
+        - {x: 28.5, y: -16}
+        - {x: 35.5, y: -20}
+      physicsShape:
+      - - {x: -1.5, y: -9}
+        - {x: -10.5, y: -16}
+        - {x: -10.5, y: -29}
+        - {x: -8.5, y: -35}
+        - {x: 31.5, y: -35}
+        - {x: 34.5, y: -29}
+        - {x: 34.5, y: -20}
+        - {x: 23.5, y: -9}
+      - - {x: 40.5, y: -16}
+        - {x: 48.5, y: -4}
+        - {x: 48.5, y: 23}
+        - {x: 44.5, y: 28}
+        - {x: 27.5, y: 35}
+        - {x: 8.5, y: 35}
+        - {x: 4.5, y: 34}
+        - {x: 2.5, y: 14}
+        - {x: -7.5, y: 11}
+        - {x: -20.5, y: 17}
+        - {x: -39.5, y: 13}
+        - {x: -48.5, y: 2}
+        - {x: -48.5, y: -17}
+        - {x: -41.5, y: -20}
+        - {x: -20.5, y: -20}
+        - {x: -13.5, y: -19}
+        - {x: 3.5, y: -9}
+        - {x: 16.5, y: -12}
+        - {x: 26.5, y: -17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5811ddfda42440ca92d8cff5f9a0fb3e
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meal_Mushrooms - Copy
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 508
+        width: 109
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.5, y: -28.5}
+        - {x: -54.5, y: -27.5}
+        - {x: -54.5, y: 30.5}
+        - {x: -44.5, y: 48.5}
+        - {x: 44.5, y: 48.5}
+        - {x: 54.5, y: 30.5}
+        - {x: 54.5, y: -41.5}
+        - {x: 35.5, y: -48.5}
+        - {x: -36.5, y: -48.5}
+      physicsShape:
+      - - {x: 47.5, y: 18.5}
+        - {x: 47.5, y: 29.5}
+        - {x: 40.5, y: 44.5}
+        - {x: 34.5, y: 48.5}
+        - {x: 13.5, y: 48.5}
+        - {x: 0.5, y: 39.5}
+        - {x: -23.5, y: 47.5}
+        - {x: -40.5, y: 44.5}
+        - {x: -49.5, y: 33.5}
+        - {x: -49.5, y: 20.5}
+        - {x: -54.5, y: 5.5}
+        - {x: -54.5, y: -21.5}
+        - {x: -50.5, y: -30.5}
+        - {x: -29.5, y: -48.5}
+        - {x: 22.5, y: -48.5}
+        - {x: 34.5, y: -44.5}
+        - {x: 54.5, y: -22.5}
+        - {x: 54.5, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a695a6615b14ef1ba1e4d3ddafa70c3
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cotton
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1476
+        width: 83
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: -34}
+        - {x: -41.5, y: -31}
+        - {x: -41.5, y: 28}
+        - {x: -16.5, y: 34}
+        - {x: 20.5, y: 34}
+        - {x: 41.5, y: 16}
+        - {x: 41.5, y: -34}
+      physicsShape:
+      - - {x: 41.5, y: -1}
+        - {x: 40.5, y: 4}
+        - {x: 37.5, y: 12}
+        - {x: 21.5, y: 27}
+        - {x: 12.5, y: 34}
+        - {x: -7.5, y: 34}
+        - {x: -11.5, y: 32.99999}
+        - {x: -30.5, y: 22}
+        - {x: -41.5, y: 10}
+        - {x: -41.5, y: -26}
+        - {x: -33.5, y: -34}
+        - {x: 13.5, y: -34}
+        - {x: 35.5, y: -32}
+        - {x: 41.5, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889caefbb5a9471aad81f38ba2cf6b31
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoneKey
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1111
+        width: 111
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5011783, y: 0.2620562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.5, y: -35}
+        - {x: -55.5, y: -32}
+        - {x: -55.5, y: 27}
+        - {x: -32.5, y: 35}
+        - {x: 49.5, y: 35}
+        - {x: 55.5, y: 26}
+        - {x: 55.5, y: -6}
+        - {x: 9.5, y: -35}
+      physicsShape:
+      - - {x: 32.5, y: -8}
+        - {x: 51.5, y: -5}
+        - {x: 55.5, y: -2}
+        - {x: 55.5, y: 18}
+        - {x: 54.5, y: 23}
+        - {x: 45.5, y: 35}
+        - {x: 31.5, y: 35}
+        - {x: 18.5, y: 30}
+        - {x: -2.5, y: 18}
+        - {x: -6.5, y: 25}
+        - {x: -26.5, y: 30}
+        - {x: -45.5, y: 24}
+        - {x: -55.5, y: 13}
+        - {x: -55.5, y: -21}
+        - {x: -45.5, y: -30}
+        - {x: -36.5, y: -35}
+        - {x: -6.5, y: -35}
+        - {x: -1.5, y: -34}
+        - {x: 10.5, y: -17}
+        - {x: 12.5, y: -4.000001}
+      - - {x: -30.5, y: -11}
+        - {x: -33.5, y: -8}
+        - {x: -33.5, y: -5}
+        - {x: -34.5, y: -4.000001}
+        - {x: -31.5, y: 0}
+        - {x: -20.5, y: 2}
+        - {x: -16.5, y: -2}
+        - {x: -15.5, y: -9}
+        - {x: -17.5, y: -11}
+        - {x: -24.5, y: -14}
+        - {x: -25.5, y: -13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed78762a8ca44447947e425f6ba21550
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meal_Follower_Meat - Copy
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 808
+        width: 109
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.5, y: -42}
+        - {x: -54.5, y: -33}
+        - {x: -54.5, y: 38}
+        - {x: -40.5, y: 42}
+        - {x: 48.5, y: 42}
+        - {x: 54.5, y: 34}
+        - {x: 54.5, y: -38}
+        - {x: 36.5, y: -42}
+      physicsShape:
+      - - {x: 54.5, y: 19}
+        - {x: 50.5, y: 25}
+        - {x: 41.5, y: 28}
+        - {x: 28.5, y: 42}
+        - {x: 3.5, y: 42}
+        - {x: -4.5, y: 32}
+        - {x: -14.5, y: 35}
+        - {x: -28.5, y: 36}
+        - {x: -50.5, y: 24}
+        - {x: -54.5, y: 17}
+        - {x: -54.5, y: -12}
+        - {x: -50.5, y: -24}
+        - {x: -38.5, y: -35}
+        - {x: -22.5, y: -42}
+        - {x: 21.5, y: -42}
+        - {x: 31.5, y: -39}
+        - {x: 45.5, y: -31}
+        - {x: 54.5, y: -17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4992da4d656144a88fd1d0038e029355
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meal_Burnt
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1173
+        width: 107
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.5, y: -39.5}
+        - {x: -53.5, y: -39.5}
+        - {x: -53.5, y: 28.5}
+        - {x: -12.5, y: 39.5}
+        - {x: 10.5, y: 39.5}
+        - {x: 53.5, y: 24.5}
+        - {x: 53.5, y: -21.5}
+        - {x: 49.5, y: -35.5}
+      physicsShape:
+      - - {x: 52.5, y: 20.5}
+        - {x: 42.5, y: 24.5}
+        - {x: 19.5, y: 31.5}
+        - {x: 6.5, y: 39.5}
+        - {x: -9.5, y: 39.5}
+        - {x: -30.5, y: 28.5}
+        - {x: -53.5, y: 20.5}
+        - {x: -53.5, y: -16.5}
+        - {x: -45.5, y: -29.5}
+        - {x: -23.5, y: -39.5}
+        - {x: 26.5, y: -39.5}
+        - {x: 34.5, y: -38.5}
+        - {x: 53.5, y: -15.5}
+        - {x: 53.5, y: 18.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe19f982049496cbefaeac2f151e8af
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TunicTalisman_Small_Piece3
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1034
+        width: 95
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47.5, y: -40}
+        - {x: -47.5, y: 40}
+        - {x: 47.5, y: 40}
+        - {x: 47.5, y: -40}
+      physicsShape:
+      - - {x: 46.5, y: -6}
+        - {x: 47.5, y: -4}
+        - {x: 47.5, y: 8.999996}
+        - {x: 39.5, y: 16}
+        - {x: 4.5, y: 39.99999}
+        - {x: -3.5, y: 39.99999}
+        - {x: -47.5, y: 2.999996}
+        - {x: -47.5, y: -4}
+        - {x: -35.5, y: -17}
+        - {x: -19.5, y: -22}
+        - {x: -11.5, y: -35}
+        - {x: -2.5, y: -40}
+        - {x: 3.5, y: -40}
+        - {x: 10.5, y: -32}
+        - {x: 22.5, y: -20}
+        - {x: 34.5, y: -18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3205e9a8983d4e83ab12191d4db603f5
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meal_Mushrooms
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 94
+        width: 109
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.5, y: -28.5}
+        - {x: -54.5, y: -27.5}
+        - {x: -54.5, y: 30.5}
+        - {x: -44.5, y: 48.5}
+        - {x: 44.5, y: 48.5}
+        - {x: 54.5, y: 30.5}
+        - {x: 54.5, y: -41.5}
+        - {x: 35.5, y: -48.5}
+        - {x: -36.5, y: -48.5}
+      physicsShape:
+      - - {x: 47.5, y: 18.49999}
+        - {x: 47.5, y: 29.5}
+        - {x: 40.5, y: 44.5}
+        - {x: 34.5, y: 48.5}
+        - {x: 13.5, y: 48.5}
+        - {x: 0.5, y: 39.5}
+        - {x: -23.5, y: 47.5}
+        - {x: -40.5, y: 44.5}
+        - {x: -49.5, y: 33.5}
+        - {x: -49.5, y: 20.5}
+        - {x: -54.5, y: 5.499996}
+        - {x: -54.5, y: -21.5}
+        - {x: -50.5, y: -30.5}
+        - {x: -29.5, y: -48.5}
+        - {x: 22.5, y: -48.5}
+        - {x: 34.5, y: -44.5}
+        - {x: 54.5, y: -22.5}
+        - {x: 54.5, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c0f264cb9e4d52a2749bb3cf783ce9
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklace_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1634
+        width: 70
+        height: 81
+      alignment: 9
+      pivot: {x: 0.4936958, y: 0.3801427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: -40.5}
+        - {x: -35, y: -40.5}
+        - {x: -35, y: 40.5}
+        - {x: 32, y: 40.5}
+        - {x: 35, y: 38.5}
+        - {x: 35, y: -14.5}
+      physicsShape:
+      - - {x: 35, y: -1.5}
+        - {x: 35, y: 28.5}
+        - {x: 27, y: 38.5}
+        - {x: 22, y: 40.49999}
+        - {x: -20, y: 40.49999}
+        - {x: -34, y: 36.5}
+        - {x: -35, y: 30.5}
+        - {x: -35, y: -5.5}
+        - {x: -32, y: -14.5}
+        - {x: -29, y: -19.5}
+        - {x: -23, y: -19.5}
+        - {x: -6, y: -39.5}
+        - {x: -4, y: -40.5}
+        - {x: 4, y: -40.5}
+        - {x: 8, y: -36.5}
+        - {x: 11, y: -26.5}
+        - {x: 30, y: -20.5}
+      - - {x: -15, y: 12.5}
+        - {x: -18, y: 12.5}
+        - {x: -16, y: 18.5}
+        - {x: -11, y: 23.5}
+        - {x: -6, y: 23.5}
+        - {x: -4, y: 24.5}
+        - {x: -3, y: 23.5}
+        - {x: -1, y: 24.5}
+        - {x: 6, y: 24.5}
+        - {x: 10, y: 22.5}
+        - {x: 13, y: 22.5}
+        - {x: 18, y: 16.5}
+        - {x: 19, y: 15.5}
+        - {x: 18, y: 14.5}
+        - {x: 18, y: 12.5}
+        - {x: 14, y: 12.5}
+        - {x: 13, y: 11.5}
+        - {x: 12, y: 12.5}
+        - {x: 9, y: 12.5}
+        - {x: 8, y: 13.5}
+        - {x: 1, y: 13.5}
+        - {x: -0.00000002980232, y: 12.5}
+        - {x: -2, y: 13.5}
+        - {x: -8, y: 13.5}
+        - {x: -11, y: 11.5}
+        - {x: -13, y: 10.5}
+        - {x: -13, y: 11.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94e0bf86f034ea681c5145860abcef8
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_Swordfish
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 196
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -78, y: -48.5}
+        - {x: -98, y: -45.5}
+        - {x: -98, y: 13.5}
+        - {x: -13, y: 48.5}
+        - {x: 87, y: 48.5}
+        - {x: 98, y: 37.5}
+        - {x: 98, y: -48.5}
+      physicsShape:
+      - - {x: 91, y: -46.5}
+        - {x: 96, y: -42.5}
+        - {x: 95, y: -38.5}
+        - {x: 81, y: -11.5}
+        - {x: 95, y: 8.5}
+        - {x: 97.99999, y: 14.5}
+        - {x: 97.99999, y: 24.49999}
+        - {x: 85, y: 25.5}
+        - {x: 69, y: 16.5}
+        - {x: 57, y: 8.5}
+        - {x: 43, y: 19.5}
+        - {x: 33, y: 24.49999}
+        - {x: 48, y: 38.5}
+        - {x: 53, y: 47.5}
+        - {x: 52, y: 48.5}
+        - {x: 18, y: 48.5}
+        - {x: 9.999999, y: 47.5}
+        - {x: 3, y: 44.5}
+        - {x: -8, y: 33.5}
+        - {x: -18, y: 30.5}
+        - {x: -46, y: 5.499996}
+        - {x: -55, y: 3.5}
+        - {x: -84, y: -7.5}
+        - {x: -97, y: -10.5}
+        - {x: -97.99999, y: -12.5}
+        - {x: -97.99999, y: -17.5}
+        - {x: -96, y: -19.5}
+        - {x: -85.99999, y: -23.5}
+        - {x: -45, y: -29.5}
+        - {x: -17, y: -44.5}
+        - {x: -8, y: -48.5}
+        - {x: 18, y: -48.5}
+        - {x: 63, y: -30.5}
+        - {x: 72.99999, y: -39.5}
+        - {x: 83, y: -45.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610bcddae79e4c0691c5d3d12313f71d
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish Small
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 143
+        width: 76
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: -18.5}
+        - {x: -38, y: -12.5}
+        - {x: -38, y: 5.5}
+        - {x: -25, y: 18.5}
+        - {x: 37, y: 18.5}
+        - {x: 38, y: 15.5}
+        - {x: 38, y: -15.5}
+        - {x: 34, y: -16.5}
+        - {x: 25, y: -18.5}
+      physicsShape:
+      - - {x: 38, y: 13.5}
+        - {x: 34, y: 17.5}
+        - {x: 23, y: 18.5}
+        - {x: -20, y: 18.5}
+        - {x: -28, y: 13.5}
+        - {x: -38, y: -0.5}
+        - {x: -38, y: -9.5}
+        - {x: -31, y: -18.5}
+        - {x: 5, y: -18.5}
+        - {x: 9, y: -17.5}
+        - {x: 33, y: -16.5}
+        - {x: 38, y: -13.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc53b6c23ee4bce82b3db6517d11925
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FaceShroom
+      rect:
+        serializedVersion: 2
+        x: 674.0598
+        y: 896
+        width: 98.91352
+        height: 84.97325
+      alignment: 9
+      pivot: {x: 0.4998333, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.51649, y: -42.48663}
+        - {x: -49.51649, y: -38.48663}
+        - {x: -49.51649, y: 11.51338}
+        - {x: -13.51649, y: 42.51337}
+        - {x: 24.48351, y: 42.51337}
+        - {x: 49.48351, y: 5.513374}
+        - {x: 49.48351, y: -37.48663}
+        - {x: 47.48351, y: -42.48663}
+      physicsShape:
+      - - {x: 49.48351, y: -29.48663}
+        - {x: 49.48351, y: -17.48663}
+        - {x: 48.48351, y: -13.48663}
+        - {x: 24.48351, y: 27.51337}
+        - {x: 9.483513, y: 41.51337}
+        - {x: 5.483513, y: 42.51337}
+        - {x: -5.516487, y: 42.51337}
+        - {x: -12.51649, y: 39.51337}
+        - {x: -25.51649, y: 26.51337}
+        - {x: -33.51648, y: 1.513374}
+        - {x: -49.51648, y: -14.48663}
+        - {x: -49.51648, y: -32.48663}
+        - {x: -38.51649, y: -39.48663}
+        - {x: -12.51649, y: -36.48663}
+        - {x: -7.516487, y: -42.48663}
+        - {x: 4.483513, y: -42.48663}
+        - {x: 8.483513, y: -40.48663}
+        - {x: 26.48351, y: -38.48663}
+        - {x: 41.48351, y: -38.48663}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf27ec71fe04d48af19a36c77773b22
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meal_Bad_Fish
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 711
+        width: 107
+        height: 88
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: -44}
+        - {x: -53.5, y: -39}
+        - {x: -53.5, y: 44}
+        - {x: 46.5, y: 44}
+        - {x: 53.5, y: 39}
+        - {x: 53.5, y: -44}
+      physicsShape:
+      - - {x: 53.5, y: 13}
+        - {x: 47.5, y: 19}
+        - {x: 37.5, y: 38}
+        - {x: 21.5, y: 31}
+        - {x: 4.5, y: 44}
+        - {x: -5.5, y: 44}
+        - {x: -22.5, y: 34}
+        - {x: -45.5, y: 44}
+        - {x: -47.5, y: 44}
+        - {x: -53.5, y: 38}
+        - {x: -53.5, y: -21}
+        - {x: -45.5, y: -34}
+        - {x: -23.5, y: -44}
+        - {x: 20.5, y: -44}
+        - {x: 32.5, y: -40}
+        - {x: 51.5, y: -22}
+        - {x: 53.5, y: -17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f453c986692948fda4d29f772a021f19
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeatRotten
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1574
+        width: 104
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52, y: -28}
+        - {x: -52, y: -28}
+        - {x: -52, y: 14}
+        - {x: -19, y: 28}
+        - {x: 49, y: 28}
+        - {x: 52, y: 17}
+      physicsShape:
+      - - {x: 30, y: 28}
+        - {x: -11, y: 28}
+        - {x: -19, y: 23}
+        - {x: -30, y: 12}
+        - {x: -47, y: 7}
+        - {x: -51, y: 1.999998}
+        - {x: -52, y: -3}
+        - {x: -52, y: -22}
+        - {x: -45, y: -28}
+        - {x: 34, y: -28}
+        - {x: 52, y: -21}
+        - {x: 52, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b94b312854643b8842cc908a24bf3a8
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meal_Good_Fish - Copy
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 830
+        width: 110
+        height: 107
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: -53.5}
+        - {x: -55, y: 53.50001}
+        - {x: 55, y: 53.50001}
+        - {x: 55, y: -53.5}
+      physicsShape:
+      - - {x: 55, y: -1.5}
+        - {x: 54, y: 4.5}
+        - {x: 47, y: 13.49999}
+        - {x: 42, y: 31.5}
+        - {x: 34, y: 34.5}
+        - {x: 18, y: 33.5}
+        - {x: -2, y: 29.5}
+        - {x: -1, y: 32.49999}
+        - {x: -2, y: 52.49999}
+        - {x: -3, y: 53.49999}
+        - {x: -12, y: 53.49999}
+        - {x: -15, y: 52.49999}
+        - {x: -21, y: 45.49999}
+        - {x: -36, y: 39.5}
+        - {x: -53, y: 38.49999}
+        - {x: -55, y: 35.5}
+        - {x: -55, y: 26.49999}
+        - {x: -45, y: 15.5}
+        - {x: -55, y: 6.499996}
+        - {x: -55, y: -23.5}
+        - {x: -44, y: -41.5}
+        - {x: -38, y: -44.5}
+        - {x: -27, y: -50.5}
+        - {x: -19, y: -53.5}
+        - {x: 19, y: -53.5}
+        - {x: 34, y: -47.5}
+        - {x: 45, y: -40.5}
+        - {x: 55, y: -23.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39431936261f4e1e916cc6c4cf35d1d2
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meal_Great_Fish
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 818
+        width: 111
+        height: 113
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.5, y: -56.5}
+        - {x: -55.5, y: -49.5}
+        - {x: -55.5, y: 45.5}
+        - {x: -40.5, y: 56.5}
+        - {x: 44.5, y: 56.5}
+        - {x: 55.5, y: 44.5}
+        - {x: 55.5, y: -39.5}
+        - {x: 47.5, y: -56.5}
+      physicsShape:
+      - - {x: 55.5, y: -27.5}
+        - {x: 55.5, y: 13.5}
+        - {x: 49.5, y: 27.5}
+        - {x: 38.5, y: 38.5}
+        - {x: 4.5, y: 56.5}
+        - {x: -25.5, y: 56.5}
+        - {x: -33.5, y: 42.49999}
+        - {x: -44.5, y: 43.5}
+        - {x: -48.5, y: 37.5}
+        - {x: -49.5, y: 22.5}
+        - {x: -55.5, y: 14.5}
+        - {x: -55.5, y: -22.5}
+        - {x: -53.5, y: -27.5}
+        - {x: -49.5, y: -35.5}
+        - {x: -41.5, y: -44.5}
+        - {x: -29.5, y: -51.5}
+        - {x: -19.5, y: -55.5}
+        - {x: -16.5, y: -56.5}
+        - {x: 18.5, y: -56.5}
+        - {x: 26.5, y: -54.5}
+        - {x: 36.5, y: -49.5}
+        - {x: 49.5, y: -35.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8102fac28740f6aa5a2eb32b00dce8
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cauliflower
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 605
+        width: 129
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: -50}
+        - {x: -64.5, y: -44}
+        - {x: -64.5, y: 50}
+        - {x: 59.5, y: 50}
+        - {x: 64.5, y: 40}
+        - {x: 64.5, y: -22}
+        - {x: 42.5, y: -50}
+      physicsShape:
+      - - {x: 62.5, y: -8}
+        - {x: 64.5, y: -3}
+        - {x: 64.5, y: 25}
+        - {x: 61.5, y: 27}
+        - {x: 55.5, y: 33}
+        - {x: 54.5, y: 47.99999}
+        - {x: 50.5, y: 50}
+        - {x: 37.5, y: 50}
+        - {x: 29.5, y: 45}
+        - {x: 14.5, y: 50}
+        - {x: -2.5, y: 50}
+        - {x: -9.5, y: 47}
+        - {x: -29.5, y: 45}
+        - {x: -46.5, y: 50}
+        - {x: -47.5, y: 50}
+        - {x: -50.5, y: 44}
+        - {x: -57.5, y: 26}
+        - {x: -61.5, y: 25}
+        - {x: -64.5, y: 20}
+        - {x: -64.5, y: -8}
+        - {x: -55.5, y: -26}
+        - {x: -44.5, y: -36}
+        - {x: -29.5, y: -42}
+        - {x: -24.5, y: -42}
+        - {x: -20.5, y: -50}
+        - {x: 19.5, y: -50}
+        - {x: 24.5, y: -46}
+        - {x: 46.5, y: -31}
+        - {x: 57.5, y: -19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf833df4af6450a9a8ced12e0641692
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_Lobster
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 144
+        height: 149
+      alignment: 9
+      pivot: {x: 0.5129805, y: 0.08602148}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: -74.5}
+        - {x: -72, y: 74.5}
+        - {x: 72, y: 74.5}
+        - {x: 72, y: -74.5}
+      physicsShape:
+      - - {x: 43, y: -24.5}
+        - {x: 67, y: -22.5}
+        - {x: 71, y: -18.5}
+        - {x: 72, y: -13.5}
+        - {x: 72, y: 23.5}
+        - {x: 71, y: 26.5}
+        - {x: 61, y: 25.49999}
+        - {x: 54, y: 29.5}
+        - {x: 31, y: 18.5}
+        - {x: 28, y: 47.5}
+        - {x: 20, y: 50.49999}
+        - {x: 17, y: 47.5}
+        - {x: 11, y: 40.49999}
+        - {x: 12, y: 56.5}
+        - {x: -1, y: 61.5}
+        - {x: -10, y: 53.49999}
+        - {x: -22, y: 47.5}
+        - {x: -33, y: 73.5}
+        - {x: -38, y: 74.5}
+        - {x: -53, y: 74.5}
+        - {x: -69, y: 57.5}
+        - {x: -72, y: 51.49999}
+        - {x: -72, y: 39.49999}
+        - {x: -60, y: 28.5}
+        - {x: -60, y: 16.5}
+        - {x: -51, y: 8.5}
+        - {x: -41, y: 4.5}
+        - {x: -46, y: -22.5}
+        - {x: -55, y: -26.5}
+        - {x: -67, y: -37.5}
+        - {x: -72, y: -43.5}
+        - {x: -72, y: -50.5}
+        - {x: -63, y: -58.5}
+        - {x: -53, y: -62.5}
+        - {x: -43, y: -62.5}
+        - {x: -30, y: -73.5}
+        - {x: -24, y: -74.5}
+        - {x: -10, y: -74.5}
+        - {x: 3, y: -32.5}
+        - {x: 12, y: -22.5}
+        - {x: 33, y: -31.5}
+      - - {x: 27, y: -6.500004}
+        - {x: 27, y: -1.500004}
+        - {x: 29, y: 1.5}
+        - {x: 28, y: 5.5}
+        - {x: 27, y: 2.5}
+        - {x: 29, y: -0.5000038}
+        - {x: 29, y: -3.5}
+        - {x: 30, y: -4.5}
+        - {x: 30, y: -8.5}
+        - {x: 27, y: -8.5}
+        - {x: 26, y: -7.500004}
+      - - {x: -40, y: 24.5}
+        - {x: -40, y: 26.5}
+        - {x: -37, y: 28.5}
+        - {x: -35, y: 28.5}
+        - {x: -32, y: 30.5}
+        - {x: -29, y: 31.49999}
+        - {x: -28, y: 34.5}
+        - {x: -33, y: 30.5}
+        - {x: -33, y: 29.5}
+        - {x: -39, y: 23.5}
+        - {x: -39, y: 24.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec097bb51f2443178f9f79bb100cc4ca
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meal_Bad_Mixed
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 711
+        width: 107
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: -46.5}
+        - {x: -53.5, y: -34.5}
+        - {x: -53.5, y: 20.5}
+        - {x: -39.5, y: 44.5}
+        - {x: -21.5, y: 46.5}
+        - {x: 37.5, y: 46.5}
+        - {x: 53.5, y: 21.5}
+        - {x: 53.5, y: -25.5}
+        - {x: 30.5, y: -46.5}
+      physicsShape:
+      - - {x: 53.5, y: 9.5}
+        - {x: 50.5, y: 13.5}
+        - {x: 41.5, y: 17.5}
+        - {x: 35.5, y: 25.5}
+        - {x: 35.5, y: 42.5}
+        - {x: 31.5, y: 46.5}
+        - {x: 15.5, y: 46.5}
+        - {x: -4.5, y: 37.5}
+        - {x: -35.5, y: 33.49999}
+        - {x: -42.5, y: 18.5}
+        - {x: -51.5, y: 14.5}
+        - {x: -53.5, y: 11.5}
+        - {x: -53.5, y: -23.5}
+        - {x: -45.5, y: -36.5}
+        - {x: -23.5, y: -46.5}
+        - {x: 20.5, y: -46.5}
+        - {x: 32.5, y: -42.5}
+        - {x: 52.5, y: -25.5}
+        - {x: 53.5, y: -19.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d6d64e97f947a2ba26844c8c33135f
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklace_5
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1151
+        width: 72
+        height: 74
+      alignment: 9
+      pivot: {x: 0.4889677, y: 0.3543224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: -37}
+        - {x: -36, y: -11}
+        - {x: -36, y: 28}
+        - {x: -33, y: 37}
+        - {x: 27, y: 37}
+        - {x: 36, y: 32}
+        - {x: 36, y: -1}
+        - {x: 30, y: -21}
+        - {x: 25, y: -37}
+      physicsShape:
+      - - {x: 36, y: 4}
+        - {x: 36, y: 25}
+        - {x: 31, y: 33}
+        - {x: 25, y: 37}
+        - {x: -26, y: 37}
+        - {x: -36, y: 27}
+        - {x: -36, y: 2.999999}
+        - {x: -19, y: -29}
+        - {x: -11, y: -37}
+        - {x: 15, y: -37}
+        - {x: 16, y: -36}
+        - {x: 24, y: -25}
+        - {x: 19, y: -21}
+      - - {x: -16, y: 13}
+        - {x: -16, y: 17}
+        - {x: -15, y: 18}
+        - {x: -11, y: 19}
+        - {x: -9, y: 21}
+        - {x: 9, y: 21}
+        - {x: 12, y: 19}
+        - {x: 17, y: 17}
+        - {x: 17, y: 15}
+        - {x: 15, y: 13}
+        - {x: 15, y: 12}
+        - {x: 11, y: 9}
+        - {x: 8, y: 7}
+        - {x: 7, y: 8}
+        - {x: 3, y: 8}
+        - {x: 0.9999999, y: 9}
+        - {x: 0, y: 8}
+        - {x: -4, y: 8}
+        - {x: -9, y: 4.999999}
+        - {x: -9, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a9e46e1e2b4842a32cf6dfb301a0f3
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meal_Poop - Copy
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1339
+        width: 109
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.5, y: -38}
+        - {x: -54.5, y: -35}
+        - {x: -54.5, y: 35}
+        - {x: -53.5, y: 38}
+        - {x: 50.5, y: 38}
+        - {x: 54.5, y: 34}
+        - {x: 54.5, y: -34}
+        - {x: 39.5, y: -38}
+      physicsShape:
+      - - {x: 54.5, y: 23}
+        - {x: 50.5, y: 29}
+        - {x: 45.5, y: 30}
+        - {x: 39.5, y: 27}
+        - {x: 38.5, y: 38}
+        - {x: 15.5, y: 38}
+        - {x: 6.5, y: 33}
+        - {x: 2.5, y: 38}
+        - {x: -34.5, y: 38}
+        - {x: -37.5, y: 34}
+        - {x: -44.5, y: 29}
+        - {x: -53.5, y: 25}
+        - {x: -54.5, y: 22}
+        - {x: -54.5, y: -9}
+        - {x: -50.5, y: -20}
+        - {x: -38.5, y: -30}
+        - {x: -29.5, y: -35}
+        - {x: -21.5, y: -38}
+        - {x: 21.5, y: -38}
+        - {x: 31.5, y: -35}
+        - {x: 45.5, y: -27}
+        - {x: 54.5, y: -13}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2ff26658aa421d8c9d65143a8522d6
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meal_Grass
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 648
+        width: 109
+        height: 97
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 44.5}
+        - {x: 22.5, y: 38.5}
+        - {x: 21.5, y: 39.5}
+        - {x: 20.5, y: 46.5}
+        - {x: 20.5, y: 48.5}
+        - {x: 33.5, y: 48.5}
+        - {x: 54.5, y: 18.5}
+        - {x: 54.5, y: -44.5}
+        - {x: 40.5, y: -48.5}
+        - {x: -48.5, y: -48.5}
+        - {x: -54.5, y: -43.5}
+        - {x: -54.5, y: 24.5}
+        - {x: -46.5, y: 48.5}
+        - {x: -15.5, y: 48.5}
+        - {x: 14.5, y: 44.5}
+      physicsShape:
+      - - {x: 54.5, y: 12.5}
+        - {x: 50.5, y: 18.49999}
+        - {x: 45.5, y: 19.5}
+        - {x: 36.5, y: 10.5}
+        - {x: 40.5, y: 33.5}
+        - {x: 37.5, y: 42.5}
+        - {x: 28.5, y: 48.5}
+        - {x: 22.5, y: 48.5}
+        - {x: 22.5, y: 47.5}
+        - {x: 14.5, y: 45.5}
+        - {x: 9.5, y: 34.5}
+        - {x: 1.5, y: 36.5}
+        - {x: -5.5, y: 39.5}
+        - {x: -13.5, y: 30.5}
+        - {x: -19.5, y: 39.5}
+        - {x: -33.5, y: 36.5}
+        - {x: -42.5, y: 31.49999}
+        - {x: -44.5, y: 19.5}
+        - {x: -53.5, y: 14.5}
+        - {x: -54.5, y: 11.5}
+        - {x: -54.5, y: -20.5}
+        - {x: -51.5, y: -31.5}
+        - {x: -29.5, y: -47.5}
+        - {x: -23.5, y: -48.5}
+        - {x: 21.5, y: -48.5}
+        - {x: 31.5, y: -45.5}
+        - {x: 45.5, y: -37.5}
+        - {x: 54.5, y: -23.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcf4b1508b84c5d964bb40d94510037
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Empty Meal - Copy
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 985
+        width: 107
+        height: 68.92388
+      alignment: 9
+      pivot: {x: 0.5, y: 0.573096}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: -34.46194}
+        - {x: -53.5, y: -30.46194}
+        - {x: -53.5, y: 34.53806}
+        - {x: 53.5, y: 34.53806}
+        - {x: 53.5, y: -14.46194}
+        - {x: 49.5, y: -30.46194}
+        - {x: 42.5, y: -34.46194}
+      physicsShape:
+      - - {x: 53.5, y: 22.53806}
+        - {x: 50.5, y: 25.53806}
+        - {x: 39.5, y: 31.53806}
+        - {x: 34.5, y: 32.53806}
+        - {x: -33.5, y: 32.53806}
+        - {x: -53.5, y: 25.53806}
+        - {x: -53.5, y: -12.46194}
+        - {x: -44.5, y: -23.46194}
+        - {x: -37.5, y: -29.46194}
+        - {x: -19.5, y: -34.46194}
+        - {x: 15.5, y: -34.46194}
+        - {x: 32.5, y: -30.46194}
+        - {x: 51.5, y: -12.46194}
+        - {x: 53.5, y: -7.461941}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a4a4f332da489b9b55e381e05a8605
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MonsterHeart
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 607
+        width: 121
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: -52.5}
+        - {x: -60.5, y: -16.5}
+        - {x: -60.5, y: 52.5}
+        - {x: 60.5, y: 52.5}
+        - {x: 60.5, y: -48.5}
+        - {x: 53.5, y: -52.5}
+      physicsShape:
+      - - {x: 51.5, y: -34.5}
+        - {x: 39.5, y: -29.5}
+        - {x: 56.5, y: -16.5}
+        - {x: 60.5, y: -8.499996}
+        - {x: 60.5, y: 12.5}
+        - {x: 57.5, y: 15.5}
+        - {x: 55.5, y: 15.5}
+        - {x: 51.5, y: 38.5}
+        - {x: 40.5, y: 46.50001}
+        - {x: 28.5, y: 27.50001}
+        - {x: 27.5, y: 41.5}
+        - {x: 8.5, y: 52.5}
+        - {x: -5.5, y: 52.5}
+        - {x: -11.5, y: 48.5}
+        - {x: -23.5, y: 39.5}
+        - {x: -36.5, y: 40.5}
+        - {x: -39.5, y: 46.50001}
+        - {x: -45.5, y: 46.50001}
+        - {x: -50.5, y: 39.5}
+        - {x: -51.5, y: 20.5}
+        - {x: -59.5, y: 18.5}
+        - {x: -60.5, y: 14.5}
+        - {x: -60.5, y: -2.5}
+        - {x: -59.5, y: -5.5}
+        - {x: -50.5, y: -17.5}
+        - {x: -34.5, y: -25.5}
+        - {x: -47.5, y: -31.5}
+        - {x: -45.5, y: -41.5}
+        - {x: -23.5, y: -47.5}
+        - {x: -12.5, y: -52.5}
+        - {x: 11.5, y: -52.5}
+        - {x: 23.5, y: -49.5}
+        - {x: 36.5, y: -47.5}
+        - {x: 44.5, y: -45.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37661585325941f0b5aceee6001d7d77
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoctrineStone_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1019
+        width: 128
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: -33.5}
+        - {x: -64, y: -33.5}
+        - {x: -64, y: 17.5}
+        - {x: -55, y: 33.5}
+        - {x: 37, y: 33.5}
+        - {x: 64, y: -3.499998}
+      physicsShape:
+      - - {x: 54, y: -1.5}
+        - {x: 40, y: 2.5}
+        - {x: 39, y: 18.5}
+        - {x: 32, y: 27.5}
+        - {x: 16, y: 32.5}
+        - {x: 2, y: 33.49999}
+        - {x: -48, y: 33.49999}
+        - {x: -53, y: 29.5}
+        - {x: -58, y: 14.5}
+        - {x: -54, y: 5.5}
+        - {x: -64, y: -12.5}
+        - {x: -64, y: -25.5}
+        - {x: -63, y: -28.5}
+        - {x: -58, y: -31.5}
+        - {x: -45, y: -32.5}
+        - {x: 8, y: -33.5}
+        - {x: 42, y: -33.5}
+        - {x: 62, y: -31.5}
+        - {x: 64, y: -28.5}
+        - {x: 64, y: -19.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46175fc4724b4c558bb89d37d541e419
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeedWhiteFlower - Copy
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1342
+        width: 97
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: -35}
+        - {x: -11.5, y: -35}
+        - {x: -18.5, y: -33}
+        - {x: -41.5, y: -28}
+        - {x: -48.5, y: -19}
+        - {x: -48.5, y: 11}
+        - {x: -21.5, y: 35}
+        - {x: 34.5, y: 35}
+        - {x: 48.5, y: 27}
+        - {x: 48.5, y: -5}
+        - {x: 42.5, y: -20}
+        - {x: 35.5, y: -16}
+        - {x: 28.5, y: -16}
+        - {x: 35.5, y: -20}
+        - {x: 33.5, y: -29}
+      physicsShape:
+      - - {x: -1.5, y: -9}
+        - {x: -10.5, y: -16}
+        - {x: -10.5, y: -29}
+        - {x: -8.5, y: -35}
+        - {x: 31.5, y: -35}
+        - {x: 34.5, y: -29}
+        - {x: 34.5, y: -20}
+        - {x: 23.5, y: -9}
+      - - {x: 35.5, y: -19}
+        - {x: 48.5, y: -6}
+        - {x: 48.5, y: 23}
+        - {x: 44.5, y: 28}
+        - {x: 27.5, y: 35}
+        - {x: 8.5, y: 35}
+        - {x: 4.5, y: 34}
+        - {x: 2.5, y: 14}
+        - {x: -7.5, y: 11}
+        - {x: -20.5, y: 17}
+        - {x: -39.5, y: 13}
+        - {x: -48.5, y: 2}
+        - {x: -48.5, y: -15}
+        - {x: -38.5, y: -20}
+        - {x: -16.5, y: -20}
+        - {x: -13.5, y: -19}
+        - {x: 0.5, y: -5}
+        - {x: 7.5, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12843b7f057b49b1953cbce4b28691af
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wheat
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1141
+        width: 67
+        height: 110
+      alignment: 9
+      pivot: {x: 0.4923262, y: 0.04287843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -55}
+        - {x: -33.5, y: -55}
+        - {x: -33.5, y: 29}
+        - {x: -3.5, y: 53}
+        - {x: 1.5, y: 55}
+        - {x: 33.5, y: 55}
+        - {x: 33.5, y: -18}
+      physicsShape:
+      - - {x: 25.5, y: 4.999996}
+        - {x: 33.5, y: 15}
+        - {x: 33.5, y: 53}
+        - {x: 31.5, y: 55}
+        - {x: 8.5, y: 55}
+        - {x: -1.5, y: 51}
+        - {x: -11.5, y: 46}
+        - {x: -21.5, y: 30.99999}
+        - {x: -33.5, y: 24}
+        - {x: -33.5, y: -2}
+        - {x: -22.5, y: -8}
+        - {x: -29.5, y: -18}
+        - {x: -33.5, y: -34}
+        - {x: -33.5, y: -55}
+        - {x: -15.5, y: -55}
+        - {x: -3.5, y: -16}
+        - {x: 11.5, y: -18}
+        - {x: 21.5, y: -9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa28ebb480b47ab95f6fa9387a82716
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoctrineStone_2
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 411
+        width: 126
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: -39.5}
+        - {x: -63, y: -39.5}
+        - {x: -63, y: -15.5}
+        - {x: -42, y: 35.5}
+        - {x: -28, y: 39.5}
+        - {x: 47, y: 39.5}
+        - {x: 63, y: 29.5}
+        - {x: 63, y: -38.5}
+      physicsShape:
+      - - {x: 63, y: -14.5}
+        - {x: 54, y: -3.5}
+        - {x: 47, y: 10.5}
+        - {x: 49, y: 23.5}
+        - {x: 41, y: 38.5}
+        - {x: 35, y: 39.5}
+        - {x: 16, y: 39.5}
+        - {x: -2, y: 31.5}
+        - {x: -9, y: 27.49999}
+        - {x: -36, y: 27.49999}
+        - {x: -46, y: 16.5}
+        - {x: -53, y: -5.5}
+        - {x: -58, y: -13.5}
+        - {x: -63, y: -26.5}
+        - {x: -63, y: -37.5}
+        - {x: -60, y: -39.5}
+        - {x: 47, y: -39.5}
+        - {x: 59, y: -35.5}
+        - {x: 63, y: -31.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d31c5360d084ec1be99a1db06a52ead
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Seed Cauliflower
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1419
+        width: 92
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: -42}
+        - {x: -46, y: -42}
+        - {x: -46, y: 20}
+        - {x: -45, y: 24}
+        - {x: -31, y: 42}
+        - {x: 28, y: 42}
+        - {x: 46, y: 32}
+        - {x: 46, y: -39}
+      physicsShape:
+      - - {x: 41, y: -27}
+        - {x: 46, y: -19}
+        - {x: 46, y: 9}
+        - {x: 40, y: 18}
+        - {x: 18, y: 39}
+        - {x: 13, y: 42}
+        - {x: -11, y: 42}
+        - {x: -35, y: 29}
+        - {x: -46, y: 21}
+        - {x: -46, y: -9}
+        - {x: -35, y: -18}
+        - {x: -40, y: -29}
+        - {x: -38, y: -39}
+        - {x: -33, y: -42}
+        - {x: -11, y: -42}
+        - {x: 3, y: -38}
+        - {x: 19, y: -38}
+        - {x: 28, y: -37}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66940f1165fb48af86be537e50fed402
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VileBones
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 410
+        width: 113
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5132041, y: 0.3306878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: -47}
+        - {x: -56.5, y: -37}
+        - {x: -56.5, y: 26}
+        - {x: -51.5, y: 47}
+        - {x: 47.5, y: 47}
+        - {x: 55.5, y: 33}
+        - {x: 56.5, y: 32}
+        - {x: 56.5, y: -31}
+        - {x: 50.5, y: -47}
+      physicsShape:
+      - - {x: 23.5, y: -37}
+        - {x: 29.5, y: -39}
+        - {x: 41.5, y: -38}
+        - {x: 53.5, y: -31}
+        - {x: 51.5, y: -14}
+        - {x: 56.5, y: -6.000001}
+        - {x: 56.5, y: 26}
+        - {x: 52.5, y: 28}
+        - {x: 39.5, y: 24}
+        - {x: 23.5, y: 27}
+        - {x: 21.5, y: 41}
+        - {x: 21.5, y: 42}
+        - {x: 14.5, y: 42}
+        - {x: 12.5, y: 41}
+        - {x: -13.5, y: 14}
+        - {x: -12.5, y: 25}
+        - {x: -15.5, y: 31}
+        - {x: -26.5, y: 36}
+        - {x: -39.5, y: 35}
+        - {x: -45.5, y: 28}
+        - {x: -46.5, y: 15}
+        - {x: -54.5, y: 12}
+        - {x: -56.5, y: 5}
+        - {x: -56.5, y: -10}
+        - {x: -53.5, y: -14}
+        - {x: -52.5, y: -30}
+        - {x: -35.5, y: -47}
+        - {x: -8.5, y: -47}
+        - {x: -1.5, y: -35}
+        - {x: -4.5, y: -31}
+        - {x: 16.5, y: -23}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05310924924344848df0a22bda796948
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meal Good
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 517
+        width: 110
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: -46.5}
+        - {x: -55, y: -26.5}
+        - {x: -55, y: 35.5}
+        - {x: -17, y: 46.5}
+        - {x: 46, y: 46.5}
+        - {x: 55, y: 16.5}
+        - {x: 55, y: -28.5}
+        - {x: 35, y: -46.5}
+      physicsShape:
+      - - {x: 55, y: 5.5}
+        - {x: 54, y: 11.5}
+        - {x: 46, y: 26.49999}
+        - {x: 33, y: 44.5}
+        - {x: 31, y: 46.5}
+        - {x: 5, y: 46.5}
+        - {x: -4, y: 38.5}
+        - {x: -27, y: 42.5}
+        - {x: -41, y: 32.5}
+        - {x: -55, y: 13.5}
+        - {x: -55, y: -16.5}
+        - {x: -44, y: -34.5}
+        - {x: -39, y: -38.5}
+        - {x: -21, y: -46.5}
+        - {x: 19, y: -46.5}
+        - {x: 34, y: -40.5}
+        - {x: 45, y: -33.5}
+        - {x: 55, y: -16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c646110d089f4aaf9e59d09a8e5a5eb4
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meal_Berries
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 991
+        width: 107
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.5, y: -39}
+        - {x: -53.5, y: -21}
+        - {x: -53.5, y: 27}
+        - {x: -30.5, y: 39}
+        - {x: 32.5, y: 39}
+        - {x: 53.5, y: 26}
+        - {x: 53.5, y: -18}
+        - {x: 30.5, y: -39}
+      physicsShape:
+      - - {x: 53.5, y: 20}
+        - {x: 52.5, y: 24}
+        - {x: 39.5, y: 27}
+        - {x: 4.5, y: 39}
+        - {x: -22.5, y: 39}
+        - {x: -29.5, y: 38}
+        - {x: -53.5, y: 22}
+        - {x: -53.5, y: -16}
+        - {x: -45.5, y: -29}
+        - {x: -23.5, y: -39}
+        - {x: 20.5, y: -39}
+        - {x: 32.5, y: -35}
+        - {x: 52.5, y: -18}
+        - {x: 53.5, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba351c13f1548f4847097fa7234dca2
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 941
+        width: 86
+        height: 89
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1350689}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 3.5}
+        - {x: -25, y: -1.5}
+        - {x: -26, y: 12.5}
+        - {x: -28, y: 12.5}
+        - {x: -32, y: 36.5}
+        - {x: -4, y: 44.5}
+        - {x: 29, y: 44.5}
+        - {x: 43, y: 34.5}
+        - {x: 43, y: -15.5}
+        - {x: 34, y: -44.5}
+        - {x: -25, y: -44.5}
+        - {x: -30, y: -43.5}
+        - {x: -33, y: -37.5}
+        - {x: -43, y: -4.5}
+        - {x: -43, y: 11.5}
+        - {x: -38, y: 10.5}
+      physicsShape:
+      - - {x: 38, y: 3.5}
+        - {x: 28, y: 0.5}
+        - {x: 34, y: 17.5}
+        - {x: 36, y: 24.5}
+        - {x: 32, y: 29.5}
+        - {x: 26, y: 27.5}
+        - {x: 15, y: 17.5}
+        - {x: 20, y: 43.5}
+        - {x: 18, y: 44.49999}
+        - {x: 8, y: 44.49999}
+        - {x: 1, y: 34.5}
+        - {x: -6, y: 20.5}
+        - {x: -22, y: 36.5}
+        - {x: -27, y: 35.5}
+        - {x: -30, y: 34.5}
+        - {x: -29, y: 19.5}
+        - {x: -30, y: 4.5}
+        - {x: -42, y: 12.5}
+        - {x: -43, y: 10.5}
+        - {x: -43, y: -11.5}
+        - {x: -30, y: -43.5}
+        - {x: -22, y: -44.5}
+        - {x: 27, y: -44.5}
+        - {x: 35, y: -41.5}
+        - {x: 43, y: -11.5}
+        - {x: 43, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94edfca1521d4b51a21c3f88be27e4cb
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnowledgeScroll
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 609
+        width: 85
+        height: 123
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: -61.5}
+        - {x: -42.5, y: 14.5}
+        - {x: -42.5, y: 54.5}
+        - {x: -30.5, y: 61.5}
+        - {x: 21.5, y: 61.5}
+        - {x: 24.5, y: 53.5}
+        - {x: 42.5, y: -29.5}
+        - {x: 42.5, y: -57.5}
+        - {x: 37.5, y: -61.5}
+      physicsShape:
+      - - {x: 42.5, y: -53.5}
+        - {x: 42.5, y: -39.5}
+        - {x: 29.5, y: -1.500004}
+        - {x: 26.5, y: 15.5}
+        - {x: 24.5, y: 52.5}
+        - {x: 21.5, y: 60.5}
+        - {x: 3.5, y: 61.5}
+        - {x: -30.5, y: 61.5}
+        - {x: -42.5, y: 51.5}
+        - {x: -42.5, y: 36.49999}
+        - {x: -40.5, y: 29.5}
+        - {x: -35.5, y: 17.5}
+        - {x: -28.5, y: -14.5}
+        - {x: -29.5, y: -28.5}
+        - {x: -27.5, y: -45.5}
+        - {x: -26.5, y: -57.5}
+        - {x: -19.5, y: -61.5}
+        - {x: -4.5, y: -61.5}
+        - {x: 2.5, y: -60.5}
+        - {x: 4.5, y: -61.5}
+        - {x: 21.5, y: -61.5}
+        - {x: 25.5, y: -54.5}
+        - {x: 29.5, y: -56.5}
+        - {x: 41.5, y: -54.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18caa2c107574ec3b6d5f2a103aca72b
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meal_Bad_Meat
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 808
+        width: 107
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.5, y: -46}
+        - {x: -53.5, y: -36}
+        - {x: -53.5, y: 38}
+        - {x: -42.5, y: 46}
+        - {x: 13.5, y: 46}
+        - {x: 53.5, y: 25}
+        - {x: 53.5, y: -42}
+        - {x: 45.5, y: -46}
+      physicsShape:
+      - - {x: 53.5, y: 11}
+        - {x: 51.5, y: 15}
+        - {x: 31.5, y: 23}
+        - {x: 27.5, y: 31}
+        - {x: 21.5, y: 38}
+        - {x: -13.5, y: 33.99999}
+        - {x: -14.5, y: 43}
+        - {x: -18.5, y: 45.99999}
+        - {x: -32.5, y: 45.99999}
+        - {x: -40.5, y: 41}
+        - {x: -50.5, y: 33.99999}
+        - {x: -49.5, y: 26}
+        - {x: -53.5, y: 14}
+        - {x: -53.5, y: -23}
+        - {x: -44.5, y: -35}
+        - {x: -37.5, y: -41}
+        - {x: -19.5, y: -46}
+        - {x: 20.5, y: -46}
+        - {x: 32.5, y: -42}
+        - {x: 51.5, y: -24}
+        - {x: 53.5, y: -19}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d10b95bab29453fb6bcd05b54d0aa2b
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeatLarge
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 230
+        width: 138
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: -52.5}
+        - {x: -69, y: -36.5}
+        - {x: -69, y: -3.5}
+        - {x: -44, y: 52.49999}
+        - {x: 40, y: 52.49999}
+        - {x: 42, y: 42.5}
+        - {x: 52, y: 48.5}
+        - {x: 69, y: -7.5}
+        - {x: 69, y: -50.5}
+        - {x: 67, y: -52.5}
+      physicsShape:
+      - - {x: 69, y: -21.5}
+        - {x: 62, y: -4.5}
+        - {x: 56, y: 1.499996}
+        - {x: 54, y: 22.5}
+        - {x: 52, y: 33.49999}
+        - {x: 45, y: 41.5}
+        - {x: 42, y: 39.49999}
+        - {x: 40, y: 32.5}
+        - {x: 38, y: 23.5}
+        - {x: 29, y: 38.5}
+        - {x: 21, y: 52.49999}
+        - {x: 15, y: 52.49999}
+        - {x: 13, y: 48.5}
+        - {x: 12, y: 17.5}
+        - {x: 8, y: 18.5}
+        - {x: -5, y: 38.5}
+        - {x: -14, y: 35.5}
+        - {x: -11, y: 12.5}
+        - {x: -42, y: -8.5}
+        - {x: -39, y: 1.499996}
+        - {x: -55, y: 10.5}
+        - {x: -69, y: -5.5}
+        - {x: -69, y: -22.5}
+        - {x: -66.99999, y: -30.5}
+        - {x: -49, y: -27.5}
+        - {x: -45, y: -42.5}
+        - {x: -29, y: -52.5}
+        - {x: 32, y: -52.5}
+        - {x: 43, y: -50.5}
+        - {x: 66.99999, y: -47.5}
+        - {x: 69, y: -43.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ea76d706164169b224a729b6eaf17f
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeatLarge Rotten
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 0
+        width: 131
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -56.5, y: -43}
+        - {x: -65.5, y: -39}
+        - {x: -65.5, y: 27}
+        - {x: -59.5, y: 43}
+        - {x: 9.5, y: 43}
+        - {x: 65.5, y: 24}
+        - {x: 65.5, y: -41}
+        - {x: 43.5, y: -43}
+      physicsShape:
+      - - {x: 50.5, y: -37}
+        - {x: 57.5, y: -36}
+        - {x: 65.5, y: -30}
+        - {x: 64.5, y: -22}
+        - {x: 65.5, y: -20}
+        - {x: 65.5, y: 2}
+        - {x: 57.5, y: 5.999996}
+        - {x: 51.5, y: 5}
+        - {x: 43.5, y: -2}
+        - {x: 28.5, y: 8}
+        - {x: 21.5, y: 21}
+        - {x: 10.5, y: 33}
+        - {x: -6.5, y: 42.99999}
+        - {x: -35.5, y: 42.99999}
+        - {x: -42.5, y: 41}
+        - {x: -55.5, y: 29}
+        - {x: -57.5, y: 21}
+        - {x: -63.5, y: 22}
+        - {x: -65.5, y: 16}
+        - {x: -65.5, y: -25}
+        - {x: -54.5, y: -38}
+        - {x: -40.5, y: -43}
+        - {x: -0.5, y: -43}
+        - {x: 18.5, y: -38}
+        - {x: 30.5, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01f8304aee5c41e38d0474041de6b52a
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SacredFlowers
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 321
+        width: 125
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5431746, y: 0.2918871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: -42.5}
+        - {x: -62.5, y: -15.5}
+        - {x: -62.5, y: 14.5}
+        - {x: -41.5, y: 42.5}
+        - {x: 54.5, y: 42.5}
+        - {x: 62.5, y: 40.50001}
+        - {x: 62.5, y: -39.5}
+        - {x: 61.5, y: -42.5}
+      physicsShape:
+      - - {x: 57.5, y: -25.5}
+        - {x: 62.5, y: -15.5}
+        - {x: 62.5, y: -14.5}
+        - {x: 54.5, y: 10.5}
+        - {x: 61.5, y: 18.5}
+        - {x: 62.5, y: 23.5}
+        - {x: 62.5, y: 38.5}
+        - {x: 43.5, y: 37.5}
+        - {x: 31.5, y: 36.5}
+        - {x: 18.5, y: 42.5}
+        - {x: 11.5, y: 42.5}
+        - {x: 7.5, y: 39.5}
+        - {x: 9.5, y: 25.5}
+        - {x: -11.5, y: 23.5}
+        - {x: -14.5, y: 31.5}
+        - {x: -24.5, y: 42.5}
+        - {x: -28.5, y: 42.5}
+        - {x: -33.5, y: 37.5}
+        - {x: -36.5, y: 30.5}
+        - {x: -38.5, y: 24.5}
+        - {x: -42.5, y: 15.5}
+        - {x: -52.5, y: 16.5}
+        - {x: -62.5, y: 11.5}
+        - {x: -62.5, y: -1.5}
+        - {x: -43.5, y: -18.5}
+        - {x: -43.5, y: -38.5}
+        - {x: -41.5, y: -42.5}
+        - {x: -2.5, y: -42.5}
+        - {x: 1.5, y: -35.5}
+        - {x: 30.5, y: -30.5}
+        - {x: 47.5, y: -34.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405d67c647fd4c1894f1fd9acd896206
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass4
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1255
+        width: 98
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4989707, y: 0.1410028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: -34}
+        - {x: -49, y: -34}
+        - {x: -49, y: -24}
+        - {x: -44, y: -19}
+        - {x: -49, y: -18}
+        - {x: -49, y: -8}
+        - {x: -42, y: 10}
+        - {x: -47, y: 17}
+        - {x: -46, y: 20}
+        - {x: -43, y: 23}
+        - {x: -28, y: 34}
+        - {x: 45, y: 34}
+        - {x: 49, y: 16}
+        - {x: 49, y: -33}
+      physicsShape:
+      - - {x: 49, y: -31}
+        - {x: 49, y: -18}
+        - {x: 44, y: -5}
+        - {x: 48, y: 4}
+        - {x: 48, y: 9.999996}
+        - {x: 43, y: 31}
+        - {x: 22, y: 23}
+        - {x: 16, y: 24}
+        - {x: -7, y: 34}
+        - {x: -23, y: 34}
+        - {x: -24, y: 28}
+        - {x: -19, y: 21}
+        - {x: -37, y: 25}
+        - {x: -47, y: 21}
+        - {x: -47, y: 16}
+        - {x: -31, y: 4}
+        - {x: -21, y: 0}
+        - {x: -36, y: -3}
+        - {x: -47, y: -9}
+        - {x: -49, y: -10}
+        - {x: -49, y: -18}
+        - {x: -37, y: -20}
+        - {x: -32, y: -22}
+        - {x: -49, y: -30}
+        - {x: -49, y: -31}
+        - {x: -48, y: -34}
+        - {x: -11, y: -34}
+        - {x: 24, y: -26}
+        - {x: 39, y: -34}
+        - {x: 41, y: -34}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9fda24294c4e2db0b7d0d20dd198f9
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CottonNew
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 314
+        width: 110
+        height: 93
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: -46.5}
+        - {x: -55, y: -14.5}
+        - {x: -55, y: 45.5}
+        - {x: -47, y: 46.5}
+        - {x: 47, y: 46.5}
+        - {x: 55, y: 36.5}
+        - {x: 55, y: -10.5}
+        - {x: 46, y: -35.5}
+        - {x: 28, y: -44.5}
+        - {x: -1, y: -45.5}
+        - {x: -3, y: -46.5}
+      physicsShape:
+      - - {x: 48, y: -19.5}
+        - {x: 53, y: -8.5}
+        - {x: 52, y: -1.5}
+        - {x: 55, y: 6.499996}
+        - {x: 55, y: 17.5}
+        - {x: 51, y: 25.5}
+        - {x: 36, y: 25.5}
+        - {x: 31, y: 31.5}
+        - {x: 26, y: 38.5}
+        - {x: 31, y: 45.49999}
+        - {x: 31, y: 46.5}
+        - {x: -16, y: 46.5}
+        - {x: -30, y: 35.5}
+        - {x: -34, y: 27.5}
+        - {x: -44, y: 33.49999}
+        - {x: -48, y: 34.5}
+        - {x: -55, y: 24.5}
+        - {x: -55, y: 4.5}
+        - {x: -54, y: -8.5}
+        - {x: -43, y: -20.5}
+        - {x: -37, y: -45.5}
+        - {x: -35, y: -46.5}
+        - {x: -4, y: -46.5}
+        - {x: 8, y: -43.5}
+        - {x: 24, y: -45.5}
+        - {x: 35, y: -38.5}
+        - {x: 43, y: -31.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6776ea012a5d4bfa9b86c2e9b692ca07
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_Squid
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 808
+        width: 84
+        height: 113
+      alignment: 9
+      pivot: {x: 0.4999999, y: 0.08243731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: -56.5}
+        - {x: -42, y: 56.49999}
+        - {x: 42, y: 56.49999}
+        - {x: 42, y: -56.5}
+      physicsShape:
+      - - {x: 23, y: -50.5}
+        - {x: 14, y: -42.5}
+        - {x: 21, y: -36.5}
+        - {x: 34, y: -34.5}
+        - {x: 39, y: -29.5}
+        - {x: 42, y: -24.5}
+        - {x: 42, y: -10.5}
+        - {x: 40, y: -5.5}
+        - {x: 29, y: -14.5}
+        - {x: 29, y: -2.5}
+        - {x: 25, y: 15.5}
+        - {x: 23, y: 35.5}
+        - {x: 1, y: 56.49999}
+        - {x: -14, y: 56.49999}
+        - {x: -27, y: 41.5}
+        - {x: -35, y: 32.5}
+        - {x: -36, y: -2.5}
+        - {x: -32, y: -13.5}
+        - {x: -40, y: -9.5}
+        - {x: -42, y: -11.5}
+        - {x: -42, y: -24.5}
+        - {x: -29, y: -42.5}
+        - {x: -23, y: -56.5}
+        - {x: -9.999999, y: -56.5}
+        - {x: -8, y: -55.5}
+        - {x: -9, y: -44.5}
+        - {x: 8, y: -56.5}
+        - {x: 22, y: -56.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f042db9028fb49f3a2711caaa92364bf
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass5 - Copy
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1255
+        width: 83
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: -40}
+        - {x: -41.5, y: -38}
+        - {x: -41.5, y: 32}
+        - {x: -37.5, y: 40}
+        - {x: 38.5, y: 40}
+        - {x: 41.5, y: 29}
+        - {x: 41.5, y: -40}
+      physicsShape:
+      - - {x: 41.5, y: 3}
+        - {x: 34.5, y: 5}
+        - {x: 35.5, y: 28}
+        - {x: 31.5, y: 32}
+        - {x: 23.5, y: 31}
+        - {x: 19.5, y: 25}
+        - {x: 16.5, y: 21}
+        - {x: 17.5, y: 26}
+        - {x: 17.5, y: 39}
+        - {x: 16.5, y: 40}
+        - {x: 6.5, y: 40}
+        - {x: 2.5, y: 38}
+        - {x: -6.5, y: 22}
+        - {x: -11.5, y: 34}
+        - {x: -22.5, y: 40}
+        - {x: -24.5, y: 40}
+        - {x: -28.5, y: 33}
+        - {x: -26.5, y: 22}
+        - {x: -25.5, y: 3}
+        - {x: -34.5, y: 13}
+        - {x: -41.5, y: 11}
+        - {x: -41.5, y: -5}
+        - {x: -33.5, y: -24}
+        - {x: -36.5, y: -31}
+        - {x: -28.5, y: -40}
+        - {x: 33.5, y: -40}
+        - {x: 37.5, y: -35}
+        - {x: 41.5, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6223d80ffe46dfa74b5fe2e6f7888c
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapPiece - Copy
+      rect:
+        serializedVersion: 2
+        x: 0.02675056
+        y: 254.0268
+        width: 127.9465
+        height: 120.8971
+      alignment: 9
+      pivot: {x: 0.4804606, y: 0.5043399}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: -53.47533}
+        - {x: -64, y: -38.47532}
+        - {x: -64, y: 60.52468}
+        - {x: 62, y: 60.52468}
+        - {x: 64, y: -10.47532}
+        - {x: 64, y: -54.47532}
+        - {x: 35, y: -60.47532}
+        - {x: -9, y: -60.47532}
+        - {x: -30, y: -57.47532}
+        - {x: -35, y: -60.47532}
+        - {x: -48, y: -60.47532}
+      physicsShape:
+      - - {x: 18, y: -56.47532}
+        - {x: 29, y: -56.47532}
+        - {x: 48, y: -55.47532}
+        - {x: 62, y: -46.47532}
+        - {x: 64, y: -41.47532}
+        - {x: 64, y: -25.47532}
+        - {x: 62, y: -12.47532}
+        - {x: 61, y: 3.524677}
+        - {x: 59, y: 29.52468}
+        - {x: 59, y: 51.52468}
+        - {x: 53, y: 58.52468}
+        - {x: 46, y: 60.52467}
+        - {x: 34, y: 60.52467}
+        - {x: 27, y: 57.52468}
+        - {x: 26, y: 52.52468}
+        - {x: 28, y: 40.52467}
+        - {x: 10, y: 41.52468}
+        - {x: -4, y: 43.52467}
+        - {x: -27, y: 51.52468}
+        - {x: -44, y: 53.52467}
+        - {x: -56, y: 51.52468}
+        - {x: -64, y: 45.52468}
+        - {x: -64, y: 30.52468}
+        - {x: -63, y: 2.524677}
+        - {x: -62, y: -16.47532}
+        - {x: -63, y: -36.47532}
+        - {x: -60, y: -48.47532}
+        - {x: -53, y: -56.47532}
+        - {x: -44, y: -60.47532}
+        - {x: -36, y: -60.47532}
+        - {x: -33, y: -59.47532}
+        - {x: -29, y: -45.47532}
+        - {x: -3, y: -53.47532}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508f1749a8dc49d28f73859cebd571e6
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Beetroot
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 195
+        width: 90
+        height: 115
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: -57.5}
+        - {x: -45, y: -22.5}
+        - {x: -45, y: 31.5}
+        - {x: -33, y: 57.5}
+        - {x: 39, y: 57.5}
+        - {x: 45, y: 43.5}
+        - {x: 45, y: 4.5}
+        - {x: 40, y: -16.5}
+        - {x: 32, y: -40.5}
+        - {x: -5, y: -57.5}
+      physicsShape:
+      - - {x: 43, y: 10.5}
+        - {x: 45, y: 15.49999}
+        - {x: 45, y: 32.5}
+        - {x: 36, y: 40.49999}
+        - {x: 31, y: 57.5}
+        - {x: -8, y: 57.5}
+        - {x: -11, y: 56.5}
+        - {x: -26, y: 54.5}
+        - {x: -32, y: 46.5}
+        - {x: -37, y: 23.5}
+        - {x: -45, y: 13.5}
+        - {x: -45, y: -17.5}
+        - {x: -44, y: -22.5}
+        - {x: -23, y: -56.5}
+        - {x: -22, y: -57.5}
+        - {x: -15, y: -57.5}
+        - {x: -13, y: -54.5}
+        - {x: 19, y: -39.5}
+        - {x: 42, y: -16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb5a764cd234ea9bdd66c0a8987f3b5
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necklace_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1634
+        width: 72
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4889677, y: 0.2763872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -34}
+        - {x: -36, y: -0.999999}
+        - {x: -36, y: 29}
+        - {x: -26, y: 34}
+        - {x: 33, y: 34}
+        - {x: 36, y: 25}
+        - {x: 36, y: -9}
+        - {x: 19, y: -34}
+      physicsShape:
+      - - {x: 36, y: 25}
+        - {x: 29, y: 34}
+        - {x: -27, y: 34}
+        - {x: -36, y: 23}
+        - {x: -36, y: 3}
+        - {x: -30, y: -6}
+        - {x: -20, y: -28}
+        - {x: -15, y: -34}
+        - {x: 21, y: -34}
+        - {x: 21, y: -22}
+        - {x: 36, y: 4}
+      - - {x: -16, y: 10}
+        - {x: -16, y: 14}
+        - {x: -15, y: 15}
+        - {x: -11, y: 16}
+        - {x: -9, y: 18}
+        - {x: 9, y: 18}
+        - {x: 12, y: 16}
+        - {x: 17, y: 14}
+        - {x: 17, y: 12}
+        - {x: 15, y: 10}
+        - {x: 12, y: 6}
+        - {x: 11, y: 10}
+        - {x: 7, y: 14}
+        - {x: 2, y: 16}
+        - {x: -2, y: 15}
+        - {x: -5, y: 14}
+        - {x: -9, y: 10}
+        - {x: -11, y: 6}
+        - {x: -12, y: 6.999998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c3de97e4d84e17b50bdd8bac4916b9
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meal_Great_Meat
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 908
+        width: 110
+        height: 104
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55, y: -52}
+        - {x: -55, y: -52}
+        - {x: -55, y: 22}
+        - {x: -19, y: 52}
+        - {x: 44, y: 52}
+        - {x: 55, y: 21}
+      physicsShape:
+      - - {x: 54, y: 13}
+        - {x: 39, y: 33.99999}
+        - {x: 30, y: 52}
+        - {x: 27, y: 52}
+        - {x: 17, y: 50}
+        - {x: 11, y: 52}
+        - {x: -5, y: 52}
+        - {x: -11, y: 46.99999}
+        - {x: -32, y: 38}
+        - {x: -47, y: 22}
+        - {x: -55, y: 6}
+        - {x: -55, y: -19}
+        - {x: -49, y: -31}
+        - {x: -41, y: -40}
+        - {x: -29, y: -47}
+        - {x: -20, y: -52}
+        - {x: 21, y: -52}
+        - {x: 38, y: -46}
+        - {x: 55, y: -25}
+        - {x: 55, y: 6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43f0802f21a41d79a1b02b66d843e7a
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: item_log
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1090
+        width: 108
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09378737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42, y: -39.5}
+        - {x: -54, y: -33.5}
+        - {x: -54, y: 17.5}
+        - {x: -46, y: 29.5}
+        - {x: 0, y: 39.5}
+        - {x: 50, y: 39.5}
+        - {x: 54, y: 33.5}
+        - {x: 54, y: -15.5}
+        - {x: 49, y: -27.5}
+        - {x: 18, y: -39.5}
+      physicsShape:
+      - - {x: 50, y: -19.5}
+        - {x: 54, y: -11.5}
+        - {x: 54, y: 21.5}
+        - {x: 51, y: 27.5}
+        - {x: 37, y: 39.49999}
+        - {x: 9, y: 39.49999}
+        - {x: -14, y: 33.5}
+        - {x: -36, y: 26.5}
+        - {x: -45, y: 22.5}
+        - {x: -52, y: 16.5}
+        - {x: -54, y: 10.5}
+        - {x: -54, y: -17.5}
+        - {x: -52, y: -25.5}
+        - {x: -39, y: -38.5}
+        - {x: -36, y: -39.5}
+        - {x: -12, y: -39.5}
+        - {x: -9, y: -38.5}
+        - {x: 6, y: -34.5}
+        - {x: 45, y: -21.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08cf6513c23437bb8981504b9ef99b3
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Necklace_1: 21300224
+      Food: 21300068
+      Meal_Follower_Meat: 21300038
+      Seed Pumpkin: 21300064
+      Meal_Great_Meat: 21300226
+      KnowledgeScrollBlue: 21300020
+      Acorn - Copy: 21300074
+      Meal_Rotten: 21300058
+      Fish_Octopus: 21300024
+      Flower_Red: 21300094
+      Seed Cauliflower: 21300192
+      MapPiece: 21300088
+      Meal_Medium_Mixed: 21300010
+      Meal_Great: 21300092
+      Fish_Squid: 21300216
+      Grass5 - Copy: 21300218
+      Meal_Follower_Meat - Copy: 21300144
+      SeedWhiteFlower - Copy: 21300186
+      KnowledgeScroll: 21300202
+      Meal_Grass: 21300178
+      SpiderWeb: 21300076
+      Necklace_5: 21300174
+      Grass2 - Copy: 21300030
+      StoneRefined: 21300028
+      Meal_Bad_Fish: 21300160
+      DoctrineStone_3: 21300102
+      GoldCoin: 21300130
+      SeedMushroom - Copy: 21300056
+      Meal: 21300060
+      MonsterHeart: 21300182
+      Grass5: 21300048
+      DoctrineStone_2: 21300190
+      VileBones: 21300194
+      MapPiece - Copy: 21300220
+      MeatLarge: 21300206
+      SeedRedFlower - Copy: 21300136
+      Meal_Great_Mixed: 21300018
+      Seed Beetroot: 21300100
+      Vine: 21300112
+      SeedWhiteFlower: 21300050
+      SeedRedFlower: 21300032
+      Meal Good: 21300196
+      GiftMedium: 21300026
+      Meal_Bad_Meat: 21300204
+      Fish_Lobster: 21300170
+      Grass3: 21300106
+      Meal_Burnt: 21300146
+      Acorn: 21300016
+      Shell: 21300072
+      Empty Meal: 21300132
+      GoldRefined: 21300034
+      Meal_Grass - Copy: 21300126
+      Empty Meal - Copy: 21300180
+      Cotton: 21300140
+      item_log: 21300228
+      GoldNugget: 21300098
+      Grass2: 21300120
+      Beetroot: 21300222
+      MeatRotten: 21300162
+      Grass4: 21300212
+      Meal_Meat - Copy: 21300042
+      Meal_Mushrooms - Copy: 21300138
+      Pumpkin: 21300124
+      TunicTalisman_Small_Piece3: 21300148
+      StainedGlass: 21300006
+      Bone: 21300062
+      Crystal: 21300084
+      Meal_Deadly: 21300012
+      BeholderEye: 21300052
+      SacredFlowers: 21300210
+      Meal_Berries: 21300198
+      Wheat: 21300188
+      Meal_Mushrooms: 21300150
+      Meal_Poop - Copy: 21300176
+      BoneKey: 21300142
+      Fish_Blowfish: 21300110
+      Bloodstone: 21300066
+      Meat_Morsel: 21300036
+      CottonNew: 21300214
+      Grass4 - Copy: 21300128
+      DoctrineStone_1: 21300184
+      Cauliflower: 21300168
+      TunicTalisman_Small_Piece4: 21300080
+      Berries: 21300086
+      Necklace_2: 21300046
+      MeatLarge Rotten: 21300208
+      Seed: 21300040
+      Poop: 21300070
+      Necklace_4: 21300002
+      SeedMushroom: 21300022
+      TunicTalisman_Small_Piece2: 21300134
+      Meal_Poop: 21300000
+      Fish: 21300104
+      Fish Big: 21300090
+      Meal_Good_Fish - Copy: 21300164
+      Fish_Crab: 21300114
+      Meal_Great - Copy: 21300122
+      Meal_Medium_Veg: 21300116
+      Mushroom: 21300054
+      Meal_Great_Fish: 21300166
+      LogRefined: 21300108
+      Grass: 21300200
+      Wood: 21300008
+      Fish Small: 21300156
+      Necklace_3: 21300152
+      GiftSmall: 21300004
+      Meal_Bad_Mixed: 21300172
+      Rope: 21300044
+      FaceShroom: 21300158
+      Fish_Swordfish: 21300154
+      BlackGold: 21300118
+      TunicTalisman_Small_Piece1: 21300014
+      Grass3 - Copy: 21300096
+      Meal_Good_Fish: 21300082
+      Meal_Rotten - Copy: 21300078
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

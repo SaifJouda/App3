@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 0403c6adb62824343a102ac69cfc4755
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ParticleSymbols SDF_4
+  - first:
+      213: 21300002
+    second: ParticleSymbols SDF_6
+  - first:
+      213: 21300004
+    second: ParticleSymbols SDF_2
+  - first:
+      213: 21300006
+    second: ParticleSymbols SDF_0
+  - first:
+      213: 21300008
+    second: ParticleSymbols SDF_7
+  - first:
+      213: 21300010
+    second: ParticleSymbols SDF_1
+  - first:
+      213: 21300012
+    second: ParticleSymbols SDF_5
+  - first:
+      213: 21300014
+    second: ParticleSymbols SDF_3
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 907
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ParticleSymbols SDF_4
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 0
+        width: 150
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: -82.5}
+        - {x: -75, y: -82.5}
+        - {x: -75, y: 49.5}
+        - {x: -33, y: 82.5}
+        - {x: 75, y: 82.5}
+        - {x: 75, y: -43.5}
+      physicsShape:
+      - - {x: 38, y: -17.5}
+        - {x: 46, y: -8.5}
+        - {x: 55, y: 3.5}
+        - {x: 55, y: 6.5}
+        - {x: 35, y: 26.5}
+        - {x: 21, y: 33.5}
+        - {x: 7, y: 34.5}
+        - {x: -5, y: 34.5}
+        - {x: -30, y: 25.5}
+        - {x: -44, y: 8.5}
+        - {x: -47, y: 0.5}
+        - {x: -50, y: -21.5}
+        - {x: -48, y: -25.5}
+        - {x: -32, y: -29.5}
+        - {x: -23, y: -30.5}
+        - {x: 0, y: -30.5}
+        - {x: 8, y: -29.5}
+        - {x: 15, y: -27.5}
+        - {x: 21, y: -25.5}
+      - - {x: -33, y: -15.5}
+        - {x: -34, y: -14.5}
+        - {x: -37, y: -14.5}
+        - {x: -36, y: -13.5}
+        - {x: -36, y: -7.5}
+        - {x: -34, y: -4.5}
+        - {x: -33, y: 0.5}
+        - {x: -31, y: 1.5}
+        - {x: -30, y: 4.5}
+        - {x: -27, y: 8.5}
+        - {x: -27, y: 9.5}
+        - {x: -24, y: 12.5}
+        - {x: -23, y: 12.5}
+        - {x: -20, y: 14.5}
+        - {x: -15, y: 17.5}
+        - {x: -13, y: 17.5}
+        - {x: -11, y: 14.5}
+        - {x: -11, y: 11.5}
+        - {x: -9, y: 8.5}
+        - {x: -9, y: 2.5}
+        - {x: -8, y: 1.5}
+        - {x: -8, y: -1.5}
+        - {x: -6, y: -4.5}
+        - {x: -6, y: -6.5}
+        - {x: -4, y: -8.5}
+        - {x: -4, y: -13.5}
+        - {x: -2, y: -17.5}
+        - {x: -11, y: -17.5}
+        - {x: -12, y: -16.5}
+      - - {x: 9.999999, y: -11.5}
+        - {x: 9.999999, y: -6.5}
+        - {x: 8, y: -4.5}
+        - {x: 8, y: 0.5}
+        - {x: 6, y: 2.5}
+        - {x: 6, y: 4.5}
+        - {x: 5, y: 5.5}
+        - {x: 5, y: 9.5}
+        - {x: 4, y: 10.5}
+        - {x: 4, y: 13.5}
+        - {x: 3, y: 14.5}
+        - {x: 3, y: 16.5}
+        - {x: 2, y: 17.5}
+        - {x: 2, y: 21.5}
+        - {x: 1, y: 22.5}
+        - {x: 12, y: 21.5}
+        - {x: 13, y: 20.5}
+        - {x: 17, y: 20.5}
+        - {x: 18, y: 19.5}
+        - {x: 20, y: 19.5}
+        - {x: 22, y: 17.5}
+        - {x: 24, y: 17.5}
+        - {x: 27, y: 15.5}
+        - {x: 39, y: 4.5}
+        - {x: 39, y: 3.5}
+        - {x: 35, y: -1.5}
+        - {x: 34, y: -1.5}
+        - {x: 28, y: -6.5}
+        - {x: 13, y: -14.5}
+        - {x: 12, y: -14.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cb017d747c426190e8048329e4649a
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSymbols SDF_6
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 0
+        width: 149
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.5, y: -82.5}
+        - {x: -74.5, y: -62.5}
+        - {x: -74.5, y: 82.5}
+        - {x: 72.5, y: 82.5}
+        - {x: 74.5, y: 63.5}
+        - {x: 74.5, y: -63.5}
+        - {x: 50.5, y: -82.5}
+      physicsShape:
+      - - {x: 21.5, y: -25.5}
+        - {x: 31.5, y: -21.5}
+        - {x: 52.5, y: -16.5}
+        - {x: 64.5, y: -12.5}
+        - {x: 64.5, y: -9.5}
+        - {x: 60.5, y: -1.5}
+        - {x: 54.5, y: -0.5}
+        - {x: 30.5, y: 9.5}
+        - {x: 15.5, y: 16.5}
+        - {x: 19.5, y: 75.5}
+        - {x: 16.5, y: 76.5}
+        - {x: 10.5, y: 76.5}
+        - {x: 6.5, y: 72.5}
+        - {x: 2.5, y: 38.5}
+        - {x: 3.5, y: 20.5}
+        - {x: -18.5, y: 28.5}
+        - {x: -24.5, y: 30.5}
+        - {x: -29.5, y: 28.5}
+        - {x: -30.5, y: 22.5}
+        - {x: -24.5, y: 17.5}
+        - {x: -6.5, y: 10.5}
+        - {x: 1.5, y: 6.5}
+        - {x: -0.5, y: -11.5}
+        - {x: -3.5, y: -17.5}
+        - {x: -24.5, y: -22.5}
+        - {x: -36.5, y: -25.5}
+        - {x: -41.5, y: -29.5}
+        - {x: -42.5, y: -32.5}
+        - {x: -42.5, y: -35.5}
+        - {x: -37.5, y: -42.5}
+        - {x: -2.5, y: -77.5}
+        - {x: 6.5, y: -77.5}
+        - {x: 10.5, y: -70.5}
+        - {x: 11.5, y: -39.5}
+        - {x: 13.5, y: -26.5}
+      - - {x: -4.5, y: -58.5}
+        - {x: -4.5, y: -57.5}
+        - {x: -10.5, y: -49.5}
+        - {x: -13.5, y: -47.5}
+        - {x: -14.5, y: -47.5}
+        - {x: -23.5, y: -39.5}
+        - {x: -23.5, y: -38.5}
+        - {x: -26.5, y: -35.5}
+        - {x: -26.5, y: -36.5}
+        - {x: -23.5, y: -36.5}
+        - {x: -17.5, y: -33.5}
+        - {x: -15.5, y: -34.5}
+        - {x: -7.5, y: -32.5}
+        - {x: -1.5, y: -29.5}
+        - {x: -0.5, y: -28.5}
+        - {x: -1.5, y: -29.5}
+        - {x: -1.5, y: -33.5}
+        - {x: 0.5, y: -35.5}
+        - {x: -1.5, y: -38.5}
+        - {x: -1.5, y: -45.5}
+        - {x: -0.5, y: -50.5}
+        - {x: -1.5, y: -51.5}
+        - {x: -2.5, y: -56.5}
+        - {x: -3.5, y: -60.5}
+        - {x: -1.5, y: -59.5}
+      - - {x: 14.5, y: -0.5}
+        - {x: 15.5, y: 0.5}
+        - {x: 15.5, y: 1.5}
+        - {x: 22.5, y: -2.5}
+        - {x: 25.5, y: -2.5}
+        - {x: 28.5, y: -4.5}
+        - {x: 30.5, y: -4.5}
+        - {x: 32.5, y: -6.5}
+        - {x: 34.5, y: -6.5}
+        - {x: 37.5, y: -7.5}
+        - {x: 35.5, y: -6.5}
+        - {x: 31.5, y: -8.5}
+        - {x: 23.5, y: -9.5}
+        - {x: 20.5, y: -11.5}
+        - {x: 14.5, y: -12.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82872717844d4f61ad02f3b9b7dec02a
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSymbols SDF_2
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 102
+        height: 150.9239
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5466332}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: -75.46194}
+        - {x: -51, y: -60.46194}
+        - {x: -51, y: 73.53806}
+        - {x: -48, y: 75.53806}
+        - {x: 51, y: 75.53806}
+        - {x: 51, y: -75.46194}
+      physicsShape:
+      - - {x: 23, y: 33.53806}
+        - {x: -4, y: 33.53806}
+        - {x: -18, y: 31.53806}
+        - {x: -18, y: 33.53806}
+        - {x: -21, y: 33.53806}
+        - {x: -39, y: 31.53806}
+        - {x: -40, y: 28.53806}
+        - {x: -40, y: 19.53806}
+        - {x: -37, y: 14.53806}
+        - {x: -30, y: 9.538063}
+        - {x: -5, y: -13.46194}
+        - {x: -2, y: -15.46194}
+        - {x: 1, y: -15.46194}
+        - {x: 7, y: -9.461937}
+        - {x: 29, y: 23.53806}
+        - {x: 29, y: 30.53806}
+      - - {x: -22, y: 20.53806}
+        - {x: -5, y: 19.53806}
+        - {x: 1, y: 20.53806}
+        - {x: 2, y: 19.53806}
+        - {x: 11, y: 20.53806}
+        - {x: 5, y: 14.53806}
+        - {x: 0, y: 4.538063}
+        - {x: -2, y: 1.538063}
+        - {x: -3, y: 2.538063}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8039ab0afac640c6af879a18cd7d2549
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSymbols SDF_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 102
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51, y: -82.5}
+        - {x: -51, y: -82.5}
+        - {x: -51, y: 82.5}
+        - {x: 51, y: 82.5}
+      physicsShape:
+      - - {x: 7, y: -23.5}
+        - {x: 3, y: -17.5}
+        - {x: 2, y: -5.5}
+        - {x: 8, y: 6.5}
+        - {x: 15, y: 25.5}
+        - {x: 27, y: 54.5}
+        - {x: 27, y: 58.5}
+        - {x: 22, y: 60.5}
+        - {x: 18, y: 61.5}
+        - {x: -9.999999, y: 62.5}
+        - {x: -37, y: 63.5}
+        - {x: -44, y: 63.5}
+        - {x: -49, y: 61.5}
+        - {x: -49, y: 51.5}
+        - {x: -36, y: 29.5}
+        - {x: -26, y: 12.5}
+        - {x: -17, y: -4.5}
+        - {x: -13, y: -8.5}
+        - {x: -17, y: -21.5}
+        - {x: -22, y: -31.5}
+        - {x: -30, y: -48.5}
+        - {x: -38, y: -72.5}
+        - {x: -30, y: -76.5}
+        - {x: -25, y: -68.5}
+        - {x: -19, y: -55.5}
+        - {x: -13, y: -40.5}
+        - {x: -7, y: -28.5}
+        - {x: -3, y: -27.5}
+        - {x: -1, y: -33.5}
+        - {x: 2, y: -38.5}
+        - {x: 9.999999, y: -54.5}
+        - {x: 18, y: -64.5}
+        - {x: 25, y: -77.5}
+        - {x: 29, y: -81.5}
+        - {x: 35, y: -81.5}
+        - {x: 36, y: -78.5}
+        - {x: 36, y: -72.5}
+        - {x: 25, y: -54.5}
+      - - {x: -8, y: 5.5}
+        - {x: -28, y: 40.5}
+        - {x: -31, y: 45.5}
+        - {x: -36, y: 51.5}
+        - {x: -17, y: 50.5}
+        - {x: 12, y: 50.5}
+        - {x: 9.999999, y: 45.5}
+        - {x: 5, y: 37.5}
+        - {x: -5, y: 9.5}
+        - {x: -5, y: 7.5}
+        - {x: -8, y: 2.5}
+        - {x: -7, y: 1.5}
+        - {x: -7, y: 2.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14785bb177894efc9847423a07688e51
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSymbols SDF_7
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 0
+        width: 79
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.5, y: -82.5}
+        - {x: -39.5, y: -80.5}
+        - {x: -39.5, y: 82.5}
+        - {x: 39.5, y: 82.5}
+        - {x: 39.5, y: -82.5}
+      physicsShape:
+      - - {x: 36.5, y: -29.5}
+        - {x: 39.5, y: -25.5}
+        - {x: 39.5, y: -19.5}
+        - {x: 35.5, y: -15.5}
+        - {x: 17.5, y: -11.5}
+        - {x: 14.5, y: 12.5}
+        - {x: 23.5, y: 19.5}
+        - {x: 39.5, y: 34.5}
+        - {x: 39.5, y: 39.5}
+        - {x: 31.5, y: 49.5}
+        - {x: 13.5, y: 70.5}
+        - {x: 7.5, y: 69.5}
+        - {x: 2.5, y: 66.5}
+        - {x: 1.5, y: 50.5}
+        - {x: 1.5, y: 18.5}
+        - {x: -25.5, y: -3.5}
+        - {x: -25.5, y: -10.5}
+        - {x: -24.5, y: -15.5}
+        - {x: 1.5, y: -22.5}
+        - {x: 1.5, y: -63.5}
+        - {x: 3.5, y: -65.5}
+        - {x: 4.5, y: -65.5}
+        - {x: 9.5, y: -64.5}
+        - {x: 14.5, y: -56.5}
+        - {x: 14.5, y: -24.5}
+      - - {x: -6.5, y: -5.5}
+        - {x: -3.5, y: -3.5}
+        - {x: 2.5, y: 2.5}
+        - {x: 0.5, y: -5.5}
+        - {x: 1.5, y: -7.5}
+        - {x: 0.5, y: -6.5}
+      - - {x: 15.5, y: 32.5}
+        - {x: 14.5, y: 33.5}
+        - {x: 14.5, y: 35.5}
+        - {x: 15.5, y: 36.5}
+        - {x: 14.5, y: 39.5}
+        - {x: 15.5, y: 40.5}
+        - {x: 15.5, y: 50.5}
+        - {x: 14.5, y: 51.5}
+        - {x: 18.5, y: 45.5}
+        - {x: 19.5, y: 43.5}
+        - {x: 22.5, y: 40.5}
+        - {x: 24.5, y: 39.5}
+        - {x: 25.5, y: 38.5}
+        - {x: 14.5, y: 29.5}
+        - {x: 14.5, y: 27.5}
+        - {x: 15.5, y: 27.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b439fa9ded364b9f868c23f06b239638
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSymbols SDF_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 99
+        height: 157.8506
+      alignment: 9
+      pivot: {x: 0.5, y: 0.522646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: -78.92532}
+        - {x: -49.5, y: -78.92532}
+        - {x: -49.5, y: 79.07468}
+        - {x: -47.5, y: 79.07468}
+        - {x: -31.5, y: 78.07468}
+        - {x: -13.5, y: 79.07468}
+        - {x: -12.5, y: 79.07468}
+        - {x: 27.5, y: 76.07468}
+        - {x: 39.5, y: 71.07468}
+        - {x: 49.5, y: 62.07467}
+        - {x: 49.5, y: -66.92532}
+      physicsShape:
+      - - {x: 14.5, y: 25.07467}
+        - {x: 15.5, y: 27.07468}
+        - {x: 8.5, y: 31.07468}
+        - {x: 3.5, y: 29.07468}
+        - {x: -5.5, y: 26.07468}
+        - {x: -15.5, y: 35.07468}
+        - {x: -18.5, y: 35.07468}
+        - {x: -26.5, y: 31.07468}
+        - {x: -23.5, y: 25.07467}
+        - {x: -12.5, y: 14.07468}
+        - {x: -30.5, y: -1.925323}
+        - {x: -41.5, y: -16.92532}
+        - {x: -41.5, y: -20.92532}
+        - {x: -37.5, y: -23.92532}
+        - {x: -11.5, y: -25.92532}
+        - {x: 38.5, y: -25.92532}
+        - {x: 39.5, y: -22.92532}
+        - {x: 39.5, y: -13.92532}
+        - {x: 5.5, y: 16.07468}
+      - - {x: -19.5, y: -10.92532}
+        - {x: -8.5, y: -0.9253235}
+        - {x: -2.5, y: 4.074677}
+        - {x: -1.5, y: 4.074677}
+        - {x: 10.5, y: -6.925323}
+        - {x: 17.5, y: -12.92532}
+        - {x: -7.5, y: -11.92532}
+        - {x: -8.5, y: -10.92532}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ca33126aef4ff2857cdb8d79ee539d
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSymbols SDF_5
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 0
+        width: 93
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: -82.5}
+        - {x: -46.5, y: -76.5}
+        - {x: -46.5, y: 82.5}
+        - {x: 46.5, y: 82.5}
+        - {x: 46.5, y: -72.5}
+        - {x: 44.5, y: -82.5}
+      physicsShape:
+      - - {x: 42.5, y: 26.5}
+        - {x: 44.5, y: 28.5}
+        - {x: 44.5, y: 33.5}
+        - {x: 42.5, y: 39.5}
+        - {x: 8.5, y: 39.5}
+        - {x: 9.5, y: 44.5}
+        - {x: 27.5, y: 43.5}
+        - {x: 34.5, y: 45.5}
+        - {x: 37.5, y: 54.5}
+        - {x: 35.5, y: 59.5}
+        - {x: 6.5, y: 59.5}
+        - {x: 6.5, y: 71.5}
+        - {x: 4.5, y: 73.49999}
+        - {x: -0.5, y: 75.5}
+        - {x: -1.5, y: 75.5}
+        - {x: -5.5, y: 69.5}
+        - {x: -8.5, y: 60.5}
+        - {x: -30.5, y: 58.5}
+        - {x: -30.5, y: 52.5}
+        - {x: -23.5, y: 46.5}
+        - {x: -6.5, y: 40.5}
+        - {x: -29.5, y: 39.5}
+        - {x: -30.5, y: 36.5}
+        - {x: -30.5, y: 33.5}
+        - {x: -25.5, y: 26.5}
+        - {x: -5.5, y: 22.5}
+        - {x: -6.5, y: -4.5}
+        - {x: -5.5, y: -67.5}
+        - {x: -3.5, y: -68.5}
+        - {x: 0.5, y: -68.5}
+        - {x: 8.5, y: -58.5}
+        - {x: 7.5, y: 18.5}
+        - {x: 16.5, y: 25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72540d3bd08e40739969b7f558778e76
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ParticleSymbols SDF_3
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 82
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: -82.5}
+        - {x: -41, y: -82.5}
+        - {x: -41, y: 82.5}
+        - {x: 41, y: 82.5}
+      physicsShape:
+      - - {x: 36, y: -54.5}
+        - {x: 37, y: -53.5}
+        - {x: 37, y: -45.5}
+        - {x: 35, y: -40.5}
+        - {x: 6, y: -42.5}
+        - {x: 14, y: -32.5}
+        - {x: 28, y: -32.5}
+        - {x: 31, y: -28.5}
+        - {x: 34, y: -21.5}
+        - {x: 8, y: -16.5}
+        - {x: 7, y: 16.5}
+        - {x: 7, y: 63.5}
+        - {x: 5, y: 69.5}
+        - {x: 3, y: 71.5}
+        - {x: 2, y: 71.5}
+        - {x: -6, y: 66.5}
+        - {x: -8, y: 36.5}
+        - {x: -7, y: 8.5}
+        - {x: -9, y: -18.5}
+        - {x: -31, y: -20.5}
+        - {x: -31, y: -31.5}
+        - {x: -6, y: -34.5}
+        - {x: -17, y: -41.5}
+        - {x: -29, y: -42.5}
+        - {x: -31, y: -44.5}
+        - {x: -28, y: -51.5}
+        - {x: -25, y: -54.5}
+        - {x: -8, y: -56.5}
+        - {x: -8, y: -72.5}
+        - {x: -4, y: -73.49999}
+        - {x: 4, y: -73.49999}
+        - {x: 6, y: -69.5}
+        - {x: 6, y: -53.5}
+        - {x: 23, y: -55.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc3f4679967469e9eee5b36d8740852
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ParticleSymbols SDF_7: 21300008
+      ParticleSymbols SDF_5: 21300012
+      ParticleSymbols SDF_3: 21300014
+      ParticleSymbols SDF_4: 21300000
+      ParticleSymbols SDF_1: 21300010
+      ParticleSymbols SDF_0: 21300006
+      ParticleSymbols SDF_2: 21300004
+      ParticleSymbols SDF_6: 21300002
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

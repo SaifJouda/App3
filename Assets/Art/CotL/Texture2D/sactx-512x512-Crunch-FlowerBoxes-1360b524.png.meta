@@ -1,0 +1,1121 @@
+fileFormatVersion: 2
+guid: 537c716b8d97af948a8b6c6d31b5efc5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: FlowerBoxRedSide4
+  - first:
+      213: 21300002
+    second: FlowerBoxRedEnd
+  - first:
+      213: 21300004
+    second: FlowerBoxEnd
+  - first:
+      213: 21300006
+    second: FlowerBoxSide3
+  - first:
+      213: 21300008
+    second: FlowerBoxTop
+  - first:
+      213: 21300010
+    second: FlowerBoxSide4
+  - first:
+      213: 21300012
+    second: FlowerBoxFlower_2
+  - first:
+      213: 21300014
+    second: FlowerBoxFlower_4
+  - first:
+      213: 21300016
+    second: FlowerBoxFlower_6
+  - first:
+      213: 21300018
+    second: FlowerBoxSide2
+  - first:
+      213: 21300020
+    second: FlowerBoxFlower_5
+  - first:
+      213: 21300022
+    second: FlowerBoxFlower_4_BottomAligned
+  - first:
+      213: 21300024
+    second: FlowerBoxSide1
+  - first:
+      213: 21300026
+    second: FlowerBoxRedSide1
+  - first:
+      213: 21300028
+    second: FlowerBoxRedSide3
+  - first:
+      213: 21300030
+    second: FlowerBox_Leaf2
+  - first:
+      213: 21300032
+    second: FlowerBoxFlower_3
+  - first:
+      213: 21300034
+    second: FlowerBox_Leaf3
+  - first:
+      213: 21300036
+    second: FlowerBoxFlower_1_BottomAligned
+  - first:
+      213: 21300038
+    second: FlowerBox_Leaf4
+  - first:
+      213: 21300040
+    second: FlowerBoxRedSide2
+  - first:
+      213: 21300042
+    second: FlowerBoxFlower_1
+  - first:
+      213: 21300044
+    second: FlowerBox_Leaf1
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 29
+  maxTextureSize: 512
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FlowerBoxRedSide4
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 220
+        width: 61
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: -35}
+        - {x: -30.5, y: -35}
+        - {x: -30.5, y: 35}
+        - {x: 30.5, y: 35}
+      physicsShape:
+      - - {x: -30.5, y: 35}
+        - {x: -30.5, y: -35}
+        - {x: 30.5, y: -35}
+        - {x: 30.5, y: 35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c112f79b169142f2b841b124210755f5
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerBoxRedEnd
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 397
+        width: 31
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -34}
+        - {x: -15.5, y: 34}
+        - {x: 15.5, y: 34}
+        - {x: 15.5, y: -34}
+      physicsShape:
+      - - {x: -15.5, y: 34}
+        - {x: -15.5, y: -34}
+        - {x: 15.5, y: -34}
+        - {x: 15.5, y: 34}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5826d8566bea4bc8b2e3a654cab6eaba
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerBoxEnd
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 397
+        width: 31
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -34}
+        - {x: -15.5, y: 34}
+        - {x: 15.5, y: 34}
+        - {x: 15.5, y: -34}
+      physicsShape:
+      - - {x: -15.5, y: 34}
+        - {x: -15.5, y: -34}
+        - {x: 15.5, y: -34}
+        - {x: 15.5, y: 34}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497b95187ecf4d40877b883b8a3f7a5d
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerBoxSide3
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 0
+        width: 62
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -35}
+        - {x: -31, y: -35}
+        - {x: -31, y: 35}
+        - {x: 31, y: 35}
+      physicsShape:
+      - - {x: 31, y: 33}
+        - {x: 30, y: 35}
+        - {x: -30, y: 35}
+        - {x: -31, y: 34}
+        - {x: -31, y: -35}
+        - {x: 30, y: -35}
+        - {x: 31, y: -34}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25592f0dc4e4c4eacb3672fe9a76836
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerBoxTop
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 262
+        height: 266
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -101, y: -48}
+        - {x: -131, y: -6}
+        - {x: -131, y: 18}
+        - {x: -116, y: 39}
+        - {x: -41, y: 117}
+        - {x: -21, y: 133}
+        - {x: 5, y: 133}
+        - {x: 32, y: 119}
+        - {x: 68, y: 70}
+        - {x: 121, y: 21}
+        - {x: 131, y: 8}
+        - {x: 131, y: -10}
+        - {x: 37, y: -108}
+        - {x: 11, y: -133}
+        - {x: -8, y: -133}
+      physicsShape:
+      - - {x: 36, y: -94}
+        - {x: 48, y: -91}
+        - {x: 74, y: -66.99999}
+        - {x: 79, y: -57}
+        - {x: 91, y: -49}
+        - {x: 103, y: -35}
+        - {x: 117, y: -21}
+        - {x: 131, y: -9}
+        - {x: 131, y: 9}
+        - {x: 122, y: 21}
+        - {x: 116, y: 23}
+        - {x: 101, y: 39}
+        - {x: 89, y: 45}
+        - {x: 83, y: 52}
+        - {x: 72, y: 63}
+        - {x: 61, y: 71}
+        - {x: 54, y: 71}
+        - {x: 53, y: 85}
+        - {x: 50, y: 91}
+        - {x: 40, y: 97.99999}
+        - {x: 30, y: 112}
+        - {x: 23, y: 118}
+        - {x: 12, y: 117}
+        - {x: 9, y: 127}
+        - {x: 3, y: 133}
+        - {x: -14, y: 133}
+        - {x: -28, y: 120}
+        - {x: -38, y: 110}
+        - {x: -56, y: 94}
+        - {x: -59, y: 81}
+        - {x: -68, y: 79.99999}
+        - {x: -76, y: 70}
+        - {x: -91.99999, y: 57}
+        - {x: -101, y: 46}
+        - {x: -113, y: 38}
+        - {x: -115, y: 31}
+        - {x: -131, y: 18}
+        - {x: -131, y: -5}
+        - {x: -124, y: -13}
+        - {x: -113, y: -21}
+        - {x: -109, y: -34}
+        - {x: -97.99999, y: -44}
+        - {x: -89, y: -46}
+        - {x: -85.99999, y: -56}
+        - {x: -57, y: -83}
+        - {x: -42, y: -89}
+        - {x: -37, y: -100}
+        - {x: -25, y: -111}
+        - {x: -7, y: -133}
+        - {x: 9, y: -133}
+        - {x: 29, y: -113}
+        - {x: 36, y: -103}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfa69243e3b4b70942e03b1c6aa6105
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerBoxSide4
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 221
+        width: 61
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: -35}
+        - {x: -30.5, y: -35}
+        - {x: -30.5, y: 35}
+        - {x: 30.5, y: 35}
+      physicsShape:
+      - - {x: -30.5, y: 35}
+        - {x: -30.5, y: -35}
+        - {x: 30.5, y: -35}
+        - {x: 30.5, y: 35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa8ad8c3e334c7094a1231b00ffd48d
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerBoxFlower_2
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 132
+        width: 83
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 42}
+        - {x: -41.5, y: 31}
+        - {x: -41.5, y: -10}
+        - {x: -18.5, y: -42}
+        - {x: 15.5, y: -42}
+        - {x: 41.5, y: -23}
+        - {x: 41.5, y: 16}
+        - {x: 37.5, y: 31}
+        - {x: 29.5, y: 42}
+      physicsShape:
+      - - {x: 41.5, y: -13}
+        - {x: 33.5, y: -26}
+        - {x: 17.5, y: -26}
+        - {x: 14.5, y: -33}
+        - {x: 9.5, y: -42}
+        - {x: -16.5, y: -42}
+        - {x: -28.5, y: -28}
+        - {x: -24.5, y: -15}
+        - {x: -37.5, y: -11}
+        - {x: -41.5, y: -4}
+        - {x: -41.5, y: 16}
+        - {x: -28.5, y: 30}
+        - {x: -5.5, y: 42}
+        - {x: 19.5, y: 42}
+        - {x: 31.5, y: 32}
+        - {x: 31.5, y: 20}
+        - {x: 41.5, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84da6b813ab41b2973c4331aef774e8
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerBoxFlower_4
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 245
+        width: 91
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: -33}
+        - {x: -45.5, y: -13}
+        - {x: -45.5, y: 28}
+        - {x: -7.5, y: 41}
+        - {x: 31.5, y: 41}
+        - {x: 45.5, y: 26}
+        - {x: 45.5, y: -15}
+        - {x: 23.5, y: -41}
+        - {x: -14.5, y: -41}
+      physicsShape:
+      - - {x: 45.5, y: 6}
+        - {x: 39.5, y: 15}
+        - {x: 27.5, y: 35}
+        - {x: 20.5, y: 41}
+        - {x: -1.5, y: 41}
+        - {x: -9.5, y: 35}
+        - {x: -33.5, y: 29}
+        - {x: -43.5, y: 20}
+        - {x: -45.5, y: 16}
+        - {x: -45.5, y: -5}
+        - {x: -34.5, y: -14}
+        - {x: -23.5, y: -26}
+        - {x: -23.5, y: -32}
+        - {x: -13.5, y: -41}
+        - {x: 10.5, y: -41}
+        - {x: 20.5, y: -36}
+        - {x: 38.5, y: -20}
+        - {x: 45.5, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2814647d512f483882c052008977019d
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerBoxFlower_6
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 74
+        width: 57
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: -29.5}
+        - {x: -28.5, y: -29.5}
+        - {x: -28.5, y: 29.5}
+        - {x: 28.5, y: 29.5}
+      physicsShape:
+      - - {x: 28.5, y: 21.5}
+        - {x: 19.5, y: 29.5}
+        - {x: -24.5, y: 29.5}
+        - {x: -28.5, y: 25.5}
+        - {x: -28.5, y: -2.5}
+        - {x: -25.5, y: -21.5}
+        - {x: -16.5, y: -29.5}
+        - {x: 7.5, y: -29.5}
+        - {x: 14.5, y: -28.5}
+        - {x: 25.5, y: -25.5}
+        - {x: 28.5, y: -22.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4f690435c74162abd22c1651713c3a
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerBoxSide2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 323
+        width: 62
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -35}
+        - {x: -31, y: -35}
+        - {x: -31, y: 35}
+        - {x: 31, y: 35}
+      physicsShape:
+      - - {x: 30, y: 35}
+        - {x: -31, y: 35}
+        - {x: -31, y: -35}
+        - {x: 30, y: -35}
+        - {x: 31, y: -34}
+        - {x: 31, y: 33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fc6ef95e3e4027aabce6a47be26fcc
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerBoxFlower_5
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 321
+        width: 83
+        height: 84
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: -42}
+        - {x: -41.5, y: -31}
+        - {x: -41.5, y: 10}
+        - {x: -18.5, y: 42}
+        - {x: 15.5, y: 42}
+        - {x: 41.5, y: 23}
+        - {x: 41.5, y: -16}
+        - {x: 37.5, y: -31}
+        - {x: 29.5, y: -42}
+      physicsShape:
+      - - {x: 41.5, y: 13}
+        - {x: 33.5, y: 26}
+        - {x: 17.5, y: 26}
+        - {x: 14.5, y: 33}
+        - {x: 9.5, y: 42}
+        - {x: -16.5, y: 42}
+        - {x: -28.5, y: 28}
+        - {x: -24.5, y: 15}
+        - {x: -37.5, y: 11}
+        - {x: -41.5, y: 4}
+        - {x: -41.5, y: -16}
+        - {x: -28.5, y: -30}
+        - {x: -5.5, y: -42}
+        - {x: 19.5, y: -42}
+        - {x: 31.5, y: -32}
+        - {x: 31.5, y: -20}
+        - {x: 41.5, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e67e46c388e4af68c0894597c6a8283
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerBoxFlower_4_BottomAligned
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 91
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 33}
+        - {x: -45.5, y: 13}
+        - {x: -45.5, y: -28}
+        - {x: -7.5, y: -41}
+        - {x: 31.5, y: -41}
+        - {x: 45.5, y: -26}
+        - {x: 45.5, y: 15}
+        - {x: 23.5, y: 41}
+        - {x: -14.5, y: 41}
+      physicsShape:
+      - - {x: 45.5, y: -6}
+        - {x: 39.5, y: -15}
+        - {x: 27.5, y: -35}
+        - {x: 20.5, y: -41}
+        - {x: -1.5, y: -41}
+        - {x: -9.5, y: -35}
+        - {x: -33.5, y: -29}
+        - {x: -43.5, y: -20}
+        - {x: -45.5, y: -16}
+        - {x: -45.5, y: 5}
+        - {x: -34.5, y: 14}
+        - {x: -23.5, y: 26}
+        - {x: -23.5, y: 32}
+        - {x: -13.5, y: 41}
+        - {x: 10.5, y: 41}
+        - {x: 20.5, y: 36}
+        - {x: 38.5, y: 20}
+        - {x: 45.5, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c242a469e559471a974415a3d9354c36
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerBoxSide1
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 221
+        width: 61
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: -35}
+        - {x: -30.5, y: -35}
+        - {x: -30.5, y: 35}
+        - {x: 30.5, y: 35}
+      physicsShape:
+      - - {x: -30.5, y: 35}
+        - {x: -30.5, y: -35}
+        - {x: 30.5, y: -35}
+        - {x: 30.5, y: 35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef4ab732e4d41888993df63135bead6
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerBoxRedSide1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 331
+        width: 61
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: -35}
+        - {x: -30.5, y: -35}
+        - {x: -30.5, y: 35}
+        - {x: 30.5, y: 35}
+      physicsShape:
+      - - {x: -30.5, y: 35}
+        - {x: -30.5, y: -35}
+        - {x: 30.5, y: -35}
+        - {x: 30.5, y: 35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7894628eb0154fb18f757ee1d23180a4
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerBoxRedSide3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 323
+        width: 62
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -35}
+        - {x: -31, y: -35}
+        - {x: -31, y: 35}
+        - {x: 31, y: 35}
+      physicsShape:
+      - - {x: 31, y: 33}
+        - {x: 30, y: 35}
+        - {x: -30, y: 35}
+        - {x: -31, y: 34}
+        - {x: -31, y: -35}
+        - {x: 30, y: -35}
+        - {x: 31, y: -34}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253e2aa35d7e4d159e4bf59a0fde5c97
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerBox_Leaf2
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 381
+        width: 73
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.5, y: 27}
+        - {x: -36.5, y: 27}
+        - {x: -36.5, y: 3}
+        - {x: -21.5, y: -16}
+        - {x: -10.5, y: -27}
+        - {x: 36.5, y: -27}
+      physicsShape:
+      - - {x: 2.5, y: -27}
+        - {x: -14.5, y: -24}
+        - {x: -36.5, y: 2}
+        - {x: -36.5, y: 25}
+        - {x: -33.5, y: 27}
+        - {x: 34.5, y: 27}
+        - {x: 36.5, y: 24}
+        - {x: 36.5, y: -18}
+        - {x: 29.5, y: -27}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92baa6e1b796496588758e82a3b99deb
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerBoxFlower_3
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 137
+        width: 57
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: -29.5}
+        - {x: -28.5, y: -29.5}
+        - {x: -28.5, y: 29.5}
+        - {x: 28.5, y: 29.5}
+      physicsShape:
+      - - {x: 19.5, y: 29.5}
+        - {x: 11.5, y: 29.5}
+        - {x: 6.5, y: 28.5}
+        - {x: 0.5, y: 29.5}
+        - {x: -24.5, y: 29.5}
+        - {x: -28.5, y: 25.5}
+        - {x: -28.5, y: 0.5}
+        - {x: -23.5, y: -21.5}
+        - {x: -18.5, y: -26.5}
+        - {x: -14.5, y: -29.5}
+        - {x: 7.5, y: -29.5}
+        - {x: 22.5, y: -26.5}
+        - {x: 28.5, y: -22.5}
+        - {x: 28.5, y: 21.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2dafc84f27a450e872b0ad8fbd3f617
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerBox_Leaf3
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 86
+        width: 89
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44.5, y: -28.5}
+        - {x: -44.5, y: -28.5}
+        - {x: -44.5, y: 8.5}
+        - {x: -36.5, y: 28.5}
+        - {x: 22.5, y: 28.5}
+        - {x: 44.5, y: 16.5}
+      physicsShape:
+      - - {x: 32.5, y: 15.5}
+        - {x: 22.5, y: 15.5}
+        - {x: 10.5, y: 19.5}
+        - {x: -1.5, y: 28.5}
+        - {x: -16.5, y: 28.5}
+        - {x: -24.5, y: 19.5}
+        - {x: -24.5, y: 14.5}
+        - {x: -28.5, y: 8.5}
+        - {x: -36.5, y: 12.5}
+        - {x: -44.5, y: 4.5}
+        - {x: -44.5, y: -27.5}
+        - {x: -43.5, y: -28.5}
+        - {x: 42.5, y: -28.5}
+        - {x: 44.5, y: -26.5}
+        - {x: 44.5, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7020d397544d468fb6ef7788a17bd28f
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerBoxFlower_1_BottomAligned
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 237
+        width: 91
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: -33}
+        - {x: -45.5, y: -13}
+        - {x: -45.5, y: 28}
+        - {x: -7.5, y: 41}
+        - {x: 31.5, y: 41}
+        - {x: 45.5, y: 26}
+        - {x: 45.5, y: -15}
+        - {x: 23.5, y: -41}
+        - {x: -14.5, y: -41}
+      physicsShape:
+      - - {x: 45.5, y: 6}
+        - {x: 39.5, y: 15}
+        - {x: 27.5, y: 35}
+        - {x: 20.5, y: 41}
+        - {x: -1.5, y: 41}
+        - {x: -9.5, y: 35}
+        - {x: -33.5, y: 29}
+        - {x: -43.5, y: 20}
+        - {x: -45.5, y: 16}
+        - {x: -45.5, y: -5}
+        - {x: -34.5, y: -14}
+        - {x: -23.5, y: -26}
+        - {x: -23.5, y: -32}
+        - {x: -13.5, y: -41}
+        - {x: 10.5, y: -41}
+        - {x: 20.5, y: -36}
+        - {x: 38.5, y: -20}
+        - {x: 45.5, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36579f8c1fa54ae8b29af378167cd502
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerBox_Leaf4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 60
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: -21}
+        - {x: -30, y: -21}
+        - {x: -30, y: 19}
+        - {x: -27, y: 21}
+        - {x: 18, y: 21}
+        - {x: 27, y: 17}
+        - {x: 30, y: 9.000002}
+      physicsShape:
+      - - {x: 18, y: 14}
+        - {x: 1, y: 21}
+        - {x: -25, y: 21}
+        - {x: -30, y: 19}
+        - {x: -30, y: -21}
+        - {x: 30, y: -21}
+        - {x: 30, y: 3}
+        - {x: 24, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d34d5b575a4ad3b5952fc726de852e
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerBoxRedSide2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 147
+        width: 62
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -35}
+        - {x: -31, y: -35}
+        - {x: -31, y: 35}
+        - {x: 31, y: 35}
+      physicsShape:
+      - - {x: 30, y: 35}
+        - {x: -31, y: 35}
+        - {x: -31, y: -35}
+        - {x: 30, y: -35}
+        - {x: 31, y: -34}
+        - {x: 31, y: 33}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916d16ccf60a4fb0b334e81f6a75a969
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerBoxFlower_1
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 0
+        width: 91
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: -33}
+        - {x: -45.5, y: -13}
+        - {x: -45.5, y: 28}
+        - {x: -7.5, y: 41}
+        - {x: 31.5, y: 41}
+        - {x: 45.5, y: 26}
+        - {x: 45.5, y: -15}
+        - {x: 23.5, y: -41}
+        - {x: -14.5, y: -41}
+      physicsShape:
+      - - {x: 45.5, y: 6}
+        - {x: 39.5, y: 15}
+        - {x: 27.5, y: 35}
+        - {x: 20.5, y: 41}
+        - {x: -1.5, y: 41}
+        - {x: -9.5, y: 35}
+        - {x: -33.5, y: 29}
+        - {x: -43.5, y: 20}
+        - {x: -45.5, y: 16}
+        - {x: -45.5, y: -5}
+        - {x: -34.5, y: -14}
+        - {x: -23.5, y: -26}
+        - {x: -23.5, y: -32}
+        - {x: -13.5, y: -41}
+        - {x: 10.5, y: -41}
+        - {x: 20.5, y: -36}
+        - {x: 38.5, y: -20}
+        - {x: 45.5, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdd85d3210f4adc95cee10a3ddc4d08
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlowerBox_Leaf1
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 295
+        width: 31
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: -15.5}
+        - {x: -15.5, y: 15.5}
+        - {x: 15.5, y: 15.5}
+        - {x: 15.5, y: -15.5}
+      physicsShape:
+      - - {x: -11.5, y: 15.5}
+        - {x: -15.5, y: 10.5}
+        - {x: -15.5, y: -15.5}
+        - {x: 15.5, y: -15.5}
+        - {x: 15.5, y: 5.5}
+        - {x: 6.5, y: 15.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8e6e8a53d24c61be33bfe8ac838efb
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      FlowerBox_Leaf3: 21300034
+      FlowerBoxTop: 21300008
+      FlowerBoxFlower_2: 21300012
+      FlowerBoxRedSide2: 21300040
+      FlowerBoxSide2: 21300018
+      FlowerBoxFlower_4: 21300014
+      FlowerBoxRedEnd: 21300002
+      FlowerBoxSide4: 21300010
+      FlowerBoxSide1: 21300024
+      FlowerBoxSide3: 21300006
+      FlowerBoxFlower_3: 21300032
+      FlowerBoxFlower_1: 21300042
+      FlowerBoxEnd: 21300004
+      FlowerBoxFlower_4_BottomAligned: 21300022
+      FlowerBoxFlower_1_BottomAligned: 21300036
+      FlowerBoxRedSide4: 21300000
+      FlowerBoxFlower_6: 21300016
+      FlowerBox_Leaf1: 21300044
+      FlowerBox_Leaf4: 21300038
+      FlowerBox_Leaf2: 21300030
+      FlowerBoxFlower_5: 21300020
+      FlowerBoxRedSide1: 21300026
+      FlowerBoxRedSide3: 21300028
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

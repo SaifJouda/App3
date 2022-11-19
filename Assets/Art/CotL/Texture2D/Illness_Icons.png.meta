@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: d5bfa22c259d2e74d8cc5322090b2d53
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Illness_Icons_1
+  - first:
+      213: 21300002
+    second: Illness_Icons_0
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 128
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Illness_Icons_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 4.07612
+        width: 62.92388
+        height: 64.84776
+      alignment: 9
+      pivot: {x: 0.508551, y: 0.4845792}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.538061, y: -32.5}
+        - {x: -7.461939, y: -32.5}
+        - {x: -18.46194, y: -25.5}
+        - {x: -23.46194, y: -26.5}
+        - {x: -31.46194, y: -13.5}
+        - {x: -31.46194, y: 18.5}
+        - {x: -18.46194, y: 32.5}
+        - {x: 31.53806, y: 32.5}
+        - {x: 31.53806, y: -28.5}
+      physicsShape:
+      - - {x: 30.53806, y: -4.500002}
+        - {x: 30.53806, y: 2.499998}
+        - {x: 29.53806, y: 5.499998}
+        - {x: 23.53806, y: 22.5}
+        - {x: 15.53806, y: 25.5}
+        - {x: 4.538061, y: 30.5}
+        - {x: 2.538061, y: 31.5}
+        - {x: -7.461939, y: 31.5}
+        - {x: -25.46194, y: 22.5}
+        - {x: -31.46194, y: 5.499998}
+        - {x: -31.46194, y: -3.500002}
+        - {x: -22.46194, y: -8.500002}
+        - {x: -26.46194, y: -15.5}
+        - {x: -23.46194, y: -26.5}
+        - {x: -7.461939, y: -31.5}
+        - {x: 2.538061, y: -31.5}
+        - {x: 9.538061, y: -21.5}
+        - {x: 21.53806, y: -26.5}
+        - {x: 23.53806, y: -15.5}
+      - - {x: -7.461939, y: 5.499998}
+        - {x: -3.461939, y: 6.499998}
+        - {x: -1.461939, y: 3.499998}
+        - {x: -2.461939, y: 1.499998}
+        - {x: -6.461939, y: 2.499998}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7b8964bdca40289166a5ea32d7565a
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Illness_Icons_0
+      rect:
+        serializedVersion: 2
+        x: 1.07612
+        y: 4.026751
+        width: 62.92388
+        height: 64.89713
+      alignment: 9
+      pivot: {x: 0.4914491, y: 0.4772668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.53806, y: -32.47532}
+        - {x: -31.53806, y: -23.47532}
+        - {x: -31.53806, y: 11.52468}
+        - {x: -21.53806, y: 29.52468}
+        - {x: -0.5380592, y: 32.52468}
+        - {x: 23.46194, y: 32.52468}
+        - {x: 31.46194, y: 24.52468}
+        - {x: 31.46194, y: -0.475317}
+        - {x: 3.461941, y: -31.47532}
+        - {x: 0.4619408, y: -32.47532}
+      physicsShape:
+      - - {x: 15.46194, y: -7.475317}
+        - {x: 26.46194, y: -1.475317}
+        - {x: 30.46194, y: 0.524683}
+        - {x: 30.46194, y: 11.52468}
+        - {x: 31.46194, y: 12.52468}
+        - {x: 31.46194, y: 21.52468}
+        - {x: 27.46194, y: 22.52468}
+        - {x: 21.46194, y: 31.52468}
+        - {x: 9.46194, y: 31.52468}
+        - {x: 0.4619408, y: 30.52468}
+        - {x: -13.53806, y: 22.52468}
+        - {x: -23.53806, y: 12.52468}
+        - {x: -30.53806, y: -3.475317}
+        - {x: -30.53806, y: -20.47532}
+        - {x: -21.53806, y: -31.47532}
+        - {x: -9.538059, y: -31.47532}
+        - {x: 1.461941, y: -28.47532}
+        - {x: 3.461941, y: -26.47532}
+        - {x: 8.461941, y: -12.47532}
+        - {x: 8.461941, y: -9.475317}
+      - - {x: -12.53806, y: -8.475317}
+        - {x: -13.53806, y: -7.475317}
+        - {x: -12.53806, y: -6.475317}
+        - {x: -12.53806, y: -5.475317}
+        - {x: -11.53806, y: -4.475317}
+        - {x: -8.538059, y: -4.475317}
+        - {x: -7.538059, y: -5.475317}
+        - {x: -7.538059, y: -8.475317}
+        - {x: -8.538059, y: -9.475317}
+        - {x: -9.538059, y: -9.475317}
+        - {x: -10.53806, y: -10.47532}
+        - {x: -10.53806, y: -9.475317}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17c2470a60142e18bbb557886258fac
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Illness_Icons_1: 21300000
+      Illness_Icons_0: 21300002
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

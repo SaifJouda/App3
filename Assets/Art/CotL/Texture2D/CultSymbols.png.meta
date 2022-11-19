@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: a26c1e941eeae4d4ca9112b0ffccd178
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: CultSymbols_0
+  - first:
+      213: 21300002
+    second: CultSymbols_2
+  - first:
+      213: 21300004
+    second: CultSymbols_5
+  - first:
+      213: 21300006
+    second: CultSymbols_1
+  - first:
+      213: 21300008
+    second: CultSymbols_3
+  - first:
+      213: 21300010
+    second: CultSymbols_6
+  - first:
+      213: 21300012
+    second: CultSymbols_4
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 29
+  maxTextureSize: 896
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CultSymbols_0
+      rect:
+        serializedVersion: 2
+        x: 23.02675
+        y: 11.01291
+        width: 61.9465
+        height: 108.933
+      alignment: 9
+      pivot: {x: 0.6372152, y: 0.4864193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: -54.47939}
+        - {x: -20, y: -54.47939}
+        - {x: -31, y: -36.47939}
+        - {x: -31, y: 17.52061}
+        - {x: 2, y: 51.52061}
+        - {x: 6, y: 54.52061}
+        - {x: 24, y: 54.52061}
+        - {x: 31, y: 35.52061}
+        - {x: 31, y: -48.47939}
+      physicsShape:
+      - - {x: 29, y: -30.47939}
+        - {x: 29, y: -20.47939}
+        - {x: 10, y: -14.47939}
+        - {x: 24, y: -14.47939}
+        - {x: 28, y: -5.479389}
+        - {x: 23, y: -0.4793892}
+        - {x: 12, y: 3.52061}
+        - {x: 16, y: 27.52061}
+        - {x: 15, y: 51.52061}
+        - {x: 15, y: 52.52061}
+        - {x: 7, y: 52.52061}
+        - {x: 2, y: 51.52061}
+        - {x: -6, y: 36.52061}
+        - {x: -13, y: 28.52061}
+        - {x: -25, y: 10.52061}
+        - {x: -31, y: -4.479389}
+        - {x: -31, y: -11.47939}
+        - {x: -23, y: -16.47939}
+        - {x: -4.999999, y: -14.47939}
+        - {x: -4.999999, y: -17.47939}
+        - {x: -24, y: -17.47939}
+        - {x: -26, y: -23.47939}
+        - {x: -18, y: -31.47939}
+        - {x: -7, y: -34.47939}
+        - {x: -7, y: -49.47939}
+        - {x: -4.999999, y: -51.47939}
+        - {x: 0, y: -51.47939}
+        - {x: 7, y: -45.47939}
+        - {x: 11, y: -31.47939}
+        - {x: 17, y: -33.47939}
+      - - {x: -8, y: 6.520611}
+        - {x: -6, y: 8.52061}
+        - {x: -2.999999, y: 14.52061}
+        - {x: -2, y: 18.52061}
+        - {x: 1, y: 21.52061}
+        - {x: 0, y: 22.52061}
+        - {x: -1, y: 11.52061}
+        - {x: -2, y: 10.52061}
+        - {x: -11, y: 0.5206108}
+        - {x: -13, y: -1.479389}
+        - {x: -12, y: -1.479389}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034d2eedc778490f82e93b09cb74e9da
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CultSymbols_2
+      rect:
+        serializedVersion: 2
+        x: 299.0363
+        y: 24.07612
+        width: 66.93697
+        height: 72.8876
+      alignment: 9
+      pivot: {x: 0.2982465, y: 0.5477459}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.50477, y: -7.519917}
+        - {x: -12.50477, y: -11.51992}
+        - {x: -11.50477, y: -10.51992}
+        - {x: -6.504768, y: -3.519917}
+        - {x: -2.504768, y: 3.480083}
+        - {x: -6.504768, y: 4.480083}
+        - {x: -13.50477, y: 10.48008}
+        - {x: -15.50477, y: 10.48008}
+        - {x: -15.50477, y: 4.480083}
+        - {x: -14.50477, y: 3.480083}
+      physicsShape:
+      - - {x: 17.49523, y: -10.51992}
+        - {x: 29.49523, y: -14.51992}
+        - {x: 31.49523, y: -9.519917}
+        - {x: 31.49523, y: -6.519916}
+        - {x: 18.49523, y: 7.480083}
+        - {x: 28.49523, y: 19.48008}
+        - {x: 29.49523, y: 26.48008}
+        - {x: 20.49523, y: 29.48008}
+        - {x: 7.495232, y: 16.48008}
+        - {x: -4.504768, y: 20.48008}
+        - {x: -18.50477, y: 33.48008}
+        - {x: -18.50477, y: 35.48008}
+        - {x: -27.50477, y: 35.48008}
+        - {x: -32.50477, y: 33.48008}
+        - {x: -32.50477, y: 15.48008}
+        - {x: -29.50477, y: -0.5199165}
+        - {x: -24.50477, y: -33.51992}
+        - {x: -19.50477, y: -35.51992}
+        - {x: -15.50477, y: -35.51992}
+        - {x: -8.504768, y: -28.51992}
+        - {x: 5.495232, y: -11.51992}
+        - {x: 9.49523, y: -4.519917}
+      - - {x: -13.50477, y: -8.519917}
+        - {x: -14.50477, y: 1.480083}
+        - {x: -15.50477, y: 9.480083}
+        - {x: -16.50477, y: 12.48008}
+        - {x: -7.504768, y: 5.480083}
+        - {x: -1.504768, y: 2.480083}
+        - {x: -6.504768, y: -3.519917}
+        - {x: -10.50477, y: -10.51992}
+        - {x: -13.50477, y: -14.51992}
+        - {x: -12.50477, y: -14.51992}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81338dd38ac4d2489c2802fc77e8715
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CultSymbols_5
+      rect:
+        serializedVersion: 2
+        x: 674.0761
+        y: 19.02675
+        width: 59.88097
+        height: 80.96034
+      alignment: 9
+      pivot: {x: 0.4746731, y: 0.5554973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.016598, y: -40.50692}
+        - {x: -30.0166, y: -40.50692}
+        - {x: -30.0166, y: 29.49308}
+        - {x: -12.0166, y: 40.49308}
+        - {x: 26.9834, y: 40.49308}
+        - {x: 29.9834, y: 38.49308}
+        - {x: 29.9834, y: -11.50692}
+        - {x: 27.9834, y: -27.50692}
+      physicsShape:
+      - - {x: 23.9834, y: -2.50692}
+        - {x: 26.9834, y: 5.49308}
+        - {x: 21.9834, y: 16.49308}
+        - {x: 27.9834, y: 30.49308}
+        - {x: 27.9834, y: 36.49308}
+        - {x: 25.9834, y: 38.49308}
+        - {x: 22.9834, y: 38.49308}
+        - {x: 13.9834, y: 33.49308}
+        - {x: -1.016598, y: 26.49308}
+        - {x: -12.0166, y: 23.49308}
+        - {x: -12.0166, y: 16.49308}
+        - {x: -4.016598, y: 5.49308}
+        - {x: -21.0166, y: 9.49308}
+        - {x: -28.0166, y: 6.49308}
+        - {x: -28.0166, y: 3.49308}
+        - {x: -23.0166, y: -6.50692}
+        - {x: -28.0166, y: -28.50692}
+        - {x: -28.0166, y: -33.50692}
+        - {x: -27.0166, y: -38.50692}
+        - {x: -20.0166, y: -38.50692}
+        - {x: -2.016598, y: -26.50692}
+        - {x: 16.9834, y: -22.50692}
+        - {x: 16.9834, y: -16.50692}
+        - {x: 4.983402, y: -6.50692}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f0e82bffee460ca4042916fcdd44d6
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CultSymbols_1
+      rect:
+        serializedVersion: 2
+        x: 148.0761
+        y: 26
+        width: 81.92195
+        height: 70.98709
+      alignment: 9
+      pivot: {x: 0.5239606, y: 0.5353086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.037102, y: 13.50645}
+        - {x: -2.037102, y: 9.506454}
+        - {x: -2.037102, y: 7.506454}
+        - {x: 1.962898, y: -0.4935455}
+        - {x: 5.962898, y: 2.506454}
+        - {x: 8.962898, y: 5.506454}
+        - {x: 18.9629, y: 9.506454}
+        - {x: 9.962898, y: 13.50645}
+        - {x: 6.962898, y: 13.50645}
+        - {x: 2.962898, y: 15.50645}
+        - {x: -1.037102, y: 15.50645}
+        - {x: -2.037102, y: 16.50645}
+        - {x: -5.037102, y: 17.50645}
+        - {x: -4.037102, y: 16.50645}
+      physicsShape:
+      - - {x: -10.0371, y: -6.493546}
+        - {x: -17.0371, y: -0.4935455}
+        - {x: -22.0371, y: -0.4935455}
+        - {x: -35.0371, y: -2.493545}
+        - {x: -41.0371, y: -8.493546}
+        - {x: -41.0371, y: -22.49355}
+        - {x: -39.0371, y: -34.49355}
+        - {x: -17.0371, y: -34.49355}
+        - {x: -9.037102, y: -26.49355}
+        - {x: -7.037102, y: -21.49355}
+        - {x: -7.037102, y: -15.49355}
+      - - {x: 18.9629, y: -14.49355}
+        - {x: 6.962898, y: -19.49355}
+        - {x: 34.9629, y: 2.506454}
+        - {x: 39.9629, y: 6.506454}
+        - {x: 40.9629, y: 12.50645}
+        - {x: 37.9629, y: 16.50645}
+        - {x: 32.9629, y: 19.50645}
+        - {x: -9.037102, y: 33.50645}
+        - {x: -13.0371, y: 34.50645}
+        - {x: -20.0371, y: 34.50645}
+        - {x: -21.0371, y: 33.50645}
+        - {x: -21.0371, y: 16.50645}
+        - {x: -13.0371, y: -1.493546}
+        - {x: -10.0371, y: -13.49355}
+        - {x: -1.037102, y: -33.49355}
+        - {x: 10.9629, y: -33.49355}
+        - {x: 26.9629, y: -26.49355}
+        - {x: 32.9629, y: -21.49355}
+        - {x: 27.9629, y: -12.49354}
+      - - {x: -28.0371, y: -20.49354}
+        - {x: -28.0371, y: -14.49355}
+        - {x: -24.0371, y: -13.49355}
+        - {x: -21.0371, y: -17.49354}
+        - {x: -24.0371, y: -21.49355}
+      - - {x: -0.03710175, y: 1.506454}
+        - {x: -0.03710175, y: 4.506454}
+        - {x: -2.037102, y: 6.506454}
+        - {x: -2.037102, y: 8.506454}
+        - {x: -5.037102, y: 14.50645}
+        - {x: -6.037102, y: 17.50645}
+        - {x: -5.037102, y: 16.50645}
+        - {x: -1.037102, y: 16.50645}
+        - {x: -0.03710175, y: 15.50645}
+        - {x: 6.962898, y: 14.50645}
+        - {x: 7.962898, y: 13.50645}
+        - {x: 12.9629, y: 12.50645}
+        - {x: 14.9629, y: 10.50645}
+        - {x: 16.9629, y: 10.50645}
+        - {x: 18.9629, y: 8.506454}
+        - {x: 19.9629, y: 9.506454}
+        - {x: 14.9629, y: 8.506454}
+        - {x: 13.9629, y: 6.506454}
+        - {x: 9.962898, y: 5.506454}
+        - {x: 5.962898, y: 2.506454}
+        - {x: 0.9628983, y: -0.4935455}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524f220a29ce4deeb45d64d9bcf2e8be
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CultSymbols_3
+      rect:
+        serializedVersion: 2
+        x: 421.0129
+        y: 29.01291
+        width: 52.9508
+        height: 59.8782
+      alignment: 9
+      pivot: {x: 0.4718926, y: 0.5843043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.48831, y: -0.952013}
+        - {x: -26.48831, y: 4.047987}
+        - {x: -4.48831, y: 26.04799}
+        - {x: -2.48831, y: 30.04799}
+        - {x: 5.51169, y: 30.04799}
+        - {x: 13.51169, y: 29.04799}
+        - {x: 26.51169, y: 10.04799}
+        - {x: 26.51169, y: -9.952014}
+        - {x: 4.51169, y: -27.95201}
+        - {x: 1.51169, y: -29.95201}
+        - {x: -2.48831, y: -29.95201}
+        - {x: -9.48831, y: -24.95201}
+      physicsShape:
+      - - {x: 7.51169, y: 30.04799}
+        - {x: 2.51169, y: 30.04799}
+        - {x: -3.48831, y: 26.04799}
+        - {x: -6.488309, y: 7.047987}
+        - {x: -23.48831, y: 6.047987}
+        - {x: -25.48831, y: 4.047987}
+        - {x: -22.48831, y: -2.952013}
+        - {x: -6.488309, y: -28.95201}
+        - {x: 7.51169, y: -28.95201}
+        - {x: 22.51169, y: -8.952013}
+        - {x: 24.51169, y: -3.952013}
+        - {x: 24.51169, y: 1.047987}
+        - {x: 11.51169, y: 9.047987}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96919e6dc894fefb8a0f35b4ec7b695
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CultSymbols_6
+      rect:
+        serializedVersion: 2
+        x: 798.0267
+        y: 25.06638
+        width: 64.9465
+        height: 75.89072
+      alignment: 9
+      pivot: {x: 0.5846853, y: 0.5130222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.49998, y: -7.011738}
+        - {x: -15.49998, y: -6.011738}
+        - {x: -11.49998, y: -3.011738}
+        - {x: -11.49998, y: -2.011738}
+        - {x: -8.499985, y: 0.9882622}
+        - {x: -8.499985, y: 1.988262}
+        - {x: -3.499985, y: 6.988262}
+        - {x: -3.499985, y: 7.988262}
+        - {x: 2.500015, y: 13.98826}
+        - {x: -0.4999847, y: 15.98826}
+        - {x: -8.499985, y: 14.98826}
+        - {x: -9.499986, y: 12.98826}
+        - {x: -12.49998, y: 11.98826}
+        - {x: -16.49998, y: 7.988262}
+        - {x: -17.49998, y: 3.988262}
+        - {x: -18.49998, y: 2.988262}
+        - {x: -18.49998, y: 0.9882622}
+        - {x: -17.49998, y: -0.01173782}
+        - {x: -17.49998, y: -4.011738}
+      physicsShape:
+      - - {x: 31.50002, y: -10.01174}
+        - {x: 32.50002, y: 0.9882622}
+        - {x: 25.50001, y: 19.98826}
+        - {x: 32.50002, y: 29.98826}
+        - {x: 32.50002, y: 33.98826}
+        - {x: 31.50002, y: 35.98826}
+        - {x: 21.50002, y: 35.98826}
+        - {x: 19.50002, y: 34.98826}
+        - {x: 12.50002, y: 26.98826}
+        - {x: 3.500015, y: 32.98826}
+        - {x: -16.49998, y: 28.98826}
+        - {x: -32.49998, y: 7.988262}
+        - {x: -32.49998, y: -29.01174}
+        - {x: -30.49998, y: -35.01174}
+        - {x: -21.49998, y: -35.01174}
+        - {x: -19.49998, y: -34.01174}
+        - {x: -8.499985, y: -35.01174}
+        - {x: 4.500015, y: -35.01174}
+        - {x: 18.50002, y: -29.01174}
+        - {x: 26.50002, y: -20.01174}
+      - - {x: -5.499985, y: -17.01174}
+        - {x: -5.499985, y: -18.01174}
+        - {x: -2.499985, y: -16.01174}
+        - {x: -0.4999847, y: -12.01174}
+        - {x: 11.50002, y: 1.988262}
+        - {x: 11.50002, y: 2.988262}
+        - {x: 14.50002, y: 5.988262}
+        - {x: 13.50002, y: 5.988262}
+        - {x: 16.50002, y: -1.011738}
+        - {x: 15.50001, y: -2.011738}
+        - {x: 14.50002, y: -8.011738}
+        - {x: 9.500015, y: -15.01174}
+        - {x: 5.500015, y: -18.01174}
+        - {x: -1.499985, y: -19.01174}
+        - {x: -2.499985, y: -18.01174}
+      - - {x: -17.49998, y: -5.011738}
+        - {x: -17.49998, y: -2.011738}
+        - {x: -18.49998, y: -1.011738}
+        - {x: -18.49998, y: 3.988262}
+        - {x: -15.49998, y: 8.988262}
+        - {x: -12.49998, y: 11.98826}
+        - {x: -5.499985, y: 15.98826}
+        - {x: -0.4999847, y: 15.98826}
+        - {x: 0.5000157, y: 14.98826}
+        - {x: 3.500015, y: 14.98826}
+        - {x: -2.499985, y: 7.988262}
+        - {x: -8.499985, y: 1.988262}
+        - {x: -8.499985, y: 0.9882622}
+        - {x: -11.49998, y: -2.011738}
+        - {x: -11.49998, y: -3.011738}
+        - {x: -15.49998, y: -7.011738}
+        - {x: -15.49998, y: -8.011738}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d341411e8f674f26852befbd527ea889
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CultSymbols_4
+      rect:
+        serializedVersion: 2
+        x: 550.0363
+        y: 6.042908
+        width: 51.8876
+        height: 104.9442
+      alignment: 9
+      pivot: {x: 0.4232947, y: 0.5522659}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.98005, y: -52.515}
+        - {x: -25.98005, y: -25.515}
+        - {x: -25.98005, y: 46.485}
+        - {x: -12.98005, y: 52.485}
+        - {x: 13.01995, y: 52.485}
+        - {x: 26.01995, y: 38.485}
+        - {x: 26.01995, y: -20.515}
+        - {x: 1.019947, y: -52.515}
+      physicsShape:
+      - - {x: 14.01995, y: -16.515}
+        - {x: 23.01995, y: -12.515}
+        - {x: 23.01995, y: 5.485001}
+        - {x: 21.01995, y: 11.485}
+        - {x: 19.01995, y: 25.485}
+        - {x: 14.01995, y: 29.485}
+        - {x: -5.980053, y: 24.485}
+        - {x: -0.9800529, y: 47.485}
+        - {x: -6.980053, y: 50.485}
+        - {x: -9.980053, y: 50.485}
+        - {x: -16.98005, y: 40.485}
+        - {x: -22.98005, y: 19.485}
+        - {x: -25.98005, y: 7.485001}
+        - {x: -25.98005, y: 3.485001}
+        - {x: -22.98005, y: -2.514999}
+        - {x: -19.98005, y: -3.514999}
+        - {x: -9.980053, y: 0.4850011}
+        - {x: -0.9800529, y: -4.514998}
+        - {x: -6.980053, y: -4.514998}
+        - {x: -12.98005, y: -6.514999}
+        - {x: -12.98005, y: -11.515}
+        - {x: -10.98005, y: -15.515}
+        - {x: -15.98005, y: -28.515}
+        - {x: -10.98005, y: -39.515}
+        - {x: -9.980053, y: -48.515}
+        - {x: -6.980053, y: -49.515}
+        - {x: -3.980053, y: -49.515}
+        - {x: -0.9800529, y: -47.515}
+        - {x: 14.01995, y: -27.515}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd59cda9d4c4b8ca8b9391045fbd46e
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CultSymbols_5: 21300004
+      CultSymbols_3: 21300008
+      CultSymbols_2: 21300002
+      CultSymbols_6: 21300010
+      CultSymbols_4: 21300012
+      CultSymbols_0: 21300000
+      CultSymbols_1: 21300006
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: f72e1cc8fc0c3de46a759b2ab6f7d466
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Icon_LeafyLampPost
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 25
+  maxTextureSize: 512
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 71.11111
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Icon_LeafyLampPost
+      rect:
+        serializedVersion: 2
+        x: 175.0267
+        y: 35.07612
+        width: 161.9151
+        height: 442.8971
+      alignment: 9
+      pivot: {x: 0.5000971, y: 0.4988153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.98428, y: -220.5247}
+        - {x: -80.98428, y: -210.5247}
+        - {x: -80.98428, y: -179.5247}
+        - {x: -62.98428, y: -124.5247}
+        - {x: -12.98428, y: -38.52469}
+        - {x: -45.98428, y: 32.47531}
+        - {x: -55.98428, y: 193.4753}
+        - {x: -27.98428, y: 221.4753}
+        - {x: 40.01572, y: 221.4753}
+        - {x: 81.01572, y: 203.4753}
+        - {x: 81.01572, y: 30.47531}
+        - {x: 71.01572, y: 1.475311}
+        - {x: 53.01572, y: -140.5247}
+        - {x: 76.01572, y: -217.5247}
+        - {x: 9.015724, y: -221.5247}
+        - {x: -43.98428, y: -221.5247}
+      physicsShape:
+      - - {x: 48.01572, y: -173.5247}
+        - {x: 46.01572, y: -166.5247}
+        - {x: 40.01572, y: -159.5247}
+        - {x: 32.01572, y: -150.5247}
+        - {x: 23.01572, y: -143.5247}
+        - {x: 24.01572, y: -136.5247}
+        - {x: 27.01572, y: -122.5247}
+        - {x: 26.01572, y: -113.5247}
+        - {x: 21.01572, y: -97.52469}
+        - {x: 28.01572, y: -94.52469}
+        - {x: 34.01572, y: -88.52469}
+        - {x: 40.01572, y: -77.52469}
+        - {x: 55.01573, y: -62.52469}
+        - {x: 54.01572, y: -40.52469}
+        - {x: 46.01572, y: -29.52469}
+        - {x: 36.01572, y: -21.52469}
+        - {x: 42.01572, y: -5.524689}
+        - {x: 51.01572, y: -5.524689}
+        - {x: 58.01572, y: -0.5246887}
+        - {x: 60.01573, y: 7.475311}
+        - {x: 59.01572, y: 28.47531}
+        - {x: 56.01572, y: 33.47531}
+        - {x: 53.01572, y: 34.47531}
+        - {x: 55.01573, y: 41.47531}
+        - {x: 65.01572, y: 40.47531}
+        - {x: 77.01572, y: 48.47531}
+        - {x: 80.01572, y: 53.47531}
+        - {x: 80.01572, y: 68.47531}
+        - {x: 73.01572, y: 76.47531}
+        - {x: 70.01572, y: 78.47531}
+        - {x: 62.01573, y: 79.47531}
+        - {x: 55.01573, y: 74.47531}
+        - {x: 54.01572, y: 63.47531}
+        - {x: 37.01572, y: 71.47531}
+        - {x: 44.01572, y: 75.47532}
+        - {x: 59.01572, y: 87.47531}
+        - {x: 61.01572, y: 98.47531}
+        - {x: 53.01572, y: 105.4753}
+        - {x: 59.01572, y: 139.4753}
+        - {x: 68.01572, y: 146.4753}
+        - {x: 75.01572, y: 152.4753}
+        - {x: 71.01572, y: 168.4753}
+        - {x: 65.01572, y: 172.4753}
+        - {x: 64.01572, y: 188.4753}
+        - {x: 57.01572, y: 193.4753}
+        - {x: 42.01572, y: 204.4753}
+        - {x: 37.01572, y: 204.4753}
+        - {x: 20.01572, y: 219.4753}
+        - {x: 16.01572, y: 220.4753}
+        - {x: 6.015724, y: 220.4753}
+        - {x: -3.984276, y: 213.4753}
+        - {x: -4.984276, y: 203.4753}
+        - {x: -15.98428, y: 201.4753}
+        - {x: -27.98428, y: 198.4753}
+        - {x: -40.98428, y: 192.4753}
+        - {x: -48.98428, y: 184.4753}
+        - {x: -50.98428, y: 163.4753}
+        - {x: -49.98428, y: 155.4753}
+        - {x: -43.98428, y: 148.4753}
+        - {x: -33.98428, y: 143.4753}
+        - {x: -35.98428, y: 123.4753}
+        - {x: -41.98428, y: 110.4753}
+        - {x: -39.98428, y: 97.47531}
+        - {x: -25.98428, y: 83.47531}
+        - {x: -32.98428, y: 76.47531}
+        - {x: -37.98428, y: 72.47531}
+        - {x: -40.98428, y: 65.47531}
+        - {x: -41.98428, y: 53.47531}
+        - {x: -33.98428, y: 42.47532}
+        - {x: -21.98428, y: 38.47531}
+        - {x: 5.015724, y: 41.47531}
+        - {x: 5.015724, y: 23.47531}
+        - {x: -15.98428, y: 11.47531}
+        - {x: -16.98428, y: -7.524689}
+        - {x: -12.98428, y: -17.52469}
+        - {x: -5.984276, y: -40.52469}
+        - {x: -13.98428, y: -52.52469}
+        - {x: -28.98428, y: -68.52469}
+        - {x: -36.98428, y: -97.52469}
+        - {x: -36.98428, y: -109.5247}
+        - {x: -41.98428, y: -119.5247}
+        - {x: -46.98428, y: -134.5247}
+        - {x: -53.98428, y: -140.5247}
+        - {x: -64.98428, y: -147.5247}
+        - {x: -62.98428, y: -157.5247}
+        - {x: -55.98428, y: -167.5247}
+        - {x: -70.98428, y: -167.5247}
+        - {x: -76.98428, y: -170.5247}
+        - {x: -75.98428, y: -189.5247}
+        - {x: -79.98428, y: -195.5247}
+        - {x: -79.98428, y: -204.5247}
+        - {x: -65.98428, y: -216.5247}
+        - {x: -46.98428, y: -214.5247}
+        - {x: -44.98428, y: -219.5247}
+        - {x: -38.98428, y: -220.5247}
+        - {x: -2.984276, y: -220.5247}
+        - {x: 53.01572, y: -216.5247}
+        - {x: 57.01572, y: -212.5247}
+        - {x: 60.01573, y: -198.5247}
+        - {x: 63.01572, y: -186.5247}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38d82489a55462ebe600fb141f777dd
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Icon_LeafyLampPost: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

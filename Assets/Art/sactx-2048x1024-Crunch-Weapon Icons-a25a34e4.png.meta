@@ -1,0 +1,2842 @@
+fileFormatVersion: 2
+guid: 238c4603b39100a42a8105aa5e5372f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Icon_Weapon_Hammer_Critical
+  - first:
+      213: 21300002
+    second: Icon_Weapon_Sword_Godly
+  - first:
+      213: 21300004
+    second: Icon_Weapon_Guantlet_Godly
+  - first:
+      213: 21300006
+    second: Icon_Weapon_Axe_Fervor
+  - first:
+      213: 21300008
+    second: Icon_Weapon_Hammer_Fervor
+  - first:
+      213: 21300010
+    second: Icon_Weapon_Hammer_Godly
+  - first:
+      213: 21300012
+    second: Icon_Weapon_Dagger_Critical
+  - first:
+      213: 21300014
+    second: Icon_Weapon_Dagger_Godly
+  - first:
+      213: 21300016
+    second: Icon_Weapon_Sword
+  - first:
+      213: 21300018
+    second: Icon_Weapon_Sword_Fervor
+  - first:
+      213: 21300020
+    second: Icon_Weapon_Guantlet_Necromancy
+  - first:
+      213: 21300022
+    second: Icon_Weapon_Axe_Poison
+  - first:
+      213: 21300024
+    second: Icon_Weapon_Sword_Critical
+  - first:
+      213: 21300026
+    second: Icon_Weapon_Axe_Critical
+  - first:
+      213: 21300028
+    second: Icon_Weapon_Hammer_Necromancy
+  - first:
+      213: 21300030
+    second: Icon_Weapon_Dagger_Necromancy
+  - first:
+      213: 21300032
+    second: Icon_Weapon_Sword_Healing
+  - first:
+      213: 21300034
+    second: Icon_Weapon_Hammer_Poison
+  - first:
+      213: 21300036
+    second: Icon_Weapon_Axe_Healing
+  - first:
+      213: 21300038
+    second: Icon_Weapon_Axe_Necromancy
+  - first:
+      213: 21300040
+    second: Radial_Gradient_Glow
+  - first:
+      213: 21300042
+    second: Icon_Weapon_Dagger
+  - first:
+      213: 21300044
+    second: Icon_Weapon_Guantlet_Fervor
+  - first:
+      213: 21300046
+    second: Icon_Weapon_Axe_Godly
+  - first:
+      213: 21300048
+    second: Icon_Weapon_Sword_Poison
+  - first:
+      213: 21300050
+    second: Icon_Weapon_Guantlet_Critical
+  - first:
+      213: 21300052
+    second: Icon_Weapon_Hammer_Healing
+  - first:
+      213: 21300054
+    second: Icon_Weapon_Guantlet_Poison
+  - first:
+      213: 21300056
+    second: Icon_Weapon_Dagger_Healing
+  - first:
+      213: 21300058
+    second: Icon_Weapon_Dagger_Poison
+  - first:
+      213: 21300060
+    second: Icon_Weapon_Axe
+  - first:
+      213: 21300062
+    second: Icon_Weapon_Guantlet_Healing
+  - first:
+      213: 21300064
+    second: Icon_Weapon_Blunderbuss
+  - first:
+      213: 21300066
+    second: Icon_Weapon_Sword_Necromancy
+  - first:
+      213: 21300068
+    second: Icon_Weapon_Guantlet
+  - first:
+      213: 21300070
+    second: Icon_Weapon_Hammer
+  - first:
+      213: 21300072
+    second: Icon_Weapon_Dagger_Fervor
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 29
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 8
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Icon_Weapon_Hammer_Critical
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 192
+        height: 205
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: -102.5}
+        - {x: -96, y: 102.5}
+        - {x: 96, y: 102.5}
+        - {x: 96, y: -102.5}
+      physicsShape:
+      - - {x: -8, y: -29.50001}
+        - {x: 1, y: -32.5}
+        - {x: 20, y: -42.5}
+        - {x: 38, y: -45.5}
+        - {x: 47, y: -41.5}
+        - {x: 64, y: -30.5}
+        - {x: 70, y: -23.5}
+        - {x: 84, y: -4.500008}
+        - {x: 84, y: -0.5}
+        - {x: 78, y: 9.5}
+        - {x: 82, y: 15.49999}
+        - {x: 83, y: 31.49998}
+        - {x: 77, y: 35.5}
+        - {x: 62, y: 23.5}
+        - {x: 46, y: 8.5}
+        - {x: 42, y: 17.49999}
+        - {x: 49, y: 27.5}
+        - {x: 51, y: 31.49998}
+        - {x: 53, y: 45.5}
+        - {x: 47, y: 51.5}
+        - {x: 41, y: 48.5}
+        - {x: 32, y: 40.5}
+        - {x: 45, y: 56.49998}
+        - {x: 39, y: 60.5}
+        - {x: 27, y: 61.5}
+        - {x: 4, y: 46.5}
+        - {x: -3, y: 53.5}
+        - {x: 15, y: 75.5}
+        - {x: 20, y: 87.5}
+        - {x: 18, y: 90.5}
+        - {x: 2, y: 90.5}
+        - {x: -8, y: 85.5}
+        - {x: -23, y: 87.5}
+        - {x: -30, y: 85.5}
+        - {x: -52, y: 53.5}
+        - {x: -57, y: 43.49998}
+        - {x: -57, y: 38.5}
+        - {x: -51, y: 30.5}
+        - {x: -55, y: 25.5}
+        - {x: -55, y: 19.5}
+        - {x: -43, y: 5.499992}
+        - {x: -31, y: -2.5}
+        - {x: -33, y: -10.50001}
+        - {x: -29, y: -12.5}
+        - {x: -40, y: -24.5}
+        - {x: -55, y: -40.5}
+        - {x: -63, y: -44.5}
+        - {x: -82, y: -53.5}
+        - {x: -85, y: -59.5}
+        - {x: -85, y: -66.5}
+        - {x: -72, y: -76.5}
+        - {x: -59, y: -88.5}
+        - {x: -58, y: -89.5}
+        - {x: -53, y: -89.5}
+        - {x: -46, y: -86.5}
+        - {x: -37, y: -65.5}
+        - {x: -34, y: -51.5}
+        - {x: -15, y: -30.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e94e5d923bb466dad826321ac06c2d1
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Weapon_Sword_Godly
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 584
+        width: 157
+        height: 178
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -78.5, y: -89}
+        - {x: -78.5, y: 89}
+        - {x: 78.5, y: 89}
+        - {x: 78.5, y: -89}
+      physicsShape:
+      - - {x: 45.5, y: -26}
+        - {x: 46.5, y: 5}
+        - {x: 63.5, y: 29.99999}
+        - {x: 68.5, y: 39}
+        - {x: 70.5, y: 61}
+        - {x: 70.5, y: 76}
+        - {x: 68.5, y: 79}
+        - {x: 59.5, y: 79}
+        - {x: 51.5, y: 78}
+        - {x: 31.5, y: 70.99998}
+        - {x: 19.5, y: 65}
+        - {x: 12.5, y: 56.99998}
+        - {x: -2.5, y: 36}
+        - {x: -11.5, y: 36}
+        - {x: -34.5, y: 31.99999}
+        - {x: -42.5, y: 27.99999}
+        - {x: -63.5, y: 5}
+        - {x: -67.5, y: -10}
+        - {x: -69.5, y: -19}
+        - {x: -69.5, y: -37}
+        - {x: -66.5, y: -44}
+        - {x: -61.5, y: -44}
+        - {x: -41.5, y: -21}
+        - {x: -41.5, y: -12}
+        - {x: -17.5, y: -7}
+        - {x: -29.5, y: -11}
+        - {x: -37.5, y: -15}
+        - {x: -45.5, y: -28}
+        - {x: -50.5, y: -38}
+        - {x: -50.5, y: -50}
+        - {x: -49.5, y: -68}
+        - {x: -41.5, y: -73}
+        - {x: -29.5, y: -71}
+        - {x: -25.5, y: -69}
+        - {x: -15.5, y: -65}
+        - {x: -7.5, y: -58}
+        - {x: -7.5, y: -57}
+        - {x: -2.5, y: -51}
+        - {x: 3.5, y: -45}
+        - {x: 6.5, y: -26}
+        - {x: 5.5, y: -46}
+        - {x: -0.5, y: -50}
+        - {x: -6.5, y: -56}
+        - {x: -8.5, y: -60}
+        - {x: -13.5, y: -64}
+        - {x: -19.5, y: -75}
+        - {x: -16.5, y: -77}
+        - {x: 1.5, y: -77}
+        - {x: 17.5, y: -70}
+        - {x: 34.5, y: -55}
+        - {x: 37.5, y: -48}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d26a856bb44accb6035d84da7e4058
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Weapon_Guantlet_Godly
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 202
+        width: 142
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71, y: -73.5}
+        - {x: -71, y: 73.5}
+        - {x: 71, y: 73.5}
+        - {x: 71, y: -73.5}
+      physicsShape:
+      - - {x: 39, y: -7.5}
+        - {x: 30, y: -5.5}
+        - {x: 26, y: -13.5}
+        - {x: 23, y: -34.5}
+        - {x: 9, y: -16.5}
+        - {x: 21, y: 1.5}
+        - {x: 38, y: -1.5}
+        - {x: 49, y: -6.500008}
+        - {x: 60, y: -5.5}
+        - {x: 63, y: -0.5000076}
+        - {x: 63, y: 2.5}
+        - {x: 45, y: 21.5}
+        - {x: 34, y: 20.5}
+        - {x: 26, y: 27.5}
+        - {x: 17, y: 30.5}
+        - {x: 12, y: 29.5}
+        - {x: 15, y: 31.49999}
+        - {x: 44, y: 21.5}
+        - {x: 52, y: 25.49999}
+        - {x: 47, y: 38.5}
+        - {x: 37, y: 48.5}
+        - {x: 25, y: 56.5}
+        - {x: 11, y: 56.5}
+        - {x: 9, y: 62.5}
+        - {x: -5, y: 65.5}
+        - {x: -15, y: 65.5}
+        - {x: -36, y: 56.5}
+        - {x: -51, y: 39.5}
+        - {x: -56, y: 24.49999}
+        - {x: -57, y: -0.5000076}
+        - {x: -63, y: -11.5}
+        - {x: -63, y: -28.5}
+        - {x: -61, y: -38.5}
+        - {x: -59, y: -42.5}
+        - {x: -55, y: -51.5}
+        - {x: -45, y: -63.5}
+        - {x: -38, y: -62.5}
+        - {x: -6, y: -64.5}
+        - {x: 22, y: -64.5}
+        - {x: 41, y: -53.5}
+        - {x: 46, y: -45.5}
+        - {x: 48, y: -25.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633652a49f7842d8acb76f04d048e298
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Weapon_Axe_Fervor
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 205
+        width: 192
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: -99.5}
+        - {x: -96, y: 99.5}
+        - {x: 96, y: 99.5}
+        - {x: 96, y: -99.5}
+      physicsShape:
+      - - {x: -29, y: -47.5}
+        - {x: -23, y: -26.50001}
+        - {x: -16, y: -23.5}
+        - {x: -12, y: -18.5}
+        - {x: -4, y: -4.5}
+        - {x: -8, y: -33.5}
+        - {x: -5, y: -37.5}
+        - {x: 9, y: -38.5}
+        - {x: 31, y: -31.5}
+        - {x: 38, y: -27.5}
+        - {x: 44, y: -23.5}
+        - {x: 48, y: -16.5}
+        - {x: 57, y: 3.5}
+        - {x: 79.99999, y: 6.499992}
+        - {x: 83, y: 22.5}
+        - {x: 83, y: 46.49998}
+        - {x: 70, y: 60.49998}
+        - {x: 63, y: 66.5}
+        - {x: 47, y: 72.49998}
+        - {x: 42, y: 71.49998}
+        - {x: 37, y: 69.5}
+        - {x: 28, y: 54.5}
+        - {x: 25, y: 72.49998}
+        - {x: 16, y: 67.5}
+        - {x: 8, y: 59.49998}
+        - {x: 4, y: 67.5}
+        - {x: 11, y: 78.5}
+        - {x: 12, y: 83.5}
+        - {x: 6, y: 86.5}
+        - {x: -14, y: 86.5}
+        - {x: -20, y: 85.49998}
+        - {x: -35, y: 78.5}
+        - {x: -42, y: 73.5}
+        - {x: -46, y: 70.5}
+        - {x: -52, y: 53.5}
+        - {x: -52, y: 38.5}
+        - {x: -48, y: 25.5}
+        - {x: -34, y: 26.5}
+        - {x: -34, y: 14.5}
+        - {x: -38, y: 0.5}
+        - {x: -59, y: -23.5}
+        - {x: -68, y: -37.5}
+        - {x: -70, y: -49.5}
+        - {x: -78, y: -41.5}
+        - {x: -85.99999, y: -50.5}
+        - {x: -85.99999, y: -62.5}
+        - {x: -82, y: -86.5}
+        - {x: -66, y: -86.5}
+        - {x: -50, y: -81.5}
+        - {x: -44, y: -80.5}
+        - {x: -38, y: -68.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d02717faee74a6c95c06b5927be26da
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Weapon_Hammer_Fervor
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 398
+        width: 170
+        height: 190
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85, y: -95}
+        - {x: -85, y: 95}
+        - {x: 85, y: 95}
+        - {x: 85, y: -95}
+      physicsShape:
+      - - {x: -27, y: -53}
+        - {x: -19, y: -45}
+        - {x: -16, y: -40}
+        - {x: 11, y: -47}
+        - {x: 22, y: -52}
+        - {x: 29, y: -46}
+        - {x: 33, y: -40}
+        - {x: 45, y: -27}
+        - {x: 65, y: -8}
+        - {x: 75, y: 5}
+        - {x: 75, y: 12.99999}
+        - {x: 51, y: 33}
+        - {x: 48, y: 44}
+        - {x: 43, y: 47}
+        - {x: 40, y: 47}
+        - {x: 35, y: 42}
+        - {x: 34, y: 40}
+        - {x: 35, y: 40}
+        - {x: 34, y: 41}
+        - {x: 35, y: 42}
+        - {x: 35, y: 47}
+        - {x: 31, y: 50.99998}
+        - {x: 32, y: 54}
+        - {x: 28, y: 64.99998}
+        - {x: 14, y: 63}
+        - {x: 8, y: 64.99998}
+        - {x: -7, y: 84}
+        - {x: -18, y: 84}
+        - {x: -21, y: 83}
+        - {x: -30, y: 76.99998}
+        - {x: -31, y: 64.99998}
+        - {x: -66.99999, y: 29}
+        - {x: -69, y: 14}
+        - {x: -59, y: -2}
+        - {x: -40, y: -5}
+        - {x: -50, y: -21}
+        - {x: -56, y: -42}
+        - {x: -68, y: -47}
+        - {x: -72.99999, y: -44}
+        - {x: -75, y: -52}
+        - {x: -75, y: -71}
+        - {x: -72.99999, y: -78}
+        - {x: -69, y: -83}
+        - {x: -64, y: -83}
+        - {x: -56, y: -79}
+        - {x: -43, y: -83}
+        - {x: -41, y: -83}
+        - {x: -35, y: -71}
+        - {x: -30, y: -53}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710cf909b58b4b19a24ed9e04653d103
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Weapon_Hammer_Godly
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 425
+        width: 168
+        height: 190
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84, y: -95}
+        - {x: -84, y: 95}
+        - {x: 84, y: 95}
+        - {x: 84, y: -95}
+      physicsShape:
+      - - {x: -9.999999, y: -30}
+        - {x: 6, y: -45}
+        - {x: 22, y: -48}
+        - {x: 36, y: -41}
+        - {x: 58, y: -37}
+        - {x: 63, y: -33}
+        - {x: 72, y: -8}
+        - {x: 74, y: 1}
+        - {x: 74, y: 21}
+        - {x: 59, y: 38}
+        - {x: 43, y: 44}
+        - {x: 45, y: 51.99998}
+        - {x: 35, y: 67}
+        - {x: 21, y: 63}
+        - {x: 8, y: 78}
+        - {x: 1, y: 84}
+        - {x: -24, y: 84}
+        - {x: -28, y: 75.99998}
+        - {x: -39, y: 68}
+        - {x: -53, y: 67}
+        - {x: -59, y: 47}
+        - {x: -51, y: 36}
+        - {x: -66, y: 27}
+        - {x: -59, y: 3.999992}
+        - {x: -53, y: -1}
+        - {x: -37, y: -10}
+        - {x: -56, y: -41}
+        - {x: -71, y: -50}
+        - {x: -74, y: -64}
+        - {x: -74, y: -78}
+        - {x: -69, y: -83}
+        - {x: -58, y: -83}
+        - {x: -49, y: -75}
+        - {x: -42, y: -69}
+        - {x: -28, y: -41}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39f1c6cff9347a29489ce01f334afde
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Weapon_Dagger_Critical
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 353
+        width: 134
+        height: 137
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67, y: -68.5}
+        - {x: -67, y: 68.5}
+        - {x: 67, y: 68.5}
+        - {x: 67, y: -68.5}
+      physicsShape:
+      - - {x: -7, y: -30.5}
+        - {x: 1, y: -41.5}
+        - {x: 6, y: -43.5}
+        - {x: 12, y: -40.5}
+        - {x: 16, y: -16.5}
+        - {x: 32, y: -0.5}
+        - {x: 36, y: 11.49999}
+        - {x: 32, y: 31.5}
+        - {x: 57, y: 44.5}
+        - {x: 59, y: 47.5}
+        - {x: 59, y: 51.49999}
+        - {x: 55, y: 53.5}
+        - {x: 47, y: 58.5}
+        - {x: 34, y: 60.5}
+        - {x: 18, y: 60.5}
+        - {x: -2, y: 52.49999}
+        - {x: -12, y: 36.49999}
+        - {x: -12, y: 25.5}
+        - {x: -11, y: 15.5}
+        - {x: -29, y: 15.5}
+        - {x: -37, y: 11.49999}
+        - {x: -48, y: 2.5}
+        - {x: -46, y: -3.5}
+        - {x: -31, y: -12.5}
+        - {x: -54, y: -19.5}
+        - {x: -61, y: -32.5}
+        - {x: -61, y: -41.5}
+        - {x: -47, y: -48.5}
+        - {x: -41, y: -54.5}
+        - {x: -29, y: -60.5}
+        - {x: -23, y: -58.5}
+        - {x: -20, y: -54.5}
+        - {x: -16, y: -48.5}
+        - {x: -17, y: -35.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a4567d2d714c62b99a1f810822acc4
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Weapon_Dagger_Godly
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 152
+        width: 104
+        height: 152
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: -76}
+        - {x: -52, y: 76}
+        - {x: 52, y: 76}
+        - {x: 52, y: -76}
+      physicsShape:
+      - - {x: 20, y: -20}
+        - {x: 15, y: -13}
+        - {x: 11, y: -14}
+        - {x: 8, y: -17}
+        - {x: 1, y: -16}
+        - {x: 24, y: -11}
+        - {x: 37, y: -2}
+        - {x: 42, y: 5}
+        - {x: 45, y: 9}
+        - {x: 46, y: 14}
+        - {x: 46, y: 51}
+        - {x: 44, y: 63}
+        - {x: 37, y: 66}
+        - {x: 33, y: 67}
+        - {x: 24, y: 67}
+        - {x: 13, y: 64}
+        - {x: 0, y: 49}
+        - {x: 0, y: 40}
+        - {x: 4, y: 21.99999}
+        - {x: -13, y: 15.99999}
+        - {x: -41, y: -2}
+        - {x: -47, y: -11}
+        - {x: -47, y: -32}
+        - {x: -46, y: -38}
+        - {x: -44, y: -62}
+        - {x: -38, y: -67}
+        - {x: -31, y: -67}
+        - {x: -6, y: -51}
+        - {x: -1, y: -52}
+        - {x: 17, y: -40}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f13e0c0d52d4dfaa90ed14088706337
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Weapon_Sword
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 766
+        width: 142
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71, y: -84}
+        - {x: -71, y: 84}
+        - {x: 71, y: 84}
+        - {x: 71, y: -84}
+      physicsShape:
+      - - {x: 15, y: -62}
+        - {x: 22, y: -60}
+        - {x: 30, y: -50}
+        - {x: 18, y: -45}
+        - {x: 9.999999, y: -33}
+        - {x: 46, y: 6}
+        - {x: 57, y: 22.99999}
+        - {x: 57, y: 35.99999}
+        - {x: 58, y: 47}
+        - {x: 58, y: 66}
+        - {x: 55, y: 68}
+        - {x: 46, y: 68}
+        - {x: 9, y: 55}
+        - {x: 3, y: 47}
+        - {x: -28, y: 1}
+        - {x: -33, y: -8}
+        - {x: -51, y: 11}
+        - {x: -54, y: 12}
+        - {x: -59, y: 4}
+        - {x: -59, y: -7}
+        - {x: -57, y: -22}
+        - {x: -50, y: -33}
+        - {x: -45, y: -40}
+        - {x: -54, y: -50}
+        - {x: -54, y: -57}
+        - {x: -42, y: -67}
+        - {x: -39, y: -68}
+        - {x: -34, y: -68}
+        - {x: -32, y: -67}
+        - {x: -21, y: -58}
+        - {x: -5, y: -63}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff29507774c24cda92427f28afc25983
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Weapon_Sword_Fervor
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 592
+        width: 143
+        height: 207
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.5, y: -103.5}
+        - {x: -71.5, y: 103.5}
+        - {x: 71.5, y: 103.5}
+        - {x: 71.5, y: -103.5}
+      physicsShape:
+      - - {x: 21.5, y: -23.50001}
+        - {x: 28.5, y: -19.5}
+        - {x: 43.5, y: 5.5}
+        - {x: 49.5, y: 19.5}
+        - {x: 58.5, y: 37.5}
+        - {x: 62.5, y: 60.5}
+        - {x: 63.5, y: 78.5}
+        - {x: 61.5, y: 87.5}
+        - {x: 57.5, y: 91.5}
+        - {x: 52.5, y: 89.5}
+        - {x: 33.5, y: 60.5}
+        - {x: 29.5, y: 58.5}
+        - {x: 8.5, y: 32.5}
+        - {x: 5.5, y: 33.5}
+        - {x: -1.5, y: 24.5}
+        - {x: -14.5, y: 11.5}
+        - {x: -17.5, y: 5.5}
+        - {x: -35.5, y: 5.5}
+        - {x: -43.5, y: -7.5}
+        - {x: -47.5, y: -23.50001}
+        - {x: -44.5, y: -37.5}
+        - {x: -38.5, y: -38.5}
+        - {x: -50.5, y: -48.5}
+        - {x: -63.5, y: -68.5}
+        - {x: -63.5, y: -74.5}
+        - {x: -58.5, y: -83.5}
+        - {x: -40.5, y: -89.5}
+        - {x: -28.5, y: -78.5}
+        - {x: -20.5, y: -86.5}
+        - {x: -9.5, y: -90.5}
+        - {x: -2.5, y: -90.5}
+        - {x: 0.5, y: -86.5}
+        - {x: 14.5, y: -64.5}
+        - {x: 19.5, y: -41.5}
+      - - {x: -25.5, y: -70.5}
+        - {x: -21.5, y: -64.5}
+        - {x: -20.5, y: -61.5}
+        - {x: -18.5, y: -58.5}
+        - {x: -18.5, y: -56.5}
+        - {x: -12.5, y: -48.5}
+        - {x: -11.5, y: -44.5}
+        - {x: -13.5, y: -47.5}
+        - {x: -14.5, y: -50.5}
+        - {x: -14.5, y: -52.5}
+        - {x: -15.5, y: -53.5}
+        - {x: -16.5, y: -57.5}
+        - {x: -21.5, y: -62.5}
+        - {x: -29.5, y: -73.5}
+        - {x: -28.5, y: -73.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f5ba9b3a7f434187f0e13931fd0393
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Weapon_Guantlet_Necromancy
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 0
+        width: 130
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: -69.5}
+        - {x: -65, y: 69.5}
+        - {x: 65, y: 69.5}
+        - {x: 65, y: -69.5}
+      physicsShape:
+      - - {x: 38, y: -51.5}
+        - {x: 47, y: -44.5}
+        - {x: 56, y: -28.5}
+        - {x: 56, y: -22.5}
+        - {x: 47, y: -8.5}
+        - {x: 40, y: -8.5}
+        - {x: 36, y: -15.5}
+        - {x: 37, y: -27.5}
+        - {x: 28, y: -31.5}
+        - {x: 5, y: -26.5}
+        - {x: 7, y: -18.5}
+        - {x: 1, y: -7.5}
+        - {x: 20, y: 10.49999}
+        - {x: 54, y: 12.5}
+        - {x: 57, y: 19.5}
+        - {x: 57, y: 26.5}
+        - {x: 35, y: 36.49999}
+        - {x: 11, y: 34.5}
+        - {x: -3, y: 25.5}
+        - {x: -4, y: 16.49999}
+        - {x: -14, y: 7.5}
+        - {x: -13, y: 8.5}
+        - {x: -11, y: 16.49999}
+        - {x: 6, y: 37.49999}
+        - {x: 31, y: 37.49999}
+        - {x: 38, y: 47.49999}
+        - {x: 33, y: 53.5}
+        - {x: 16, y: 61.5}
+        - {x: 1, y: 60.5}
+        - {x: -5, y: 55.5}
+        - {x: -15, y: 62.5}
+        - {x: -24, y: 62.5}
+        - {x: -35, y: 60.5}
+        - {x: -47, y: 50.49999}
+        - {x: -58, y: 36.49999}
+        - {x: -58, y: 29.49999}
+        - {x: -57, y: 21.5}
+        - {x: -55, y: 12.5}
+        - {x: -51, y: -9.500004}
+        - {x: -55, y: -18.5}
+        - {x: -45, y: -49.5}
+        - {x: -39, y: -56.5}
+        - {x: -34, y: -59.5}
+        - {x: -22, y: -61.5}
+        - {x: -12, y: -61.5}
+        - {x: 1, y: -55.5}
+        - {x: 5, y: -52.5}
+        - {x: 26, y: -52.5}
+      - - {x: -35, y: 13.5}
+        - {x: -36, y: 14.5}
+        - {x: -36, y: 31.5}
+        - {x: -34, y: 34.5}
+        - {x: -31, y: 37.49999}
+        - {x: -30, y: 40.5}
+        - {x: -28, y: 43.5}
+        - {x: -24, y: 43.5}
+        - {x: -23, y: 45.5}
+        - {x: -30, y: 39.5}
+        - {x: -30, y: 37.49999}
+        - {x: -31, y: 36.49999}
+        - {x: -31, y: 19.5}
+        - {x: -33, y: 16.49999}
+        - {x: -33, y: 12.5}
+        - {x: -34, y: 11.5}
+        - {x: -34, y: 10.49999}
+        - {x: -35, y: 10.49999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50feafbbcfb4afebc31de0b33678795
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Weapon_Axe_Poison
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 398
+        width: 170
+        height: 182
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -85, y: -91}
+        - {x: -85, y: 91}
+        - {x: 85, y: 91}
+        - {x: 85, y: -91}
+      physicsShape:
+      - - {x: -11, y: -36}
+        - {x: -5, y: -24.00001}
+        - {x: -3, y: -25}
+        - {x: -8, y: -31}
+        - {x: -11, y: -36}
+        - {x: -12, y: -39}
+        - {x: 0, y: -48}
+        - {x: 30, y: -52}
+        - {x: 47, y: -43}
+        - {x: 66, y: -24.00001}
+        - {x: 72, y: -15}
+        - {x: 75, y: -6}
+        - {x: 75, y: 18}
+        - {x: 71, y: 36}
+        - {x: 56, y: 54.99998}
+        - {x: 51, y: 54.99998}
+        - {x: 48, y: 51}
+        - {x: 47, y: 46}
+        - {x: 43, y: 34}
+        - {x: 40, y: 25.99999}
+        - {x: 30, y: 46}
+        - {x: 23, y: 47}
+        - {x: 31, y: 49}
+        - {x: 43, y: 58}
+        - {x: 44, y: 67}
+        - {x: 31, y: 77}
+        - {x: 15, y: 80.99998}
+        - {x: -2, y: 80.99998}
+        - {x: -20, y: 78}
+        - {x: -35, y: 70}
+        - {x: -51, y: 51}
+        - {x: -58, y: 35}
+        - {x: -55, y: 2}
+        - {x: -45, y: -11.00001}
+        - {x: -39, y: -15}
+        - {x: -34, y: -15}
+        - {x: -32, y: -13}
+        - {x: -31, y: -14}
+        - {x: -36, y: -16}
+        - {x: -49, y: -34}
+        - {x: -61, y: -53}
+        - {x: -71, y: -56}
+        - {x: -76, y: -63}
+        - {x: -76, y: -71}
+        - {x: -74, y: -77}
+        - {x: -72, y: -80}
+        - {x: -54, y: -80}
+        - {x: -48, y: -79}
+        - {x: -41, y: -70}
+        - {x: -29, y: -55}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c2197e365944da88c87c18dc9e8d89
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Weapon_Sword_Critical
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 803
+        width: 157
+        height: 173
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -78.5, y: -86.5}
+        - {x: -78.5, y: 86.5}
+        - {x: 78.5, y: 86.5}
+        - {x: 78.5, y: -86.5}
+      physicsShape:
+      - - {x: 26.5, y: -21.5}
+        - {x: 49.5, y: 5.499992}
+        - {x: 58.5, y: 20.49999}
+        - {x: 64.5, y: 35.5}
+        - {x: 67.5, y: 46.5}
+        - {x: 69.5, y: 58.5}
+        - {x: 69.5, y: 65.5}
+        - {x: 67.5, y: 70.5}
+        - {x: 64.5, y: 70.5}
+        - {x: 54.5, y: 58.5}
+        - {x: 31.5, y: 22.5}
+        - {x: -2.5, y: -8.5}
+        - {x: 2.5, y: -25.5}
+        - {x: 2.5, y: -37.5}
+        - {x: -2.5, y: -43.5}
+        - {x: -2.5, y: -30.5}
+        - {x: -6.5, y: -21.5}
+        - {x: -17.5, y: -12.5}
+        - {x: -23.5, y: -11.5}
+        - {x: -36.5, y: -11.5}
+        - {x: -25.5, y: -5.5}
+        - {x: -16.5, y: -6.500008}
+        - {x: -6.5, y: -5.5}
+        - {x: -1.5, y: 0.5}
+        - {x: 15.5, y: 23.5}
+        - {x: 34.5, y: 41.5}
+        - {x: 53.5, y: 57.5}
+        - {x: 63.5, y: 69.5}
+        - {x: 63.5, y: 73.49998}
+        - {x: 61.5, y: 76.5}
+        - {x: 56.5, y: 76.5}
+        - {x: 51.5, y: 75.5}
+        - {x: 31.5, y: 68.5}
+        - {x: 13.5, y: 57.5}
+        - {x: 1.5, y: 47.49998}
+        - {x: -10.5, y: 35.5}
+        - {x: -22.5, y: 22.5}
+        - {x: -31.5, y: 20.49999}
+        - {x: -47.5, y: 16.5}
+        - {x: -62.5, y: 8.5}
+        - {x: -67.5, y: -1.5}
+        - {x: -69.5, y: -9.5}
+        - {x: -69.5, y: -38.5}
+        - {x: -59.5, y: -42.5}
+        - {x: -53.5, y: -33.5}
+        - {x: -48.5, y: -23.5}
+        - {x: -48.5, y: -31.5}
+        - {x: -57.5, y: -45.5}
+        - {x: -57.5, y: -46.5}
+        - {x: -48.5, y: -53.5}
+        - {x: -42.5, y: -59.5}
+        - {x: -35.5, y: -67.5}
+        - {x: -28.5, y: -67.5}
+        - {x: -22.5, y: -60.5}
+        - {x: -19.5, y: -56.5}
+        - {x: -9.5, y: -55.5}
+        - {x: -24.5, y: -64.5}
+        - {x: -25.5, y: -69.5}
+        - {x: -20.5, y: -74.5}
+        - {x: 5.5, y: -74.5}
+        - {x: 17.5, y: -68.5}
+        - {x: 24.5, y: -53.5}
+        - {x: 27.5, y: -43.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3ff0a6913e46c288c26efa25cdf2a7
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Weapon_Axe_Critical
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 195
+        height: 212
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97.5, y: -106}
+        - {x: -97.5, y: 106}
+        - {x: 97.5, y: 106}
+        - {x: 97.5, y: -106}
+      physicsShape:
+      - - {x: -23.5, y: -41}
+        - {x: -10.5, y: -41}
+        - {x: -2.5, y: -33.00001}
+        - {x: -4.5, y: -37}
+        - {x: 0.5, y: -45}
+        - {x: 15.5, y: -45}
+        - {x: 21.5, y: -38}
+        - {x: 34.5, y: -45}
+        - {x: 56.5, y: -36}
+        - {x: 62.5, y: -28}
+        - {x: 74.5, y: -21}
+        - {x: 80.5, y: -12}
+        - {x: 85.49999, y: 0.9999924}
+        - {x: 85.49999, y: 36}
+        - {x: 82.5, y: 45}
+        - {x: 72.5, y: 52.99998}
+        - {x: 64.5, y: 56}
+        - {x: 46.5, y: 56}
+        - {x: 44.5, y: 46}
+        - {x: 50.5, y: 39.99998}
+        - {x: 48.5, y: 31}
+        - {x: 40.5, y: 27.99998}
+        - {x: 40.5, y: 39.99998}
+        - {x: 30.5, y: 49}
+        - {x: 25.5, y: 51}
+        - {x: 14.5, y: 51}
+        - {x: 26.5, y: 61}
+        - {x: 34.5, y: 53.99998}
+        - {x: 44.5, y: 56}
+        - {x: 42.5, y: 75}
+        - {x: 36.5, y: 83}
+        - {x: 25.5, y: 93}
+        - {x: 3.5, y: 93}
+        - {x: -15.5, y: 88}
+        - {x: -26.5, y: 81}
+        - {x: -36.5, y: 71}
+        - {x: -38.5, y: 65.99998}
+        - {x: -51.5, y: 45}
+        - {x: -51.5, y: 31}
+        - {x: -47.5, y: 21}
+        - {x: -52.5, y: 14.99999}
+        - {x: -53.5, y: 6}
+        - {x: -45.5, y: -8.000008}
+        - {x: -43.5, y: -10}
+        - {x: -43.5, y: -18}
+        - {x: -37.5, y: -23}
+        - {x: -48.5, y: -34}
+        - {x: -58.5, y: -46}
+        - {x: -80.5, y: -54}
+        - {x: -86.5, y: -62}
+        - {x: -86.5, y: -70}
+        - {x: -62.5, y: -91}
+        - {x: -55.5, y: -93}
+        - {x: -50.5, y: -93}
+        - {x: -44.5, y: -83}
+        - {x: -42.5, y: -74}
+        - {x: -34.5, y: -55}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8012c3f464af43a186e541babca1ae7c
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Weapon_Hammer_Necromancy
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 0
+        width: 180
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -90, y: -99}
+        - {x: -90, y: 99}
+        - {x: 90, y: 99}
+        - {x: 90, y: -99}
+      physicsShape:
+      - - {x: -36, y: -52}
+        - {x: -20, y: -30}
+        - {x: -1, y: -16}
+        - {x: 13, y: -15}
+        - {x: 21, y: -18}
+        - {x: 27, y: -31}
+        - {x: 36, y: -39}
+        - {x: 46, y: -39}
+        - {x: 55, y: -26.00001}
+        - {x: 71, y: -21}
+        - {x: 72, y: -18}
+        - {x: 75, y: 3}
+        - {x: 79, y: 5}
+        - {x: 79, y: 20.99999}
+        - {x: 72, y: 27}
+        - {x: 52, y: 27}
+        - {x: 51, y: 39}
+        - {x: 42, y: 58}
+        - {x: 39, y: 63}
+        - {x: 26, y: 62}
+        - {x: 13, y: 65}
+        - {x: -1, y: 81}
+        - {x: -9.999999, y: 87}
+        - {x: -22, y: 87}
+        - {x: -26, y: 78}
+        - {x: -34, y: 76}
+        - {x: -41, y: 72.99998}
+        - {x: -47, y: 62}
+        - {x: -48, y: 45}
+        - {x: -54, y: 49}
+        - {x: -59, y: 33}
+        - {x: -49, y: 25}
+        - {x: -36, y: 20.99999}
+        - {x: -26, y: 17.99999}
+        - {x: -38, y: -17}
+        - {x: -60, y: -42}
+        - {x: -62, y: -36}
+        - {x: -78, y: -40}
+        - {x: -79.99999, y: -50}
+        - {x: -79.99999, y: -67}
+        - {x: -79, y: -73}
+        - {x: -78, y: -80}
+        - {x: -72.99999, y: -87}
+        - {x: -66.99999, y: -87}
+        - {x: -41, y: -82}
+        - {x: -36, y: -77}
+        - {x: -33, y: -75}
+        - {x: -32, y: -58}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45be9dff77b64d4099785d1b5ea4e94c
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Weapon_Dagger_Necromancy
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 494
+        width: 127
+        height: 137
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.5, y: -68.5}
+        - {x: -63.5, y: 68.5}
+        - {x: 63.5, y: 68.5}
+        - {x: 63.5, y: -68.5}
+      physicsShape:
+      - - {x: -3.5, y: -59.5}
+        - {x: 6.5, y: -56.5}
+        - {x: 8.5, y: -45.5}
+        - {x: 8.5, y: -35.5}
+        - {x: 6.5, y: -30.5}
+        - {x: 2.5, y: -9.500004}
+        - {x: 14.5, y: -10.5}
+        - {x: 29.5, y: -3.5}
+        - {x: 33.5, y: 3.5}
+        - {x: 31.5, y: 27.5}
+        - {x: 18.5, y: 23.49999}
+        - {x: 25.5, y: 27.5}
+        - {x: 33.5, y: 35.5}
+        - {x: 55.5, y: 45.5}
+        - {x: 55.5, y: 54.5}
+        - {x: 46.5, y: 59.5}
+        - {x: 33.5, y: 59.5}
+        - {x: 24.5, y: 58.5}
+        - {x: -5.5, y: 50.49999}
+        - {x: -9.5, y: 47.5}
+        - {x: -16.5, y: 40.5}
+        - {x: -16.5, y: 27.5}
+        - {x: -31.5, y: 21.5}
+        - {x: -31.5, y: 25.5}
+        - {x: -41.5, y: 27.5}
+        - {x: -56.5, y: 7.5}
+        - {x: -57.5, y: 5.5}
+        - {x: -57.5, y: -8.500004}
+        - {x: -45.5, y: -28.5}
+        - {x: -54.5, y: -39.5}
+        - {x: -56.5, y: -41.5}
+        - {x: -49.5, y: -55.5}
+        - {x: -45.5, y: -56.5}
+        - {x: -36.5, y: -59.5}
+        - {x: -29.5, y: -59.5}
+        - {x: -27.5, y: -56.5}
+        - {x: -14.5, y: -37.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1546d19561e9454cab5cddf727ffbdf2
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Weapon_Sword_Healing
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 400
+        width: 156
+        height: 161
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -78, y: -80.5}
+        - {x: -78, y: 80.5}
+        - {x: 78, y: 80.5}
+        - {x: 78, y: -80.5}
+      physicsShape:
+      - - {x: 22, y: -64.5}
+        - {x: 24, y: -54.5}
+        - {x: 13, y: -42.5}
+        - {x: 16, y: -36.5}
+        - {x: 15, y: -28.5}
+        - {x: 18, y: -19.5}
+        - {x: 18, y: -13.50001}
+        - {x: 29, y: 1.5}
+        - {x: 46, y: -0.5000076}
+        - {x: 52, y: 6.5}
+        - {x: 54, y: 15.5}
+        - {x: 59, y: 30.5}
+        - {x: 66, y: 46.5}
+        - {x: 69, y: 62.5}
+        - {x: 69, y: 66.49998}
+        - {x: 66.99999, y: 70.5}
+        - {x: 56, y: 70.5}
+        - {x: 34, y: 62.5}
+        - {x: 6, y: 56.5}
+        - {x: -3, y: 44.5}
+        - {x: -2, y: 29.5}
+        - {x: 1, y: 28.5}
+        - {x: -11, y: 10.5}
+        - {x: -19, y: 7.5}
+        - {x: -22, y: 11.49999}
+        - {x: -27, y: 15.5}
+        - {x: -35, y: 15.5}
+        - {x: -41, y: 8.5}
+        - {x: -55, y: 14.5}
+        - {x: -64, y: 7.5}
+        - {x: -64, y: -0.5000076}
+        - {x: -58, y: -23.5}
+        - {x: -56, y: -36.5}
+        - {x: -62, y: -48.5}
+        - {x: -57, y: -62.5}
+        - {x: -50, y: -67.5}
+        - {x: -46, y: -69.5}
+        - {x: -37, y: -69.5}
+        - {x: -25, y: -59.5}
+        - {x: -19, y: -57.5}
+        - {x: 17, y: -68.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a26f95a54e41ce8aaf5bb8cf95fc59
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Weapon_Hammer_Poison
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 197
+        width: 188
+        height: 183
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94, y: -91.5}
+        - {x: -94, y: 91.5}
+        - {x: 94, y: 91.5}
+        - {x: 94, y: -91.5}
+      physicsShape:
+      - - {x: -31, y: -43.5}
+        - {x: -15, y: -29.5}
+        - {x: -9.999999, y: -21.5}
+        - {x: 0, y: -21.5}
+        - {x: -8, y: -28.5}
+        - {x: -13, y: -33.5}
+        - {x: -9, y: -40.5}
+        - {x: 19, y: -52.5}
+        - {x: 34, y: -47.5}
+        - {x: 38, y: -38.5}
+        - {x: 58, y: -18.50001}
+        - {x: 69, y: -5.500008}
+        - {x: 74, y: 8.5}
+        - {x: 81, y: 19.5}
+        - {x: 84, y: 29.49999}
+        - {x: 77, y: 38.5}
+        - {x: 63, y: 51.5}
+        - {x: 55, y: 54.49998}
+        - {x: 40, y: 52.5}
+        - {x: 31, y: 68.49998}
+        - {x: 13, y: 71.5}
+        - {x: 6, y: 70.5}
+        - {x: -5, y: 79.49998}
+        - {x: -9, y: 80.49998}
+        - {x: -24, y: 80.49998}
+        - {x: -28, y: 75.5}
+        - {x: -29, y: 62.5}
+        - {x: -42, y: 50.5}
+        - {x: -51, y: 49.5}
+        - {x: -55, y: 47.5}
+        - {x: -54, y: 36.5}
+        - {x: -51, y: 22.5}
+        - {x: -43, y: 7.499992}
+        - {x: -40, y: -2.5}
+        - {x: -51, y: -19.5}
+        - {x: -60, y: -39.5}
+        - {x: -83, y: -61.5}
+        - {x: -83, y: -76.5}
+        - {x: -77, y: -80.5}
+        - {x: -66, y: -80.5}
+        - {x: -52, y: -78.5}
+        - {x: -46, y: -75.5}
+        - {x: -45, y: -63.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc371215e5104df1ac62a6fa3a572183
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Weapon_Axe_Healing
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 0
+        width: 189
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -94.5, y: -99.5}
+        - {x: -94.5, y: 99.5}
+        - {x: 94.5, y: 99.5}
+        - {x: 94.5, y: -99.5}
+      physicsShape:
+      - - {x: -23.5, y: -54.5}
+        - {x: -10.5, y: -40.5}
+        - {x: 5.5, y: -20.5}
+        - {x: 5.5, y: -13.50001}
+        - {x: 9.5, y: -13.50001}
+        - {x: 1.5, y: -28.5}
+        - {x: 2.5, y: -34.5}
+        - {x: 8.5, y: -39.5}
+        - {x: 35.5, y: -43.5}
+        - {x: 58.5, y: -30.5}
+        - {x: 74.5, y: -14.5}
+        - {x: 80.5, y: -1.500008}
+        - {x: 82.5, y: 4.5}
+        - {x: 83.5, y: 10.5}
+        - {x: 83.5, y: 24.5}
+        - {x: 78.5, y: 40.5}
+        - {x: 71.5, y: 49.5}
+        - {x: 65.5, y: 50.5}
+        - {x: 60.5, y: 40.5}
+        - {x: 59.5, y: 47.49998}
+        - {x: 49.5, y: 56.5}
+        - {x: 38.5, y: 67.5}
+        - {x: 30.5, y: 66.5}
+        - {x: 25.5, y: 63.5}
+        - {x: 22.5, y: 61.5}
+        - {x: 27.5, y: 66.5}
+        - {x: 37.5, y: 69.5}
+        - {x: 39.5, y: 79.5}
+        - {x: 28.5, y: 86.5}
+        - {x: 14.5, y: 88.5}
+        - {x: -0.5, y: 88.5}
+        - {x: -14.5, y: 83.5}
+        - {x: -29.5, y: 69.5}
+        - {x: -45.5, y: 49.5}
+        - {x: -47.5, y: 28.5}
+        - {x: -46.5, y: 16.5}
+        - {x: -40.5, y: 5.499992}
+        - {x: -34.5, y: -0.5000076}
+        - {x: -29.5, y: -2.5}
+        - {x: -26.5, y: -2.5}
+        - {x: -33.5, y: -15.5}
+        - {x: -43.5, y: -26.50001}
+        - {x: -53.5, y: -27.5}
+        - {x: -60.5, y: -37.5}
+        - {x: -61.5, y: -50.5}
+        - {x: -78.5, y: -50.5}
+        - {x: -83.5, y: -56.5}
+        - {x: -83.5, y: -67.5}
+        - {x: -76.5, y: -73.5}
+        - {x: -74.5, y: -83.5}
+        - {x: -70.5, y: -88.5}
+        - {x: -51.5, y: -88.5}
+        - {x: -47.5, y: -79.5}
+        - {x: -44.5, y: -67.5}
+        - {x: -37.5, y: -59.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cc59834fb1474d860dac3a595ed105
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Weapon_Axe_Necromancy
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 203
+        width: 182
+        height: 191
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -91, y: -95.5}
+        - {x: -91, y: 95.5}
+        - {x: 91, y: 95.5}
+        - {x: 91, y: -95.5}
+      physicsShape:
+      - - {x: -20, y: -45.5}
+        - {x: -25, y: -40.5}
+        - {x: -4, y: -19.5}
+        - {x: -9.999999, y: -28.50001}
+        - {x: -7, y: -37.5}
+        - {x: 24, y: -48.5}
+        - {x: 44, y: -43.5}
+        - {x: 60, y: -36.5}
+        - {x: 72.99999, y: -24.5}
+        - {x: 79.99999, y: -3.500008}
+        - {x: 79.99999, y: 14.5}
+        - {x: 68, y: 38.49998}
+        - {x: 56, y: 49.5}
+        - {x: 47, y: 45.5}
+        - {x: 48, y: 35.5}
+        - {x: 42, y: 27.5}
+        - {x: 32, y: 45.5}
+        - {x: 15, y: 50.49998}
+        - {x: 22, y: 55.5}
+        - {x: 37, y: 57.5}
+        - {x: 38, y: 64.49998}
+        - {x: 22, y: 79.5}
+        - {x: 5, y: 81.5}
+        - {x: -1, y: 85.5}
+        - {x: -13, y: 85.5}
+        - {x: -18, y: 84.5}
+        - {x: -35, y: 75.49998}
+        - {x: -49, y: 60.5}
+        - {x: -54, y: 43.5}
+        - {x: -54, y: 22.49999}
+        - {x: -52, y: 14.5}
+        - {x: -40, y: -8.5}
+        - {x: -45, y: -14.5}
+        - {x: -47, y: -21.5}
+        - {x: -47, y: -29.5}
+        - {x: -45, y: -32.5}
+        - {x: -78, y: -59.5}
+        - {x: -81, y: -66.5}
+        - {x: -81, y: -73.5}
+        - {x: -72, y: -82.5}
+        - {x: -69, y: -83.5}
+        - {x: -62, y: -83.5}
+        - {x: -54, y: -75.5}
+        - {x: -37, y: -56.5}
+        - {x: -26, y: -57.5}
+      - - {x: -29, y: -1.5}
+        - {x: -27, y: 0.5}
+        - {x: -27, y: -3.500008}
+        - {x: -28, y: -4.5}
+        - {x: -28, y: -6.5}
+        - {x: -30, y: -8.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c335d670a534395aa05f762a55148a2
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Radial_Gradient_Glow
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 201
+        height: 201
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.5, y: -100.5}
+        - {x: -100.5, y: 100.5}
+        - {x: 100.5, y: 100.5}
+        - {x: 100.5, y: -100.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c427e80457aa41db9b62458361f5f980
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Weapon_Dagger
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 731
+        width: 138
+        height: 162
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69, y: -81}
+        - {x: -69, y: 81}
+        - {x: 69, y: 81}
+        - {x: 69, y: -81}
+      physicsShape:
+      - - {x: 42, y: -38}
+        - {x: 25, y: -30}
+        - {x: 31, y: -17}
+        - {x: 31, y: -7}
+        - {x: 53, y: -3}
+        - {x: 55, y: 2}
+        - {x: 55, y: 38.99999}
+        - {x: 49, y: 59}
+        - {x: 39, y: 65.99998}
+        - {x: 33, y: 65.99998}
+        - {x: 21, y: 32}
+        - {x: 0, y: 28}
+        - {x: -5, y: 23}
+        - {x: -4, y: 10}
+        - {x: -13, y: -2}
+        - {x: -27, y: 0}
+        - {x: -45, y: -4}
+        - {x: -55, y: -18}
+        - {x: -55, y: -29}
+        - {x: -36, y: -35}
+        - {x: -42, y: -41}
+        - {x: -46, y: -48}
+        - {x: -33, y: -62}
+        - {x: -29, y: -65}
+        - {x: -22, y: -65}
+        - {x: -19, y: -64}
+        - {x: -3, y: -58}
+        - {x: 16, y: -64}
+        - {x: 41, y: -45}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f5c0ffad87496395de99f7071330f5
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Weapon_Guantlet_Fervor
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 798
+        width: 146
+        height: 154
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73, y: -77}
+        - {x: -73, y: 77}
+        - {x: 73, y: 77}
+        - {x: 73, y: -77}
+      physicsShape:
+      - - {x: 38, y: -26}
+        - {x: 29, y: -21}
+        - {x: 12, y: -37}
+        - {x: 5, y: -26}
+        - {x: 13, y: -10.00001}
+        - {x: 28, y: -5}
+        - {x: 35, y: -8}
+        - {x: 55, y: -21}
+        - {x: 62, y: -22}
+        - {x: 64, y: -17}
+        - {x: 64, y: -7}
+        - {x: 54, y: 10}
+        - {x: 29, y: 26}
+        - {x: 22, y: 27}
+        - {x: 22, y: 25}
+        - {x: 16, y: 24}
+        - {x: 18, y: 24}
+        - {x: 22, y: 28.99999}
+        - {x: 55, y: 14}
+        - {x: 61, y: 16}
+        - {x: 55, y: 42.99999}
+        - {x: 46, y: 48}
+        - {x: 35, y: 52}
+        - {x: 28, y: 62}
+        - {x: 17, y: 68}
+        - {x: -16, y: 68}
+        - {x: -22, y: 65}
+        - {x: -34, y: 56}
+        - {x: -52, y: 36}
+        - {x: -61, y: 14.99999}
+        - {x: -65, y: -9}
+        - {x: -65, y: -32}
+        - {x: -64, y: -34}
+        - {x: -50, y: -46}
+        - {x: -26, y: -58}
+        - {x: -8, y: -68}
+        - {x: 16, y: -68}
+        - {x: 20, y: -67}
+        - {x: 34, y: -56}
+        - {x: 36, y: -39}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe1bb95e0c64af692e0948bb2592b9f
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Weapon_Axe_Godly
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 425
+        width: 178
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -89, y: -93}
+        - {x: -89, y: 93}
+        - {x: 89, y: 93}
+        - {x: 89, y: -93}
+      physicsShape:
+      - - {x: -19, y: -29}
+        - {x: -8, y: -26.00001}
+        - {x: -4, y: -26.00001}
+        - {x: -7, y: -34}
+        - {x: -7, y: -38}
+        - {x: 0, y: -43}
+        - {x: 15, y: -46}
+        - {x: 25, y: -42}
+        - {x: 38, y: -33}
+        - {x: 46, y: -18}
+        - {x: 50, y: -23}
+        - {x: 55, y: -23}
+        - {x: 59, y: -22}
+        - {x: 68, y: -12}
+        - {x: 74, y: -2}
+        - {x: 78, y: 5.999992}
+        - {x: 78, y: 24.99999}
+        - {x: 77, y: 32}
+        - {x: 62, y: 36}
+        - {x: 65, y: 47}
+        - {x: 63, y: 53.99998}
+        - {x: 50, y: 68}
+        - {x: 42, y: 73}
+        - {x: 30, y: 82}
+        - {x: -1, y: 82}
+        - {x: -7, y: 77.99998}
+        - {x: -20, y: 78.99998}
+        - {x: -38, y: 76}
+        - {x: -53, y: 65}
+        - {x: -57, y: 60}
+        - {x: -63, y: 50}
+        - {x: -66, y: 42}
+        - {x: -66.99999, y: 23.99999}
+        - {x: -60, y: 8}
+        - {x: -51, y: -2}
+        - {x: -43, y: 1}
+        - {x: -40, y: 2}
+        - {x: -40, y: -13.00001}
+        - {x: -55, y: -32}
+        - {x: -61, y: -44}
+        - {x: -76, y: -44}
+        - {x: -79, y: -50}
+        - {x: -79, y: -68}
+        - {x: -78, y: -79}
+        - {x: -74, y: -82}
+        - {x: -66, y: -82}
+        - {x: -63, y: -81}
+        - {x: -46, y: -77}
+        - {x: -38, y: -64}
+        - {x: -40, y: -52}
+      - - {x: 5, y: -8}
+        - {x: 5, y: -1.000008}
+        - {x: 15, y: 4}
+        - {x: 16, y: -3}
+        - {x: 11, y: -6}
+        - {x: 8, y: -8}
+        - {x: 4, y: -8}
+        - {x: 3, y: -9}
+        - {x: 4, y: -9}
+      - - {x: -24, y: 14.99999}
+        - {x: -24, y: 18}
+        - {x: -22, y: 20}
+        - {x: -22, y: 23}
+        - {x: -19, y: 23.99999}
+        - {x: -16, y: 22}
+        - {x: -19, y: 18}
+        - {x: -19, y: 17}
+        - {x: -21, y: 14.99999}
+        - {x: -23, y: 14.99999}
+        - {x: -26, y: 12.99999}
+        - {x: -31, y: 11}
+        - {x: -29, y: 10}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb74a5d8fd04df786563cb0a4423e49
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Weapon_Sword_Poison
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 787
+        width: 148
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74, y: -84}
+        - {x: -74, y: 84}
+        - {x: 74, y: 84}
+        - {x: 74, y: -84}
+      physicsShape:
+      - - {x: 3, y: -27}
+        - {x: 21, y: -17.00001}
+        - {x: 30, y: -2}
+        - {x: 42, y: 10}
+        - {x: 57, y: 28}
+        - {x: 65, y: 32}
+        - {x: 65, y: 48}
+        - {x: 64, y: 52}
+        - {x: 57, y: 61.99998}
+        - {x: 51, y: 66}
+        - {x: 38, y: 73}
+        - {x: 17, y: 73}
+        - {x: 12, y: 62.99998}
+        - {x: 9.999999, y: 57}
+        - {x: -2, y: 46}
+        - {x: -12, y: 34.99999}
+        - {x: -14, y: 31}
+        - {x: -19, y: 13.99999}
+        - {x: -29, y: 7}
+        - {x: -36, y: -6}
+        - {x: -44, y: -14}
+        - {x: -42, y: -26}
+        - {x: -51, y: -37}
+        - {x: -66.99999, y: -48}
+        - {x: -66.99999, y: -57}
+        - {x: -62, y: -68}
+        - {x: -59, y: -73}
+        - {x: -48, y: -73}
+        - {x: -28, y: -65}
+        - {x: -24, y: -49}
+        - {x: -7, y: -46}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a13b649787c4f3881562bfa6f087487
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Weapon_Guantlet_Critical
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 0
+        width: 139
+        height: 148
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69.5, y: -74}
+        - {x: -69.5, y: 74}
+        - {x: 69.5, y: 74}
+        - {x: 69.5, y: -74}
+      physicsShape:
+      - - {x: 47.5, y: -47}
+        - {x: 52.5, y: -41}
+        - {x: 55.5, y: -32}
+        - {x: 54.5, y: -20}
+        - {x: 49.5, y: -8}
+        - {x: 40.5, y: 0}
+        - {x: 30.5, y: 2}
+        - {x: 26.5, y: -1.000008}
+        - {x: 32.5, y: -18}
+        - {x: 29.5, y: -29}
+        - {x: 18.5, y: -26}
+        - {x: 10.5, y: -20}
+        - {x: 16.5, y: 5}
+        - {x: 26.5, y: 14}
+        - {x: 59.5, y: 5.999992}
+        - {x: 61.5, y: 10}
+        - {x: 61.5, y: 19}
+        - {x: 41.5, y: 33.99999}
+        - {x: 15.5, y: 36}
+        - {x: 6.5, y: 32.99999}
+        - {x: 13.5, y: 39}
+        - {x: 34.5, y: 35}
+        - {x: 41.5, y: 38}
+        - {x: 40.5, y: 42}
+        - {x: 34.5, y: 48}
+        - {x: 26.5, y: 55}
+        - {x: 18.5, y: 59}
+        - {x: 8.5, y: 59}
+        - {x: -5.5, y: 56}
+        - {x: -5.5, y: 61}
+        - {x: -19.5, y: 66}
+        - {x: -33.5, y: 66}
+        - {x: -48.5, y: 53}
+        - {x: -60.5, y: 32.99999}
+        - {x: -62.5, y: 11}
+        - {x: -62.5, y: -16}
+        - {x: -50.5, y: -43}
+        - {x: -43.5, y: -58}
+        - {x: -38.5, y: -61}
+        - {x: -20.5, y: -65}
+        - {x: -3.5, y: -65}
+        - {x: 13.5, y: -64}
+        - {x: 24.5, y: -62}
+        - {x: 39.5, y: -56}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e599d3db0143d5bdd6e1d902e6d538
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Weapon_Hammer_Healing
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 0
+        width: 192
+        height: 193
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -96, y: -96.5}
+        - {x: -96, y: 96.5}
+        - {x: 96, y: 96.5}
+        - {x: 96, y: -96.5}
+      physicsShape:
+      - - {x: -40, y: -49.5}
+        - {x: -37, y: -55.5}
+        - {x: -31, y: -55.5}
+        - {x: -25, y: -54.5}
+        - {x: -16, y: -43.5}
+        - {x: -17, y: -25.5}
+        - {x: -13, y: -19.5}
+        - {x: -16, y: -30.5}
+        - {x: -11, y: -42.5}
+        - {x: -2, y: -46.5}
+        - {x: 15, y: -52.5}
+        - {x: 34, y: -49.5}
+        - {x: 54, y: -32.5}
+        - {x: 81, y: 10.49999}
+        - {x: 84, y: 17.5}
+        - {x: 84, y: 28.5}
+        - {x: 59, y: 55.5}
+        - {x: 43, y: 51.5}
+        - {x: 50, y: 58.5}
+        - {x: 54, y: 63.49998}
+        - {x: 56, y: 69.5}
+        - {x: 43, y: 81.5}
+        - {x: 32, y: 78.5}
+        - {x: 22, y: 82.5}
+        - {x: 9, y: 82.5}
+        - {x: 6, y: 76.5}
+        - {x: -3, y: 84.5}
+        - {x: -6, y: 85.5}
+        - {x: -20, y: 85.5}
+        - {x: -29, y: 84.5}
+        - {x: -31, y: 80.5}
+        - {x: -31, y: 76.5}
+        - {x: -24, y: 68.5}
+        - {x: -39, y: 68.5}
+        - {x: -45, y: 59.5}
+        - {x: -43, y: 51.5}
+        - {x: -45, y: 41.5}
+        - {x: -46, y: 34.5}
+        - {x: -32, y: 21.49999}
+        - {x: -42, y: 13.5}
+        - {x: -53, y: -10.50001}
+        - {x: -51, y: -25.5}
+        - {x: -66, y: -48.5}
+        - {x: -79, y: -52.5}
+        - {x: -85, y: -58.5}
+        - {x: -85, y: -76.5}
+        - {x: -79, y: -84.5}
+        - {x: -66, y: -84.5}
+        - {x: -58, y: -83.5}
+        - {x: -54, y: -80.5}
+        - {x: -48, y: -74.5}
+        - {x: -48, y: -63.5}
+      - - {x: 24, y: 15.5}
+        - {x: 27, y: 22.49999}
+        - {x: 28, y: 21.49999}
+        - {x: 27, y: 17.5}
+        - {x: 24, y: 14.5}
+        - {x: 24, y: 13.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef5914ef424453d86b420a74f1cceda
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Weapon_Guantlet_Poison
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 150
+        width: 142
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71, y: -73.5}
+        - {x: -71, y: 73.5}
+        - {x: 71, y: 73.5}
+        - {x: 71, y: -73.5}
+      physicsShape:
+      - - {x: 52, y: -38.5}
+        - {x: 50, y: -14.5}
+        - {x: 43, y: -6.500008}
+        - {x: 35, y: -6.500008}
+        - {x: 33, y: -7.5}
+        - {x: 34, y: -22.5}
+        - {x: 29, y: -32.5}
+        - {x: 16, y: -18.5}
+        - {x: 9.999999, y: -13.5}
+        - {x: 18, y: -3.5}
+        - {x: 23, y: 7.5}
+        - {x: 47, y: -1.5}
+        - {x: 53, y: -0.5000076}
+        - {x: 63, y: 7.5}
+        - {x: 63, y: 16.5}
+        - {x: 45, y: 31.49999}
+        - {x: 52, y: 43.49999}
+        - {x: 29, y: 59.5}
+        - {x: 15, y: 63.5}
+        - {x: 5, y: 59.5}
+        - {x: 1, y: 65.5}
+        - {x: -21, y: 65.5}
+        - {x: -26, y: 63.5}
+        - {x: -42, y: 49.5}
+        - {x: -53, y: 38.5}
+        - {x: -60, y: 21.5}
+        - {x: -63, y: 10.5}
+        - {x: -63, y: 0.5}
+        - {x: -62, y: -3.5}
+        - {x: -56, y: -28.5}
+        - {x: -49, y: -49.5}
+        - {x: -34, y: -61.5}
+        - {x: -23, y: -58.5}
+        - {x: -9.999999, y: -61.5}
+        - {x: 1, y: -61.5}
+        - {x: 5, y: -64.5}
+        - {x: 35, y: -64.5}
+        - {x: 44, y: -61.5}
+        - {x: 51, y: -56.5}
+        - {x: 50, y: -46.5}
+      - - {x: 4, y: 25.49999}
+        - {x: 5, y: 26.5}
+        - {x: 5, y: 29.5}
+        - {x: 6, y: 30.5}
+        - {x: 4, y: 29.5}
+        - {x: 3, y: 23.5}
+        - {x: 4, y: 23.5}
+      - - {x: 21, y: 34.49999}
+        - {x: 21, y: 33.49999}
+        - {x: 24, y: 34.49999}
+        - {x: 30, y: 30.5}
+        - {x: 33, y: 31.49999}
+        - {x: 25, y: 32.49999}
+        - {x: 24, y: 33.49999}
+      - - {x: 13, y: 36.5}
+        - {x: 16, y: 33.49999}
+        - {x: 17, y: 34.49999}
+        - {x: 13, y: 35.5}
+        - {x: 12, y: 33.49999}
+        - {x: 14, y: 34.49999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4f4e3cf7614736aac99bfd20b7fa25
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Weapon_Dagger_Healing
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 0
+        width: 130
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65, y: -67.5}
+        - {x: -65, y: 67.5}
+        - {x: 65, y: 67.5}
+        - {x: 65, y: -67.5}
+      physicsShape:
+      - - {x: 28, y: -2.5}
+        - {x: 32, y: 12.49999}
+        - {x: 30, y: 18.49999}
+        - {x: 24, y: 30.49999}
+        - {x: 38, y: 35.5}
+        - {x: 56, y: 29.5}
+        - {x: 58, y: 33.5}
+        - {x: 58, y: 42.5}
+        - {x: 44, y: 56.5}
+        - {x: 37, y: 58.5}
+        - {x: 22, y: 58.5}
+        - {x: 15, y: 57.5}
+        - {x: 9, y: 54.5}
+        - {x: -2, y: 41.5}
+        - {x: -4, y: 34.5}
+        - {x: 0, y: 19.5}
+        - {x: -19, y: 21.5}
+        - {x: -30, y: 22.5}
+        - {x: -43, y: 19.5}
+        - {x: -47, y: 10.5}
+        - {x: -52, y: -12.5}
+        - {x: -52, y: -22.5}
+        - {x: -57, y: -37.5}
+        - {x: -57, y: -49.5}
+        - {x: -44, y: -58.5}
+        - {x: -37, y: -56.5}
+        - {x: -26, y: -45.5}
+        - {x: -12, y: -59.5}
+        - {x: -5, y: -59.5}
+        - {x: 1, y: -56.5}
+        - {x: 2, y: -43.5}
+        - {x: 1, y: -39.5}
+        - {x: 8, y: -24.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd8934d7a28463da43769aa33cb3bfc
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Weapon_Dagger_Poison
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 301
+        width: 110
+        height: 142
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55, y: -71}
+        - {x: -55, y: 71}
+        - {x: 55, y: 71}
+        - {x: 55, y: -71}
+      physicsShape:
+      - - {x: 26, y: -40}
+        - {x: 25, y: -32}
+        - {x: 11, y: -12}
+        - {x: 31, y: -14}
+        - {x: 41, y: -3}
+        - {x: 38, y: 8}
+        - {x: 46, y: 26}
+        - {x: 28, y: 36.99999}
+        - {x: 49, y: 55}
+        - {x: 49, y: 62}
+        - {x: 47, y: 62.99998}
+        - {x: 23, y: 62.99998}
+        - {x: -3, y: 47.99999}
+        - {x: -5, y: 42}
+        - {x: -4, y: 31}
+        - {x: -3, y: 16}
+        - {x: -11, y: 14}
+        - {x: -17, y: 6}
+        - {x: -30, y: 12}
+        - {x: -48, y: 11}
+        - {x: -49, y: 8}
+        - {x: -49, y: -7}
+        - {x: -35, y: -21}
+        - {x: -39, y: -26}
+        - {x: -48, y: -42}
+        - {x: -46, y: -57}
+        - {x: -39, y: -61}
+        - {x: -15, y: -61}
+        - {x: 0, y: -47}
+        - {x: 14, y: -53}
+        - {x: 18, y: -50}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e522f1522da4569a930188902ac6634
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Weapon_Axe
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 615
+        width: 165
+        height: 184
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82.5, y: -92}
+        - {x: -82.5, y: 92}
+        - {x: 82.5, y: 92}
+        - {x: 82.5, y: -92}
+      physicsShape:
+      - - {x: -25.5, y: -43}
+        - {x: -15.5, y: -37}
+        - {x: -5.5, y: -25.00001}
+        - {x: -7.5, y: -29}
+        - {x: -3.5, y: -38}
+        - {x: 7.5, y: -42}
+        - {x: 21.5, y: -44}
+        - {x: 38.5, y: -42}
+        - {x: 49.5, y: -35}
+        - {x: 65.5, y: -19.00001}
+        - {x: 72.5, y: -2}
+        - {x: 72.5, y: 22}
+        - {x: 69.5, y: 32}
+        - {x: 59.5, y: 47}
+        - {x: 52.5, y: 47}
+        - {x: 44.5, y: 31}
+        - {x: 35.5, y: 31}
+        - {x: 27.5, y: 43}
+        - {x: 17.5, y: 43}
+        - {x: 17.5, y: 51}
+        - {x: 28.5, y: 64}
+        - {x: 28.5, y: 67.99998}
+        - {x: 27.5, y: 71}
+        - {x: 15.5, y: 81}
+        - {x: -7.5, y: 81}
+        - {x: -14.5, y: 79.99998}
+        - {x: -29.5, y: 72}
+        - {x: -45.5, y: 54.99998}
+        - {x: -51.5, y: 39}
+        - {x: -52.5, y: 20}
+        - {x: -50.5, y: 12.99999}
+        - {x: -42.5, y: -0.000007629395}
+        - {x: -37.5, y: -5}
+        - {x: -33.5, y: -7}
+        - {x: -38.5, y: -18}
+        - {x: -52.5, y: -36}
+        - {x: -58.5, y: -47}
+        - {x: -73.49999, y: -59}
+        - {x: -73.49999, y: -76}
+        - {x: -68.5, y: -81}
+        - {x: -58.5, y: -81}
+        - {x: -47.5, y: -75}
+        - {x: -44.5, y: -67}
+        - {x: -31.5, y: -49}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdd5ba9281b4f0294aa00c60c732333
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Weapon_Guantlet_Healing
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 0
+        width: 145
+        height: 146
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.5, y: -73}
+        - {x: -72.5, y: 73}
+        - {x: 72.5, y: 73}
+        - {x: 72.5, y: -73}
+      physicsShape:
+      - - {x: 35.5, y: -13}
+        - {x: 30.5, y: -17}
+        - {x: 18.5, y: -25}
+        - {x: 12.5, y: -9}
+        - {x: 22.5, y: 2}
+        - {x: 40.5, y: -1}
+        - {x: 48.5, y: -5}
+        - {x: 61.5, y: -5}
+        - {x: 63.5, y: -1}
+        - {x: 63.5, y: 6}
+        - {x: 51.5, y: 20}
+        - {x: 51.5, y: 32.99999}
+        - {x: 36.5, y: 54}
+        - {x: 17.5, y: 54}
+        - {x: 11.5, y: 63}
+        - {x: 4.5, y: 65}
+        - {x: -7.5, y: 65}
+        - {x: -18.5, y: 63}
+        - {x: -35.5, y: 54}
+        - {x: -55.5, y: 40}
+        - {x: -64.5, y: 24}
+        - {x: -64.5, y: 14}
+        - {x: -60.5, y: 8}
+        - {x: -58.5, y: -4}
+        - {x: -55.5, y: -32}
+        - {x: -54.5, y: -35}
+        - {x: -47.5, y: -43}
+        - {x: -39.5, y: -52}
+        - {x: -28.5, y: -55}
+        - {x: -21.5, y: -56}
+        - {x: -7.5, y: -64}
+        - {x: 3.5, y: -64}
+        - {x: 24.5, y: -61}
+        - {x: 33.5, y: -56}
+        - {x: 45.5, y: -45}
+        - {x: 46.5, y: -23}
+      - - {x: 11.5, y: 29}
+        - {x: 12.5, y: 30}
+        - {x: 16.5, y: 30}
+        - {x: 17.5, y: 29}
+        - {x: 29.5, y: 30}
+        - {x: 34.5, y: 27}
+        - {x: 38.5, y: 24}
+        - {x: 39.5, y: 24.99999}
+        - {x: 28.5, y: 25.99999}
+        - {x: 20.5, y: 30}
+        - {x: 15.5, y: 30}
+        - {x: 12.5, y: 29}
+        - {x: 10.5, y: 25.99999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32360e52644f465fa5d4deeb3adf704e
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Weapon_Blunderbuss
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 619
+        width: 148
+        height: 175
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74, y: -87.5}
+        - {x: -74, y: 87.5}
+        - {x: 74, y: 87.5}
+        - {x: 74, y: -87.5}
+      physicsShape:
+      - - {x: 11, y: -31.5}
+        - {x: 8, y: -26.5}
+        - {x: 17, y: -5.5}
+        - {x: 43, y: 15.5}
+        - {x: 53, y: 17.49999}
+        - {x: 65, y: 21.5}
+        - {x: 65, y: 32.49999}
+        - {x: 55, y: 51.5}
+        - {x: 23, y: 77.5}
+        - {x: 17, y: 78.5}
+        - {x: 3, y: 78.5}
+        - {x: -1, y: 75.5}
+        - {x: 3, y: 53.5}
+        - {x: -3, y: 44.5}
+        - {x: -5, y: 42.5}
+        - {x: -25, y: 9.5}
+        - {x: -38, y: 2.5}
+        - {x: -48, y: -9.5}
+        - {x: -62, y: -15.5}
+        - {x: -66, y: -20.50001}
+        - {x: -66, y: -28.5}
+        - {x: -47, y: -48.5}
+        - {x: -52, y: -55.5}
+        - {x: -53, y: -62.5}
+        - {x: -44, y: -70.5}
+        - {x: -38, y: -71.5}
+        - {x: -22, y: -76.5}
+        - {x: -9.999999, y: -76.5}
+        - {x: 0, y: -73.5}
+        - {x: 2, y: -68.5}
+        - {x: 6, y: -52.5}
+        - {x: 9, y: -45.5}
+      - - {x: -3, y: -36.5}
+        - {x: -1, y: -32.5}
+        - {x: 0, y: -36.5}
+        - {x: -2, y: -38.5}
+        - {x: -2, y: -37.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945e8a12265d4c049b46316ba1657a6e
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Weapon_Sword_Necromancy
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 592
+        width: 147
+        height: 191
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: -95.5}
+        - {x: -73.5, y: 95.5}
+        - {x: 73.5, y: 95.5}
+        - {x: 73.5, y: -95.5}
+      physicsShape:
+      - - {x: 4.5, y: -30.5}
+        - {x: 21.5, y: -22.50001}
+        - {x: 31.5, y: -2.5}
+        - {x: 36.5, y: -2.5}
+        - {x: 39.5, y: 0.5}
+        - {x: 46.5, y: 6.5}
+        - {x: 62.5, y: 28.5}
+        - {x: 64.5, y: 33.5}
+        - {x: 64.5, y: 71.5}
+        - {x: 58.5, y: 84.5}
+        - {x: 48.5, y: 84.5}
+        - {x: 14.5, y: 35.5}
+        - {x: 15.5, y: 32.5}
+        - {x: 14.5, y: 20.5}
+        - {x: -0.5, y: 24.49999}
+        - {x: -14.5, y: 11.49999}
+        - {x: -17.5, y: -8.5}
+        - {x: -32.5, y: -17.5}
+        - {x: -47.5, y: -17.5}
+        - {x: -60.5, y: -23.5}
+        - {x: -65.5, y: -27.5}
+        - {x: -65.5, y: -33.5}
+        - {x: -62.5, y: -39.5}
+        - {x: -44.5, y: -40.5}
+        - {x: -62.5, y: -54.5}
+        - {x: -62.5, y: -63.5}
+        - {x: -52.5, y: -73.5}
+        - {x: -42.5, y: -77.5}
+        - {x: -36.5, y: -78.5}
+        - {x: -22.5, y: -60.5}
+        - {x: -16.5, y: -60.5}
+        - {x: -5.5, y: -83.5}
+        - {x: -3.5, y: -83.5}
+        - {x: 4.5, y: -78.5}
+        - {x: 7.5, y: -61.5}
+        - {x: 6.5, y: -50.5}
+        - {x: 3.5, y: -42.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f014b52b694c29ae45209886e5f773
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Weapon_Guantlet
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 803
+        width: 142
+        height: 153
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71, y: -76.5}
+        - {x: -71, y: 76.5}
+        - {x: 71, y: 76.5}
+        - {x: 71, y: -76.5}
+      physicsShape:
+      - - {x: 47, y: -38.5}
+        - {x: 43, y: -19.5}
+        - {x: 39, y: -14.5}
+        - {x: 36, y: -15.5}
+        - {x: 25, y: -36.5}
+        - {x: 9, y: -25.5}
+        - {x: 7, y: -10.5}
+        - {x: 21, y: 7.5}
+        - {x: 57, y: 6.5}
+        - {x: 58, y: 9.499992}
+        - {x: 57, y: 12.5}
+        - {x: 41, y: 27.5}
+        - {x: 12, y: 29.49999}
+        - {x: 5, y: 22.49999}
+        - {x: -1, y: 24.5}
+        - {x: 11, y: 36.5}
+        - {x: 20, y: 37.5}
+        - {x: 35, y: 34.5}
+        - {x: 40, y: 35.5}
+        - {x: 41, y: 38.5}
+        - {x: 24, y: 55.5}
+        - {x: 6, y: 55.5}
+        - {x: 0, y: 59.5}
+        - {x: -14, y: 62.5}
+        - {x: -25, y: 62.5}
+        - {x: -47, y: 46.5}
+        - {x: -50, y: 44.49999}
+        - {x: -53, y: 27.5}
+        - {x: -58, y: 12.5}
+        - {x: -58, y: -8.5}
+        - {x: -54, y: -28.5}
+        - {x: -48, y: -44.5}
+        - {x: -45, y: -49.5}
+        - {x: -34, y: -57.5}
+        - {x: -29, y: -58.5}
+        - {x: 14, y: -62.5}
+        - {x: 25, y: -62.5}
+        - {x: 35, y: -57.5}
+        - {x: 40, y: -50.5}
+      - - {x: -26, y: 37.5}
+        - {x: -25, y: 38.5}
+        - {x: -15, y: 49.5}
+        - {x: -15, y: 50.5}
+        - {x: -17, y: 49.5}
+        - {x: -23, y: 37.5}
+        - {x: -25, y: 34.5}
+        - {x: -25, y: 33.5}
+        - {x: -27, y: 30.49999}
+        - {x: -26, y: 30.49999}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8dc9022fff240e484e9d5a22d368b42
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Weapon_Hammer
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 202
+        width: 177
+        height: 194
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -88.5, y: -97}
+        - {x: -88.5, y: 97}
+        - {x: 88.5, y: 97}
+        - {x: 88.5, y: -97}
+      physicsShape:
+      - - {x: -18.5, y: -39}
+        - {x: -7.5, y: -30.00001}
+        - {x: 6.5, y: -42}
+        - {x: 18.5, y: -49}
+        - {x: 23.5, y: -48}
+        - {x: 46.5, y: -24.00001}
+        - {x: 68.5, y: 0.9999924}
+        - {x: 77.5, y: 14}
+        - {x: 77.5, y: 18}
+        - {x: 63.5, y: 34}
+        - {x: 53.5, y: 40}
+        - {x: 49.5, y: 40}
+        - {x: 45.5, y: 42}
+        - {x: 25.5, y: 57}
+        - {x: 22.5, y: 67}
+        - {x: 8.5, y: 80}
+        - {x: -2.5, y: 86.99998}
+        - {x: -12.5, y: 86.99998}
+        - {x: -30.5, y: 71}
+        - {x: -56.5, y: 38}
+        - {x: -61.5, y: 28}
+        - {x: -63.5, y: 21.99999}
+        - {x: -45.5, y: 0.9999924}
+        - {x: -36.5, y: -2}
+        - {x: -33.5, y: -2}
+        - {x: -30.5, y: 0.9999924}
+        - {x: -32.5, y: -2}
+        - {x: -34.5, y: -7}
+        - {x: -38.5, y: -12}
+        - {x: -43.5, y: -19}
+        - {x: -48.5, y: -32}
+        - {x: -61.5, y: -46}
+        - {x: -63.5, y: -53}
+        - {x: -79.49999, y: -70}
+        - {x: -79.49999, y: -81}
+        - {x: -69.5, y: -85}
+        - {x: -62.5, y: -85}
+        - {x: -58.5, y: -79}
+        - {x: -55.5, y: -72}
+        - {x: -36.5, y: -51}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cceda1d3b0fb4166a23b2e5faa3243ea
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Weapon_Dagger_Fervor
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 565
+        width: 142
+        height: 162
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71, y: -81}
+        - {x: -71, y: 81}
+        - {x: 71, y: 81}
+        - {x: 71, y: -81}
+      physicsShape:
+      - - {x: -3, y: -59}
+        - {x: 2, y: -57}
+        - {x: 5, y: -51}
+        - {x: 8, y: -44}
+        - {x: 2, y: -26}
+        - {x: 12, y: -17}
+        - {x: 18, y: -10}
+        - {x: 24, y: -1.000008}
+        - {x: 14, y: 23.99999}
+        - {x: 35, y: 23.99999}
+        - {x: 47, y: 35}
+        - {x: 44, y: 39.99999}
+        - {x: 40, y: 47}
+        - {x: 61, y: 58}
+        - {x: 63, y: 61}
+        - {x: 63, y: 64.99998}
+        - {x: 57, y: 69}
+        - {x: 54, y: 70}
+        - {x: 45, y: 72}
+        - {x: 43, y: 72}
+        - {x: 32, y: 70}
+        - {x: 23, y: 65.99998}
+        - {x: 17, y: 61}
+        - {x: 9.999999, y: 49}
+        - {x: -7, y: 41}
+        - {x: -17, y: 26.99999}
+        - {x: -16, y: 16}
+        - {x: -23, y: 17.99999}
+        - {x: -40, y: 16}
+        - {x: -51, y: -2}
+        - {x: -56, y: -14.00001}
+        - {x: -51, y: -28}
+        - {x: -63, y: -49}
+        - {x: -63, y: -61}
+        - {x: -51, y: -70}
+        - {x: -41, y: -70}
+        - {x: -28, y: -54}
+        - {x: -23, y: -59}
+        - {x: -19, y: -62}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3b391a74ad4bdbb8cb8a1935a346d8
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Icon_Weapon_Axe_Poison: 21300022
+      Icon_Weapon_Guantlet_Necromancy: 21300020
+      Icon_Weapon_Hammer: 21300070
+      Icon_Weapon_Sword_Necromancy: 21300066
+      Icon_Weapon_Axe_Healing: 21300036
+      Icon_Weapon_Hammer_Healing: 21300052
+      Icon_Weapon_Axe: 21300060
+      Icon_Weapon_Sword_Healing: 21300032
+      Icon_Weapon_Guantlet_Fervor: 21300044
+      Icon_Weapon_Sword_Poison: 21300048
+      Icon_Weapon_Guantlet_Critical: 21300050
+      Icon_Weapon_Dagger_Godly: 21300014
+      Icon_Weapon_Dagger: 21300042
+      Icon_Weapon_Hammer_Critical: 21300000
+      Icon_Weapon_Guantlet_Godly: 21300004
+      Icon_Weapon_Dagger_Poison: 21300058
+      Icon_Weapon_Axe_Fervor: 21300006
+      Icon_Weapon_Blunderbuss: 21300064
+      Icon_Weapon_Hammer_Godly: 21300010
+      Radial_Gradient_Glow: 21300040
+      Icon_Weapon_Dagger_Healing: 21300056
+      Icon_Weapon_Sword: 21300016
+      Icon_Weapon_Hammer_Fervor: 21300008
+      Icon_Weapon_Axe_Critical: 21300026
+      Icon_Weapon_Guantlet_Poison: 21300054
+      Icon_Weapon_Guantlet: 21300068
+      Icon_Weapon_Sword_Godly: 21300002
+      Icon_Weapon_Dagger_Necromancy: 21300030
+      Icon_Weapon_Dagger_Fervor: 21300072
+      Icon_Weapon_Sword_Fervor: 21300018
+      Icon_Weapon_Sword_Critical: 21300024
+      Icon_Weapon_Hammer_Poison: 21300034
+      Icon_Weapon_Hammer_Necromancy: 21300028
+      Icon_Weapon_Guantlet_Healing: 21300062
+      Icon_Weapon_Axe_Godly: 21300046
+      Icon_Weapon_Dagger_Critical: 21300012
+      Icon_Weapon_Axe_Necromancy: 21300038
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

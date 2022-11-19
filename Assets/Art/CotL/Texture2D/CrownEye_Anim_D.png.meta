@@ -1,0 +1,331 @@
+fileFormatVersion: 2
+guid: 679e6ae27635ebc40851396ecc76d9f5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: CrownEye_Anim_A_3
+  - first:
+      213: 21300002
+    second: CrownEye_Anim_A_2
+  - first:
+      213: 21300004
+    second: CrownEye_Anim_A_0
+  - first:
+      213: 21300006
+    second: CrownEye_Anim_A_1
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 29
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CrownEye_Anim_A_3
+      rect:
+        serializedVersion: 2
+        x: 794.0761
+        y: 6.026751
+        width: 203.911
+        height: 116.8971
+      alignment: 9
+      pivot: {x: 0.4998451, y: 0.4959339}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.03159, y: 4.524681}
+        - {x: -10.03159, y: -13.47532}
+        - {x: -9.031593, y: -18.47532}
+        - {x: -6.031593, y: -26.47532}
+        - {x: -2.031593, y: -34.47532}
+        - {x: 0.9684067, y: -35.47532}
+        - {x: 4.968407, y: -27.47532}
+        - {x: 6.968407, y: -24.47532}
+        - {x: 9.968407, y: -7.475319}
+        - {x: 10.96841, y: -6.475319}
+        - {x: 9.968407, y: 2.524681}
+        - {x: 7.968407, y: 12.52468}
+        - {x: 0.9684067, y: 30.52468}
+        - {x: -1.031593, y: 31.52468}
+        - {x: -4.031593, y: 24.52468}
+        - {x: -8.031593, y: 13.52468}
+        - {x: -10.03159, y: 5.524681}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f3c0a8987e48039ce18a988d1b12ce
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrownEye_Anim_A_2
+      rect:
+        serializedVersion: 2
+        x: 534.0761
+        y: 7.07612
+        width: 209.8477
+        height: 113.8478
+      alignment: 9
+      pivot: {x: 0.5047655, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.000023, y: 22}
+        - {x: 6.000023, y: 25}
+        - {x: 6.000023, y: 27}
+        - {x: 4.000023, y: 30}
+        - {x: 0.00002288818, y: 34}
+        - {x: -0.9999771, y: 32}
+        - {x: -3.999977, y: 25}
+        - {x: -6.999977, y: 21}
+        - {x: -6.999977, y: 18}
+        - {x: -8.999977, y: 14}
+        - {x: -8.999977, y: 10}
+        - {x: -9.999977, y: 9}
+        - {x: -9.999977, y: 5}
+        - {x: -10.99998, y: 4}
+        - {x: -10.99998, y: -11}
+        - {x: -9.999977, y: -12}
+        - {x: -9.999977, y: -17}
+        - {x: -8.999977, y: -18}
+        - {x: -8.999977, y: -21}
+        - {x: -6.999977, y: -25}
+        - {x: -6.999977, y: -27}
+        - {x: -0.9999771, y: -36}
+        - {x: 2.000023, y: -37}
+        - {x: 7.000023, y: -30}
+        - {x: 7.000023, y: -28}
+        - {x: 9.000023, y: -25}
+        - {x: 10.00002, y: -19}
+        - {x: 11.00002, y: -15}
+        - {x: 12.00002, y: -14}
+        - {x: 12.00002, y: -7}
+        - {x: 13.00002, y: -6}
+        - {x: 13.00002, y: 1}
+        - {x: 12.00002, y: 2}
+        - {x: 12.00002, y: 9}
+        - {x: 11.00002, y: 10}
+        - {x: 11.00002, y: 13}
+        - {x: 9.000023, y: 16}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52c34ccd1da481f92d334d409cd583b
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrownEye_Anim_A_0
+      rect:
+        serializedVersion: 2
+        x: 22.03629
+        y: 57.02675
+        width: 211.8876
+        height: 11.89713
+      alignment: 9
+      pivot: {x: 0.500094, y: 0.5861286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 105.0199, y: -5.975317}
+        - {x: -105.9801, y: -5.975317}
+        - {x: -105.9801, y: 6.024683}
+        - {x: 106.0199, y: 6.024683}
+        - {x: 106.0199, y: -4.975317}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27798d4d957c411cbf82cf8a87ee246b
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrownEye_Anim_A_1
+      rect:
+        serializedVersion: 2
+        x: 277.0761
+        y: 18.02675
+        width: 210.8477
+        height: 90.9465
+      alignment: 9
+      pivot: {x: 0.5071142, y: 0.5054978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.500023, y: 21.5}
+        - {x: 2.500023, y: 27.5}
+        - {x: 2.500023, y: 28.5}
+        - {x: 0.5000229, y: 29.5}
+        - {x: -1.499977, y: 26.5}
+        - {x: -1.499977, y: 24.5}
+        - {x: -3.499977, y: 19.5}
+        - {x: -5.499977, y: 18.5}
+        - {x: -6.499977, y: 12.5}
+        - {x: -7.499977, y: 11.5}
+        - {x: -7.499977, y: 8.5}
+        - {x: -8.499977, y: 7.5}
+        - {x: -8.499977, y: 1.5}
+        - {x: -9.499977, y: 0.5}
+        - {x: -9.499977, y: -5.5}
+        - {x: -8.499977, y: -6.5}
+        - {x: -8.499977, y: -12.5}
+        - {x: -7.499977, y: -13.5}
+        - {x: -7.499977, y: -17.5}
+        - {x: -6.499977, y: -18.5}
+        - {x: -6.499977, y: -20.5}
+        - {x: -2.499977, y: -27.5}
+        - {x: 0.5000229, y: -31.5}
+        - {x: 2.500023, y: -30.5}
+        - {x: 5.500023, y: -27.5}
+        - {x: 6.500023, y: -23.5}
+        - {x: 8.500023, y: -20.5}
+        - {x: 9.500023, y: -13.5}
+        - {x: 10.50002, y: -12.5}
+        - {x: 10.50002, y: -6.5}
+        - {x: 11.50002, y: -5.5}
+        - {x: 11.50002, y: 2.5}
+        - {x: 10.50002, y: 3.5}
+        - {x: 10.50002, y: 9.5}
+        - {x: 8.500023, y: 12.5}
+        - {x: 8.500023, y: 15.5}
+        - {x: 6.500023, y: 19.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebb1b30bfd54727929a8636b735d890
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CrownEye_Anim_A_0: 21300004
+      CrownEye_Anim_A_3: 21300000
+      CrownEye_Anim_A_2: 21300002
+      CrownEye_Anim_A_1: 21300006
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

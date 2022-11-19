@@ -1,0 +1,413 @@
+fileFormatVersion: 2
+guid: 4979f4544bde7fe4a94b9dc6d6e22b44
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Building_Debris_A_1
+  - first:
+      213: 21300002
+    second: Building_Debris_A_2
+  - first:
+      213: 21300004
+    second: Building_Debris_A_4
+  - first:
+      213: 21300006
+    second: Building_Debris_A_0
+  - first:
+      213: 21300008
+    second: Building_Debris_A_3
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 29
+  maxTextureSize: 384
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Building_Debris_A_1
+      rect:
+        serializedVersion: 2
+        x: 131.0761
+        y: 136.006
+        width: 113.8478
+        height: 113.9485
+      alignment: 9
+      pivot: {x: 0.5351346, y: 0.4913976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54.00001, y: -49.98024}
+        - {x: -57.00001, y: -41.98024}
+        - {x: -57.00001, y: -30.98024}
+        - {x: -41.00001, y: -5.980236}
+        - {x: 29.99999, y: 57.01976}
+        - {x: 56.99998, y: 57.01976}
+        - {x: 56.99998, y: 15.01976}
+        - {x: 12.99999, y: -56.98024}
+        - {x: -43.00001, y: -56.98024}
+      physicsShape:
+      - - {x: 30.99999, y: -0.9802361}
+        - {x: 47.99999, y: 20.01976}
+        - {x: 54.99999, y: 29.01976}
+        - {x: 54.99999, y: 45.01976}
+        - {x: 45.99999, y: 53.01976}
+        - {x: 41.99999, y: 53.01976}
+        - {x: 36.99999, y: 51.01976}
+        - {x: 24.99999, y: 44.01976}
+        - {x: 6.999989, y: 29.01976}
+        - {x: -5.000011, y: 11.01976}
+        - {x: -37.00001, y: -15.98024}
+        - {x: -53.00001, y: -31.98024}
+        - {x: -53.00001, y: -42.98024}
+        - {x: -40.00001, y: -51.98024}
+        - {x: -24.00001, y: -51.98024}
+        - {x: -10.00001, y: -42.98024}
+        - {x: 14.99999, y: -15.98024}
+        - {x: 18.99999, y: -13.98024}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100b3ca183e149eb80f7b9370be9f484
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building_Debris_A_2
+      rect:
+        serializedVersion: 2
+        x: 290.0761
+        y: 160.0564
+        width: 61.88097
+        height: 64.93072
+      alignment: 9
+      pivot: {x: 0.4835718, y: 0.4919649}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.0166, y: -32.52172}
+        - {x: -31.0166, y: -28.52172}
+        - {x: -31.0166, y: -6.521725}
+        - {x: -14.0166, y: 32.47828}
+        - {x: 23.9834, y: 32.47828}
+        - {x: 30.9834, y: 16.47828}
+        - {x: 30.9834, y: -18.52172}
+        - {x: 16.9834, y: -32.52172}
+      physicsShape:
+      - - {x: 29.9834, y: -6.521725}
+        - {x: 29.9834, y: 5.478275}
+        - {x: 24.9834, y: 13.47828}
+        - {x: 15.9834, y: 25.47828}
+        - {x: 5.983404, y: 30.47828}
+        - {x: 2.983404, y: 30.47828}
+        - {x: -7.016596, y: 27.47828}
+        - {x: -20.0166, y: 15.47828}
+        - {x: -26.0166, y: -3.521725}
+        - {x: -29.0166, y: -12.52172}
+        - {x: -29.0166, y: -29.52172}
+        - {x: -28.01659, y: -31.52172}
+        - {x: -21.01659, y: -31.52172}
+        - {x: -12.0166, y: -27.52172}
+        - {x: 4.983404, y: -24.52172}
+        - {x: 23.9834, y: -17.52172}
+        - {x: 28.9834, y: -13.52172}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70317ead83d84353ae6f1972be8470e0
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building_Debris_A_4
+      rect:
+        serializedVersion: 2
+        x: 164.0513
+        y: 35.02675
+        width: 68.90578
+        height: 62.89713
+      alignment: 9
+      pivot: {x: 0.4056073, y: 0.460645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.5042, y: -31.47532}
+        - {x: -34.5042, y: -22.47532}
+        - {x: -34.5042, y: 3.524683}
+        - {x: -10.5042, y: 29.52468}
+        - {x: 9.495796, y: 31.52468}
+        - {x: 34.4958, y: 31.52468}
+        - {x: 34.4958, y: 6.524683}
+        - {x: 4.495796, y: -31.47532}
+      physicsShape:
+      - - {x: 32.4958, y: 27.52468}
+        - {x: 28.4958, y: 29.52468}
+        - {x: 20.49579, y: 29.52468}
+        - {x: 14.4958, y: 24.52468}
+        - {x: 11.4958, y: 28.52468}
+        - {x: -7.504204, y: 26.52468}
+        - {x: -27.5042, y: 11.52468}
+        - {x: -33.5042, y: -0.475317}
+        - {x: -33.5042, y: -21.47532}
+        - {x: -29.5042, y: -25.47532}
+        - {x: -20.5042, y: -29.47532}
+        - {x: -11.5042, y: -29.47532}
+        - {x: -6.504204, y: -28.47532}
+        - {x: 9.495796, y: -18.47532}
+        - {x: 21.4958, y: -4.475317}
+        - {x: 32.4958, y: 22.52468}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e06c963614403ca81dc61a523a17ee
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building_Debris_A_0
+      rect:
+        serializedVersion: 2
+        x: 7.07612
+        y: 131.0477
+        width: 117.8971
+        height: 117.9255
+      alignment: 9
+      pivot: {x: 0.4828267, y: 0.516871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.02468, y: -59.01048}
+        - {x: -59.02468, y: -59.01048}
+        - {x: -59.02468, y: -0.01047516}
+        - {x: -31.02468, y: 58.98952}
+        - {x: -3.024685, y: 58.98952}
+        - {x: 10.97532, y: 41.98952}
+        - {x: 25.97532, y: 57.98952}
+        - {x: 58.97532, y: 40.98952}
+        - {x: 58.97532, y: 15.98952}
+        - {x: 51.97532, y: 4.989525}
+        - {x: -11.02468, y: -35.01048}
+      physicsShape:
+      - - {x: -8.024685, y: 5.989525}
+        - {x: 0.9753151, y: 7.989525}
+        - {x: 14.97532, y: 7.989525}
+        - {x: 25.97532, y: 1.989525}
+        - {x: 38.97532, y: 3.989525}
+        - {x: 41.97532, y: 5.989525}
+        - {x: 57.97531, y: 22.98952}
+        - {x: 57.97531, y: 33.98952}
+        - {x: 51.97531, y: 42.98952}
+        - {x: 36.97532, y: 49.98952}
+        - {x: 16.97532, y: 47.98952}
+        - {x: 8.975315, y: 36.98952}
+        - {x: -9.024685, y: 23.98952}
+        - {x: -15.02468, y: 33.98952}
+        - {x: -4.024685, y: 42.98952}
+        - {x: -3.024685, y: 51.98952}
+        - {x: -13.02468, y: 56.98952}
+        - {x: -21.02468, y: 56.98952}
+        - {x: -35.02468, y: 38.98952}
+        - {x: -36.02468, y: 18.98952}
+        - {x: -32.02468, y: -12.01048}
+        - {x: -59.02468, y: -38.01047}
+        - {x: -59.02468, y: -48.01048}
+        - {x: -52.02468, y: -58.01047}
+        - {x: -42.02468, y: -58.01047}
+        - {x: -34.02468, y: -53.01048}
+        - {x: -19.02468, y: -34.01048}
+        - {x: -5.024685, y: -15.01048}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1f4cacdd9b48baa94b1feb691991d4
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Building_Debris_A_3
+      rect:
+        serializedVersion: 2
+        x: 5.07612
+        y: 6.012913
+        width: 115.8971
+        height: 117.9846
+      alignment: 9
+      pivot: {x: 0.5084153, y: 0.4914803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.02468, y: -59.0052}
+        - {x: -58.02468, y: -56.0052}
+        - {x: -58.02468, y: -12.0052}
+        - {x: 26.97532, y: 58.9948}
+        - {x: 56.97532, y: 58.9948}
+        - {x: 57.97532, y: 56.9948}
+        - {x: 57.97532, y: -9.005199}
+        - {x: 42.97532, y: -22.0052}
+        - {x: 11.97532, y: -37.0052}
+        - {x: -10.02468, y: -46.0052}
+        - {x: -44.02468, y: -59.0052}
+      physicsShape:
+      - - {x: 27.97531, y: -12.0052}
+        - {x: 33.97532, y: -18.0052}
+        - {x: 41.97532, y: -19.0052}
+        - {x: 52.97532, y: -12.0052}
+        - {x: 52.97532, y: 1.994801}
+        - {x: 45.97532, y: 12.9948}
+        - {x: 47.97532, y: 22.9948}
+        - {x: 56.97532, y: 44.9948}
+        - {x: 56.97532, y: 48.9948}
+        - {x: 51.97532, y: 56.9948}
+        - {x: 44.97532, y: 56.9948}
+        - {x: 28.97532, y: 53.9948}
+        - {x: 23.97531, y: 42.9948}
+        - {x: 15.97531, y: 26.9948}
+        - {x: 3.975315, y: 5.994801}
+        - {x: -6.024685, y: -13.0052}
+        - {x: -14.02468, y: -18.0052}
+        - {x: -32.02468, y: -23.0052}
+        - {x: -50.02468, y: -31.0052}
+        - {x: -57.02468, y: -37.0052}
+        - {x: -57.02468, y: -51.0052}
+        - {x: -52.02468, y: -58.0052}
+        - {x: -44.02468, y: -58.0052}
+        - {x: -10.02468, y: -44.0052}
+        - {x: 0.9753151, y: -42.0052}
+        - {x: 13.97532, y: -33.0052}
+        - {x: 18.97532, y: -23.0052}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc83b8b794e3406383a139ce36cbe10b
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Building_Debris_A_4: 21300004
+      Building_Debris_A_2: 21300002
+      Building_Debris_A_1: 21300000
+      Building_Debris_A_3: 21300008
+      Building_Debris_A_0: 21300006
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

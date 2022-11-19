@@ -1,0 +1,258 @@
+fileFormatVersion: 2
+guid: 09761f3d84a66924785827dfb9a8167f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: LetterBox_Bottom
+  - first:
+      213: 21300002
+    second: LetterBox_Top
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 29
+  maxTextureSize: 256
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LetterBox_Bottom
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 73.99807
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -36.99903}
+        - {x: -128, y: -36.99903}
+        - {x: -128, y: 35.00097}
+        - {x: -117, y: 37.00097}
+        - {x: 128, y: 37.00097}
+      physicsShape:
+      - - {x: 107, y: 36.00096}
+        - {x: 98.99999, y: 37.00097}
+        - {x: 97, y: 37.00097}
+        - {x: 87, y: 33.00097}
+        - {x: 85, y: 37.00097}
+        - {x: 71, y: 35.00097}
+        - {x: 68, y: 37.00097}
+        - {x: 63, y: 35.00097}
+        - {x: 52, y: 37.00097}
+        - {x: 51, y: 37.00097}
+        - {x: 46, y: 36.00096}
+        - {x: 33, y: 37.00097}
+        - {x: 29, y: 37.00097}
+        - {x: 16, y: 34.00097}
+        - {x: 12, y: 36.00096}
+        - {x: 5, y: 37.00097}
+        - {x: -8, y: 37.00097}
+        - {x: -17, y: 35.00097}
+        - {x: -25, y: 36.00096}
+        - {x: -32, y: 37.00097}
+        - {x: -39, y: 36.00096}
+        - {x: -42, y: 33.00097}
+        - {x: -55, y: 37.00097}
+        - {x: -102, y: 36.00096}
+        - {x: -111, y: 37.00097}
+        - {x: -115, y: 37.00097}
+        - {x: -121, y: 36.00096}
+        - {x: -128, y: 35.00097}
+        - {x: -128, y: -36.99903}
+        - {x: 128, y: -36.99903}
+        - {x: 128, y: 34.00097}
+        - {x: 124, y: 36.00096}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61209942c6ad471dac6fd3d3f55d795e
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LetterBox_Top
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78.00195
+        width: 256
+        height: 73.99806
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -120, y: -37.00097}
+        - {x: -128, y: -36.00097}
+        - {x: -128, y: 36.99903}
+        - {x: 128, y: 36.99903}
+        - {x: 128, y: -36.00097}
+        - {x: 115, y: -37.00097}
+      physicsShape:
+      - - {x: -51, y: -37.00097}
+        - {x: -46, y: -35.00097}
+        - {x: -39, y: -37.00097}
+        - {x: -32, y: -37.00097}
+        - {x: -16, y: -35.00097}
+        - {x: -12, y: -36.00096}
+        - {x: -4, y: -37.00097}
+        - {x: 9, y: -37.00097}
+        - {x: 12, y: -36.00096}
+        - {x: 25, y: -36.00096}
+        - {x: 32, y: -37.00097}
+        - {x: 39, y: -36.00096}
+        - {x: 42, y: -33.00097}
+        - {x: 55, y: -37.00097}
+        - {x: 85, y: -36.00096}
+        - {x: 105, y: -36.00096}
+        - {x: 109, y: -35.00097}
+        - {x: 117, y: -37.00097}
+        - {x: 128, y: -35.00097}
+        - {x: 128, y: 36.99903}
+        - {x: -128, y: 36.99903}
+        - {x: -128, y: -34.00097}
+        - {x: -124, y: -36.00096}
+        - {x: -107, y: -36.00096}
+        - {x: -103, y: -37.00097}
+        - {x: -96, y: -37.00097}
+        - {x: -91.99999, y: -36.00096}
+        - {x: -85, y: -37.00097}
+        - {x: -71, y: -35.00097}
+        - {x: -68, y: -37.00097}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f26d9d3c37945339089415000616d48
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      LetterBox_Top: 21300002
+      LetterBox_Bottom: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

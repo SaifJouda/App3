@@ -1,0 +1,614 @@
+fileFormatVersion: 2
+guid: f748fa41584a5e043a91d9d6dad7c29a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: IceAttack_Particles_8
+  - first:
+      213: 21300002
+    second: IceAttack_Particles_3
+  - first:
+      213: 21300004
+    second: IceAttack_Particles_2
+  - first:
+      213: 21300006
+    second: IceAttack_Particles_7
+  - first:
+      213: 21300008
+    second: IceAttack_Particles_4
+  - first:
+      213: 21300010
+    second: IceAttack_Particles_0
+  - first:
+      213: 21300012
+    second: IceAttack_Particles_6
+  - first:
+      213: 21300014
+    second: IceAttack_Particles_1
+  - first:
+      213: 21300016
+    second: IceAttack_Particles_9
+  - first:
+      213: 21300018
+    second: IceAttack_Particles_5
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 29
+  maxTextureSize: 512
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IceAttack_Particles_8
+      rect:
+        serializedVersion: 2
+        x: 138.0513
+        y: 43
+        width: 73.94868
+        height: 67
+      alignment: 9
+      pivot: {x: 0.4928916, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.02566, y: -30.5}
+        - {x: -37.02566, y: -18.5}
+        - {x: -37.02566, y: 12.5}
+        - {x: -22.02566, y: 33.5}
+        - {x: 14.97434, y: 33.5}
+        - {x: 36.97434, y: 2.5}
+        - {x: 36.97434, y: -19.5}
+        - {x: 11.97434, y: -33.5}
+        - {x: -23.02566, y: -33.5}
+      physicsShape:
+      - - {x: 36.97434, y: -1.5}
+        - {x: 33.97434, y: 3.5}
+        - {x: 26.97434, y: 12.5}
+        - {x: 10.97434, y: 29.5}
+        - {x: 2.974342, y: 33.5}
+        - {x: -18.02566, y: 33.5}
+        - {x: -33.02566, y: 5.5}
+        - {x: -37.02565, y: -3.5}
+        - {x: -37.02565, y: -12.5}
+        - {x: -27.02566, y: -22.5}
+        - {x: -3.025657, y: -33.5}
+        - {x: 7.974342, y: -33.5}
+        - {x: 24.97434, y: -17.5}
+        - {x: 29.97434, y: -14.5}
+        - {x: 36.97434, y: -10.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42450a5492d24b029a63dea95f6801cf
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceAttack_Particles_3
+      rect:
+        serializedVersion: 2
+        x: 242.0761
+        y: 119
+        width: 49.92388
+        height: 80.95229
+      alignment: 9
+      pivot: {x: 0.4892223, y: 0.5250006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.96194, y: 18.52385}
+        - {x: 21.96194, y: 20.52385}
+        - {x: 21.96194, y: 23.52385}
+        - {x: 24.96194, y: 24.52385}
+        - {x: 24.96194, y: 18.52385}
+      - - {x: -11.03806, y: -40.47615}
+        - {x: -25.03806, y: -23.47615}
+        - {x: -25.03806, y: 14.52385}
+        - {x: -17.03806, y: 40.52385}
+        - {x: -3.038065, y: 40.52385}
+        - {x: -0.03806496, y: 39.52385}
+        - {x: 21.96194, y: 11.52385}
+        - {x: 21.96194, y: -15.47615}
+        - {x: 14.96194, y: -40.47615}
+      physicsShape:
+      - - {x: 7.961935, y: 24.52385}
+        - {x: -3.038065, y: 39.52385}
+        - {x: -9.038065, y: 39.52385}
+        - {x: -17.03806, y: 36.52385}
+        - {x: -22.03806, y: 2.523853}
+        - {x: -24.03806, y: -12.47615}
+        - {x: -24.03806, y: -21.47615}
+        - {x: -7.038065, y: -40.47615}
+        - {x: 8.961935, y: -40.47615}
+        - {x: 10.96193, y: -38.47615}
+        - {x: 21.96194, y: -8.476147}
+        - {x: 21.96194, y: 2.523853}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c48b04ee8fe49d88a283f1cf54fb725
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceAttack_Particles_2
+      rect:
+        serializedVersion: 2
+        x: 197.0267
+        y: 139.0129
+        width: 38.89713
+        height: 45.9508
+      alignment: 9
+      pivot: {x: 0.4877803, y: 0.5437792}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.47531, y: -22.98831}
+        - {x: -19.47531, y: -13.98831}
+        - {x: -19.47531, y: 17.01169}
+        - {x: -17.47531, y: 23.01169}
+        - {x: 16.52469, y: 23.01169}
+        - {x: 19.52469, y: 16.01169}
+        - {x: 19.52469, y: 0.01168823}
+        - {x: 17.52469, y: -17.98831}
+        - {x: 7.524689, y: -22.98831}
+      physicsShape:
+      - - {x: -7.475311, y: 22.01169}
+        - {x: -15.47531, y: 15.01169}
+        - {x: -19.47531, y: -1.988312}
+        - {x: -19.47531, y: -13.98831}
+        - {x: -6.475311, y: -20.98831}
+        - {x: -4.475311, y: -21.98831}
+        - {x: 4.524688, y: -21.98831}
+        - {x: 9.524688, y: -20.98831}
+        - {x: 19.52469, y: 1.011688}
+        - {x: 19.52469, y: 13.01169}
+        - {x: 4.524688, y: 22.01169}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e2cd0bc9f54288b9745948f29b8541
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceAttack_Particles_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 53.07612
+        width: 82
+        height: 56.89713
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4907784}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: -28.52468}
+        - {x: -41, y: -28.52468}
+        - {x: -41, y: 16.47532}
+        - {x: -39, y: 20.47532}
+        - {x: 5, y: 28.47532}
+        - {x: 38, y: 28.47532}
+        - {x: 40, y: 26.47532}
+        - {x: 41, y: 17.47532}
+      physicsShape:
+      - - {x: 33, y: 28.47532}
+        - {x: 13, y: 28.47532}
+        - {x: -9, y: 23.47532}
+        - {x: -38, y: 8.475319}
+        - {x: -41, y: 4.475318}
+        - {x: -41, y: -23.52468}
+        - {x: -40, y: -27.52468}
+        - {x: 7, y: -26.52468}
+        - {x: 9, y: -27.52468}
+        - {x: 22, y: -28.52468}
+        - {x: 33, y: -28.52468}
+        - {x: 41, y: -24.52468}
+        - {x: 41, y: 9.475318}
+        - {x: 36, y: 25.47532}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b7b151f7bc4c2ea16a5db037d03c13
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceAttack_Particles_4
+      rect:
+        serializedVersion: 2
+        x: 289.0761
+        y: 147.0761
+        width: 61.89713
+        height: 58.92388
+      alignment: 9
+      pivot: {x: 0.5076793, y: 0.516325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.02468, y: -26.53807}
+        - {x: -31.02468, y: -2.538067}
+        - {x: -31.02468, y: 9.461933}
+        - {x: -18.02468, y: 29.46193}
+        - {x: 30.97532, y: 29.46193}
+        - {x: 30.97532, y: 11.46193}
+        - {x: 9.975325, y: -25.53806}
+        - {x: 2.975325, y: -29.53807}
+        - {x: -5.024675, y: -29.53807}
+      physicsShape:
+      - - {x: 28.97532, y: 23.46193}
+        - {x: 17.97532, y: 27.46193}
+        - {x: -5.024675, y: 27.46193}
+        - {x: -13.02467, y: 23.46193}
+        - {x: -28.02468, y: 10.46193}
+        - {x: -30.02468, y: 6.461933}
+        - {x: -30.02468, y: -2.538067}
+        - {x: -10.02468, y: -26.53807}
+        - {x: -3.024675, y: -28.53806}
+        - {x: 2.975324, y: -28.53806}
+        - {x: 8.975325, y: -24.53807}
+        - {x: 30.97532, y: 14.46193}
+        - {x: 30.97532, y: 21.46193}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8b77289cbc4a9abd1e0923b9b6dc40
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceAttack_Particles_0
+      rect:
+        serializedVersion: 2
+        x: 89.03629
+        y: 140.0513
+        width: 53.96371
+        height: 41.92642
+      alignment: 9
+      pivot: {x: 0.4996638, y: 0.4758023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.01814, y: -21.01452}
+        - {x: -27.01814, y: -19.01452}
+        - {x: -27.01814, y: 11.98548}
+        - {x: -13.01814, y: 20.98548}
+        - {x: 5.981857, y: 20.98548}
+        - {x: 26.98186, y: 10.98548}
+        - {x: 26.98186, y: -15.01452}
+        - {x: 24.98186, y: -21.01452}
+      physicsShape:
+      - - {x: 8.981857, y: 17.98548}
+        - {x: -0.0181427, y: 19.98548}
+        - {x: -11.01814, y: 19.98548}
+        - {x: -27.01814, y: 12.98548}
+        - {x: -27.01814, y: -9.014524}
+        - {x: -25.01814, y: -17.01452}
+        - {x: -6.018143, y: -21.01452}
+        - {x: 20.98186, y: -21.01452}
+        - {x: 26.98186, y: -8.014524}
+        - {x: 26.98186, y: 7.985476}
+        - {x: 24.98186, y: 11.98548}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb8bc158dad468092f62f2ae33b8f3b
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceAttack_Particles_6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 42.07612
+        width: 53.98709
+        height: 97.92388
+      alignment: 9
+      pivot: {x: 0.5001196, y: 0.4996113}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.99355, y: -38.03806}
+        - {x: -26.99355, y: -20.03806}
+        - {x: -26.99355, y: 13.96194}
+        - {x: -16.99355, y: 48.96194}
+        - {x: -1.993546, y: 48.96194}
+        - {x: 6.006454, y: 43.96194}
+        - {x: 27.00646, y: -9.038063}
+        - {x: 27.00646, y: -21.03806}
+        - {x: 22.00645, y: -33.03806}
+        - {x: 9.006454, y: -49.03806}
+        - {x: 0.006454468, y: -49.03806}
+      physicsShape:
+      - - {x: 26.00645, y: -15.03806}
+        - {x: 24.00645, y: -3.038063}
+        - {x: 5.006454, y: 30.96194}
+        - {x: -0.9935455, y: 41.96194}
+        - {x: -5.993546, y: 48.96193}
+        - {x: -12.99355, y: 48.96193}
+        - {x: -17.99355, y: 41.96194}
+        - {x: -21.99355, y: 20.96194}
+        - {x: -26.99354, y: 9.961936}
+        - {x: -26.99354, y: -15.03806}
+        - {x: -17.99355, y: -30.03806}
+        - {x: -5.993546, y: -45.03806}
+        - {x: 1.006454, y: -49.03806}
+        - {x: 4.006454, y: -49.03806}
+        - {x: 6.006454, y: -48.03806}
+        - {x: 20.00645, y: -30.03806}
+        - {x: 25.00645, y: -24.03806}
+        - {x: 26.00645, y: -22.03806}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb72c51bbd9e4000bd2cee4c3e352503
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceAttack_Particles_1
+      rect:
+        serializedVersion: 2
+        x: 155.0267
+        y: 138
+        width: 34.97073
+        height: 47
+      alignment: 9
+      pivot: {x: 0.4853559, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.51211, y: -12.5}
+        - {x: -17.51211, y: -6.5}
+        - {x: -17.51211, y: 8.5}
+        - {x: -14.51211, y: 16.5}
+        - {x: -8.512114, y: 23.5}
+        - {x: 0.4878864, y: 23.5}
+        - {x: 17.48789, y: -1.5}
+        - {x: 17.48789, y: -10.5}
+        - {x: 9.487886, y: -23.5}
+        - {x: -1.512114, y: -23.5}
+      physicsShape:
+      - - {x: 0.4878864, y: 23.5}
+        - {x: -10.51211, y: 23.5}
+        - {x: -17.51211, y: 8.5}
+        - {x: -17.51211, y: -5.5}
+        - {x: -7.512114, y: -21.5}
+        - {x: 0.4878864, y: -23.5}
+        - {x: 9.487885, y: -23.5}
+        - {x: 16.48789, y: -12.5}
+        - {x: 16.48789, y: -4.5}
+        - {x: 1.487886, y: 22.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c6940635b940e181d6a21a15bf8c58
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceAttack_Particles_9
+      rect:
+        serializedVersion: 2
+        x: 78.01291
+        y: 54.01467
+        width: 57.98709
+        height: 49.98533
+      alignment: 9
+      pivot: {x: 0.4740209, y: 0.4798474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.00645, y: -25.00734}
+        - {x: -29.00645, y: -19.00734}
+        - {x: -29.00645, y: 6.992664}
+        - {x: -9.006453, y: 24.99266}
+        - {x: 12.99355, y: 24.99266}
+        - {x: 28.99355, y: 10.99266}
+        - {x: 28.99355, y: -19.00734}
+        - {x: 26.99355, y: -25.00734}
+      physicsShape:
+      - - {x: 28.99355, y: 0.9926643}
+        - {x: 25.99355, y: 4.992664}
+        - {x: 4.993547, y: 21.99266}
+        - {x: 0.9935472, y: 24.99266}
+        - {x: -5.006453, y: 24.99266}
+        - {x: -27.00645, y: -0.007335663}
+        - {x: -29.00645, y: -10.00734}
+        - {x: -29.00645, y: -17.00734}
+        - {x: -27.00645, y: -19.00734}
+        - {x: -13.00645, y: -25.00734}
+        - {x: 18.99355, y: -25.00734}
+        - {x: 23.99355, y: -22.00734}
+        - {x: 28.99355, y: -12.00734}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69dfe83f2aa045aa8551c793bcf54343
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IceAttack_Particles_5
+      rect:
+        serializedVersion: 2
+        x: 370.0541
+        y: 106
+        width: 40.86975
+        height: 79.92388
+      alignment: 9
+      pivot: {x: 0.5736727, y: 0.5129881}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.489014, y: -35.96194}
+        - {x: -20.48901, y: 4.038059}
+        - {x: -20.48901, y: 26.03806}
+        - {x: -4.489014, y: 40.03806}
+        - {x: 17.51099, y: 40.03806}
+        - {x: 20.51099, y: 39.03806}
+        - {x: 20.51099, y: 10.03806}
+        - {x: 18.51099, y: -24.96194}
+        - {x: 11.51099, y: -39.96194}
+        - {x: 0.5109863, y: -39.96194}
+      physicsShape:
+      - - {x: 17.51099, y: -4.961941}
+        - {x: 17.51099, y: 18.03806}
+        - {x: 20.51099, y: 24.03806}
+        - {x: 20.51099, y: 35.03806}
+        - {x: 15.51099, y: 40.03806}
+        - {x: 2.510986, y: 40.03806}
+        - {x: -19.48901, y: 20.03806}
+        - {x: -20.48901, y: 14.03806}
+        - {x: -20.48901, y: 8.038059}
+        - {x: -13.48901, y: -6.961941}
+        - {x: -5.489014, y: -26.96194}
+        - {x: 1.510986, y: -39.96194}
+        - {x: 7.510986, y: -39.96194}
+        - {x: 11.51099, y: -35.96194}
+        - {x: 13.51099, y: -30.96194}
+        - {x: 15.51099, y: -23.96194}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44724fe2883476faf1b9f44754b6827
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      IceAttack_Particles_7: 21300006
+      IceAttack_Particles_2: 21300004
+      IceAttack_Particles_1: 21300014
+      IceAttack_Particles_5: 21300018
+      IceAttack_Particles_8: 21300000
+      IceAttack_Particles_6: 21300012
+      IceAttack_Particles_3: 21300002
+      IceAttack_Particles_0: 21300010
+      IceAttack_Particles_9: 21300016
+      IceAttack_Particles_4: 21300008
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

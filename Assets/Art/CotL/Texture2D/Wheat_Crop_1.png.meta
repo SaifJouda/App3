@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 955a35f9e72483e4da15da4c5f38bd0d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Wheat_Crop_1
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 4
+  maxTextureSize: 196
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5389585, y: 0.05476048}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wheat_Crop_1
+      rect:
+        serializedVersion: 2
+        x: 14.01291
+        y: 5.07612
+        width: 45.94418
+        height: 64.91097
+      alignment: 9
+      pivot: {x: 0.516152, y: 0.08714911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.01499939, y: 27.4684}
+        - {x: -1.985001, y: 30.46839}
+        - {x: 0.01499939, y: 32.46839}
+        - {x: 3.014999, y: 31.46839}
+        - {x: 3.014999, y: 28.46839}
+      - - {x: 5.014999, y: 21.46839}
+        - {x: -5.985001, y: 21.46839}
+        - {x: -5.985001, y: 26.46839}
+        - {x: -4.985001, y: 27.4684}
+        - {x: 0.01499939, y: 27.4684}
+        - {x: 4.014999, y: 27.4684}
+        - {x: 7.015, y: 26.46839}
+        - {x: 7.015, y: 22.46839}
+      - - {x: -11.985, y: 20.46839}
+        - {x: -13.985, y: 23.46839}
+        - {x: -11.985, y: 25.46839}
+        - {x: -8.985001, y: 24.46839}
+        - {x: -8.985001, y: 21.46839}
+      - - {x: -16.985, y: -32.53161}
+        - {x: -19.985, y: -15.53161}
+        - {x: -19.985, y: 14.46839}
+        - {x: -21.985, y: 14.46839}
+        - {x: -22.985, y: 17.46839}
+        - {x: -20.985, y: 19.46839}
+        - {x: -17.985, y: 19.46839}
+        - {x: -16.985, y: 16.46839}
+        - {x: -13.985, y: 20.46839}
+        - {x: -11.985, y: 20.46839}
+        - {x: 9.014999, y: 20.46839}
+        - {x: 16.015, y: 19.46839}
+        - {x: 15.015, y: 22.46839}
+        - {x: 18.015, y: 25.46839}
+        - {x: 20.015, y: 25.46839}
+        - {x: 23.015, y: 21.46839}
+        - {x: 23.015, y: 17.46839}
+        - {x: 20.015, y: 16.46839}
+        - {x: 20.015, y: -32.53161}
+      physicsShape:
+      - - {x: -10.985, y: 16.46839}
+        - {x: -15.985, y: -10.53161}
+        - {x: -15.985, y: -28.53161}
+        - {x: -3.985001, y: -32.53161}
+        - {x: 4.014999, y: -32.53161}
+        - {x: 17.015, y: -29.53161}
+        - {x: 17.015, y: -24.53161}
+        - {x: 12.015, y: -18.53161}
+        - {x: 11.015, y: 6.468391}
+        - {x: 7.014999, y: 16.46839}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f601e6beb348299167b57424ad82e3
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Wheat_Crop_1: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

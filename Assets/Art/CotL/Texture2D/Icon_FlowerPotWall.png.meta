@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: b370c24aa35bd6e41a35388fd8d8a165
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Icon_FlowerPotWall
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 25
+  maxTextureSize: 512
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 71.11111
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Icon_FlowerPotWall
+      rect:
+        serializedVersion: 2
+        x: 81.05132
+        y: 73.07612
+        width: 348.9219
+        height: 376.8971
+      alignment: 9
+      pivot: {x: 0.5013978, y: 0.4853417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -120.5123, y: -139.5247}
+        - {x: -125.5123, y: -101.5247}
+        - {x: -121.5123, y: -86.52467}
+        - {x: -149.5123, y: -39.52467}
+        - {x: -174.5123, y: -22.52467}
+        - {x: -174.5123, y: 18.47533}
+        - {x: -173.5123, y: 24.47533}
+        - {x: -152.5123, y: 65.47533}
+        - {x: -112.5123, y: 65.47533}
+        - {x: -116.5123, y: 112.4753}
+        - {x: -72.51228, y: 146.4753}
+        - {x: -39.51228, y: 140.4753}
+        - {x: -31.51228, y: 137.4753}
+        - {x: -24.51228, y: 102.4753}
+        - {x: -23.51228, y: 168.4753}
+        - {x: 9.487717, y: 188.4753}
+        - {x: 37.48772, y: 188.4753}
+        - {x: 67.48772, y: 158.4753}
+        - {x: 59.48772, y: 121.4753}
+        - {x: 112.4877, y: 129.4753}
+        - {x: 141.4877, y: 102.4753}
+        - {x: 149.4877, y: 52.47533}
+        - {x: 174.4877, y: 29.47533}
+        - {x: 174.4877, y: -34.52467}
+        - {x: 151.4877, y: -57.52467}
+        - {x: 123.4877, y: -65.52467}
+        - {x: 135.4877, y: -137.5247}
+        - {x: 113.4877, y: -172.5247}
+        - {x: 43.48772, y: -184.5247}
+        - {x: 30.48772, y: -188.5247}
+        - {x: -21.51228, y: -188.5247}
+        - {x: -72.51228, y: -165.5247}
+        - {x: -89.51228, y: -161.5247}
+      physicsShape:
+      - - {x: 92.48772, y: -169.5247}
+        - {x: 109.4877, y: -165.5247}
+        - {x: 123.4877, y: -153.5247}
+        - {x: 127.4877, y: -136.5247}
+        - {x: 122.4877, y: -111.5247}
+        - {x: 118.4877, y: -73.52467}
+        - {x: 123.4877, y: -65.52467}
+        - {x: 129.4877, y: -54.52467}
+        - {x: 130.4877, y: -47.52467}
+        - {x: 144.4877, y: -53.52467}
+        - {x: 156.4877, y: -48.52468}
+        - {x: 172.4877, y: -29.52467}
+        - {x: 173.4877, y: -20.52467}
+        - {x: 173.4877, y: 13.47533}
+        - {x: 172.4877, y: 27.47533}
+        - {x: 154.4877, y: 44.47533}
+        - {x: 148.4877, y: 50.47533}
+        - {x: 130.4877, y: 60.47533}
+        - {x: 133.4877, y: 86.47533}
+        - {x: 133.4877, y: 98.47533}
+        - {x: 132.4877, y: 105.4753}
+        - {x: 117.4877, y: 121.4753}
+        - {x: 111.4877, y: 123.4753}
+        - {x: 66.48772, y: 120.4753}
+        - {x: 58.48772, y: 117.4753}
+        - {x: 53.48772, y: 112.4753}
+        - {x: 53.48772, y: 93.47533}
+        - {x: 52.48772, y: 111.4753}
+        - {x: 54.48772, y: 114.4753}
+        - {x: 61.48772, y: 150.4753}
+        - {x: 52.48772, y: 167.4753}
+        - {x: 46.48772, y: 175.4753}
+        - {x: 27.48772, y: 187.4753}
+        - {x: 15.48772, y: 187.4753}
+        - {x: 6.487717, y: 181.4753}
+        - {x: -3.512283, y: 179.4753}
+        - {x: -19.51228, y: 164.4753}
+        - {x: -22.51228, y: 138.4753}
+        - {x: -20.51228, y: 104.4753}
+        - {x: -24.51229, y: 101.4753}
+        - {x: -26.51228, y: 87.47533}
+        - {x: -31.51228, y: 93.47533}
+        - {x: -31.51228, y: 137.4753}
+        - {x: -46.51228, y: 142.4753}
+        - {x: -74.51228, y: 141.4753}
+        - {x: -82.51228, y: 135.4753}
+        - {x: -113.5123, y: 110.4753}
+        - {x: -112.5123, y: 90.47533}
+        - {x: -108.5123, y: 64.47533}
+        - {x: -121.5123, y: 61.47533}
+        - {x: -147.5123, y: 57.47533}
+        - {x: -155.5123, y: 42.47533}
+        - {x: -164.5123, y: 33.47533}
+        - {x: -163.5123, y: 19.47533}
+        - {x: -173.5123, y: 7.475327}
+        - {x: -173.5123, y: 3.475327}
+        - {x: -170.5123, y: -5.524673}
+        - {x: -173.5123, y: -9.524673}
+        - {x: -173.5123, y: -17.52467}
+        - {x: -172.5123, y: -24.52468}
+        - {x: -154.5123, y: -33.52467}
+        - {x: -142.5123, y: -35.52467}
+        - {x: -140.5123, y: -45.52467}
+        - {x: -133.5123, y: -58.52467}
+        - {x: -125.5123, y: -78.52467}
+        - {x: -121.5123, y: -83.52467}
+        - {x: -123.5123, y: -94.52467}
+        - {x: -122.5123, y: -120.5247}
+        - {x: -117.5123, y: -136.5247}
+        - {x: -111.5123, y: -142.5247}
+        - {x: -88.51228, y: -160.5247}
+        - {x: -70.51228, y: -162.5247}
+        - {x: -32.51228, y: -162.5247}
+        - {x: -33.51228, y: -178.5247}
+        - {x: -25.51228, y: -183.5247}
+        - {x: -11.51228, y: -187.5247}
+        - {x: 13.48772, y: -187.5247}
+        - {x: 32.48772, y: -186.5247}
+        - {x: 46.48772, y: -173.5247}
+        - {x: 48.48772, y: -159.5247}
+        - {x: 58.48772, y: -166.5247}
+      - - {x: 42.48772, y: -142.5247}
+        - {x: 44.48772, y: -136.5247}
+        - {x: 44.48772, y: -133.5247}
+        - {x: 42.48772, y: -128.5247}
+        - {x: 47.48772, y: -125.5247}
+        - {x: 45.48772, y: -132.5247}
+        - {x: 44.48772, y: -142.5247}
+        - {x: 45.48772, y: -146.5247}
+        - {x: 46.48772, y: -145.5247}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47470c1c803a42a7bfc808fefb76275e
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Icon_FlowerPotWall: 21300000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

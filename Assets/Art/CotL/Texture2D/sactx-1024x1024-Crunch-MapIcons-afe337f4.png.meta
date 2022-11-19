@@ -1,0 +1,2120 @@
+fileFormatVersion: 2
+guid: ca75e69709843434e905cb40424e4867
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Icon_Follower
+  - first:
+      213: 21300002
+    second: Icon_DoctrineStone
+  - first:
+      213: 21300004
+    second: Icon_Shop_Followers
+  - first:
+      213: 21300006
+    second: Icon_PostBoss
+  - first:
+      213: 21300008
+    second: MapIcon0002
+  - first:
+      213: 21300010
+    second: Icon_HealingRoom
+  - first:
+      213: 21300012
+    second: Map_You
+  - first:
+      213: 21300014
+    second: Icon_OfferingRoom_Used
+  - first:
+      213: 21300016
+    second: Map_Snake
+  - first:
+      213: 21300018
+    second: Icon_Shop_Food
+  - first:
+      213: 21300020
+    second: Map_Goat
+  - first:
+      213: 21300022
+    second: Icon_Tarot
+  - first:
+      213: 21300024
+    second: Icon_Temple_Open
+  - first:
+      213: 21300026
+    second: MapPlayer
+  - first:
+      213: 21300028
+    second: Icon_Village
+  - first:
+      213: 21300030
+    second: Icon_CultDoor
+  - first:
+      213: 21300032
+    second: Icon_WeaponShop
+  - first:
+      213: 21300034
+    second: MapIcon0003
+  - first:
+      213: 21300036
+    second: Map_Base
+  - first:
+      213: 21300038
+    second: Icon_Shop_Resources
+  - first:
+      213: 21300040
+    second: Icon_Shop_Trinkets
+  - first:
+      213: 21300042
+    second: Icon_ResourceRoom
+  - first:
+      213: 21300044
+    second: MapIcon0005
+  - first:
+      213: 21300046
+    second: Icon_Entrance
+  - first:
+      213: 21300048
+    second: Icon_Boss
+  - first:
+      213: 21300050
+    second: Icon_Sozo
+  - first:
+      213: 21300052
+    second: Icon_HealingRoom_Used
+  - first:
+      213: 21300054
+    second: Icon_FishingRoom
+  - first:
+      213: 21300056
+    second: Icon_Home
+  - first:
+      213: 21300058
+    second: Icon_Teleport
+  - first:
+      213: 21300060
+    second: MapIcon0004
+  - first:
+      213: 21300062
+    second: Icon_Temple_Closed
+  - first:
+      213: 21300064
+    second: Icon_KeyNo
+  - first:
+      213: 21300066
+    second: MapIcon0006
+  - first:
+      213: 21300068
+    second: Icon_OfferingRoom
+  - first:
+      213: 21300070
+    second: Icon_bonus
+  - first:
+      213: 21300072
+    second: Icon_KeyYes
+  - first:
+      213: 21300074
+    second: Icon_StartRoom
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 29
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Icon_Follower
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 0
+        width: 70
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: -34}
+        - {x: -35, y: -34}
+        - {x: -35, y: 34}
+        - {x: 35, y: 34}
+      physicsShape:
+      - - {x: 35, y: 15}
+        - {x: 35, y: 34}
+        - {x: -35, y: 34}
+        - {x: -35, y: -34}
+        - {x: 35, y: -34}
+        - {x: 35, y: -20}
+        - {x: 31, y: -16}
+      - - {x: -12, y: 5}
+        - {x: -13, y: 6}
+        - {x: -12, y: 7}
+        - {x: -12, y: 18}
+        - {x: -9.999999, y: 18}
+        - {x: -9.999999, y: 14}
+        - {x: -9, y: 13}
+        - {x: -9, y: 11}
+        - {x: -9.999999, y: 9.999999}
+        - {x: -9.999999, y: 6}
+        - {x: -11, y: 4}
+        - {x: -9.999999, y: 3}
+        - {x: -9.999999, y: -1}
+        - {x: -11, y: -3}
+        - {x: -9.999999, y: -4}
+        - {x: -9.999999, y: -17}
+        - {x: -12, y: -17}
+      - - {x: 9.999999, y: 18}
+        - {x: 9.999999, y: -17}
+        - {x: 11, y: -18}
+        - {x: 9.999999, y: -17}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8237ae95331047d5811a3d06feb38dce
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_DoctrineStone
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 394
+        width: 58
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: -33.5}
+        - {x: -29, y: -33.5}
+        - {x: -29, y: 16.5}
+        - {x: -23, y: 33.5}
+        - {x: 18, y: 33.5}
+        - {x: 29, y: 30.5}
+      physicsShape:
+      - - {x: -13, y: 33.5}
+        - {x: -29, y: 17.5}
+        - {x: -29, y: -33.5}
+        - {x: 29, y: -33.5}
+        - {x: 29, y: 15.5}
+        - {x: 11, y: 33.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bb2a297c6c4698ba9778159115c082
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Shop_Followers
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 827
+        width: 80
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -4.5}
+        - {x: 8, y: -12.5}
+        - {x: -2, y: -26.5}
+        - {x: -3, y: -33.5}
+        - {x: -40, y: -33.5}
+        - {x: -40, y: 22.5}
+        - {x: -22, y: 33.5}
+        - {x: 35, y: 33.5}
+        - {x: 40, y: 30.5}
+        - {x: 40, y: -23.5}
+        - {x: 14, y: -26.5}
+      physicsShape:
+      - - {x: 7, y: -13.5}
+        - {x: 9, y: -7.5}
+        - {x: 2, y: 6.5}
+        - {x: 13, y: -5.5}
+        - {x: 15, y: -21.5}
+        - {x: 17, y: -24.5}
+        - {x: 31, y: -21.5}
+        - {x: 40, y: -12.5}
+        - {x: 40, y: 20.5}
+        - {x: 36, y: 27.5}
+        - {x: 29, y: 33.5}
+        - {x: 7, y: 33.5}
+        - {x: -18, y: 27.5}
+        - {x: -35, y: 18.5}
+        - {x: -39, y: 4.5}
+        - {x: -38, y: -1.5}
+        - {x: -40, y: -5.5}
+        - {x: -40, y: -16.5}
+        - {x: -29, y: -33.5}
+        - {x: -20, y: -33.5}
+        - {x: -18, y: -31.5}
+        - {x: -13, y: -33.5}
+        - {x: -4, y: -33.5}
+        - {x: -3, y: -32.5}
+        - {x: -2, y: -16.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57d70390ecc4d9fa03b9589e5d55bb8
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_PostBoss
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 0
+        width: 69
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: -34}
+        - {x: -34.5, y: -32}
+        - {x: -34.5, y: 34}
+        - {x: 20.5, y: 34}
+        - {x: 34.5, y: 29}
+        - {x: 34.5, y: -20}
+        - {x: 24.5, y: -34}
+      physicsShape:
+      - - {x: -16.5, y: 34}
+        - {x: -34.5, y: 16}
+        - {x: -34.5, y: -13}
+        - {x: -22.5, y: -31}
+        - {x: -13.5, y: -34}
+        - {x: 15.5, y: -34}
+        - {x: 34.5, y: -23}
+        - {x: 34.5, y: 24}
+        - {x: 18.5, y: 34}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4015f48f8d643eb83453faada240a6e
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapIcon0002
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 257
+        width: 209
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103.5, y: -66.5}
+        - {x: -104.5, y: -65.5}
+        - {x: -104.5, y: 62.5}
+        - {x: -100.5, y: 66.5}
+        - {x: 100.5, y: 66.5}
+        - {x: 104.5, y: 63.5}
+        - {x: 104.5, y: -64.5}
+        - {x: 101.5, y: -66.5}
+      physicsShape:
+      - - {x: -18.5, y: -66.5}
+        - {x: -15.5, y: -65.5}
+        - {x: -10.5, y: -66.5}
+        - {x: 7.5, y: -66.5}
+        - {x: 14.5, y: -64.5}
+        - {x: 15.5, y: -66.5}
+        - {x: 96.5, y: -66.5}
+        - {x: 101.5, y: -64.5}
+        - {x: 104.5, y: -61.5}
+        - {x: 104.5, y: 64.5}
+        - {x: 100.5, y: 66.5}
+        - {x: -100.5, y: 66.5}
+        - {x: -104.5, y: 60.5}
+        - {x: -104.5, y: 55.5}
+        - {x: -103.5, y: 55.5}
+        - {x: -104.5, y: 44.5}
+        - {x: -104.5, y: -64.5}
+        - {x: -100.5, y: -66.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2ce290952f4dc7b428d65059711fe3
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_HealingRoom
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 542
+        width: 85
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 9.5}
+        - {x: -40.5, y: 9.5}
+        - {x: -42.5, y: 11.5}
+        - {x: -42.5, y: 20.5}
+        - {x: -34.5, y: 20.5}
+        - {x: -34.5, y: 39.5}
+        - {x: -2.5, y: 39.5}
+        - {x: 4.5, y: 39.5}
+        - {x: 38.5, y: 39.5}
+        - {x: 42.5, y: 28.5}
+        - {x: 42.5, y: -28.5}
+        - {x: 38.5, y: -39.5}
+        - {x: -32.5, y: -39.5}
+        - {x: -34.5, y: -30.5}
+      physicsShape:
+      - - {x: 32.5, y: -17.5}
+        - {x: 33.5, y: -13.5}
+        - {x: 27.5, y: 23.5}
+        - {x: 35.5, y: 30.5}
+        - {x: 33.5, y: 36.5}
+        - {x: 25.5, y: 35.5}
+        - {x: 1.5, y: 22.5}
+        - {x: -7.5, y: 25.5}
+        - {x: -25.5, y: 39.5}
+        - {x: -30.5, y: 39.5}
+        - {x: -32.5, y: 27.5}
+        - {x: -32.5, y: 25.5}
+        - {x: -28.5, y: 7.5}
+        - {x: -22.5, y: -1.5}
+        - {x: -32.5, y: -5.5}
+        - {x: -32.5, y: -13.5}
+        - {x: -22.5, y: -19.5}
+        - {x: -24.5, y: -23.5}
+        - {x: -24.5, y: -37.5}
+        - {x: -22.5, y: -39.5}
+        - {x: 30.5, y: -39.5}
+        - {x: 29.5, y: -29.5}
+        - {x: 26.5, y: -22.5}
+        - {x: 30.5, y: -19.5}
+      - - {x: 32.5, y: 10.5}
+        - {x: 29.5, y: 6.5}
+        - {x: 29.5, y: 4.5}
+        - {x: 35.5, y: 0.5}
+        - {x: 41.5, y: 0.5}
+        - {x: 42.5, y: 1.5}
+        - {x: 42.5, y: 9.5}
+        - {x: 39.5, y: 10.5}
+      - - {x: -38.5, y: 19.5}
+        - {x: -42.5, y: 18.5}
+        - {x: -42.5, y: 15.5}
+        - {x: -39.5, y: 10.5}
+        - {x: -28.5, y: 10.5}
+        - {x: -27.5, y: 11.5}
+        - {x: -27.5, y: 15.5}
+        - {x: -29.5, y: 19.5}
+      - - {x: -1.5, y: 39.5}
+        - {x: -4.5, y: 34.5}
+        - {x: -4.5, y: 29.5}
+        - {x: -3.5, y: 26.5}
+        - {x: 0.5, y: 24.5}
+        - {x: 3.5, y: 24.5}
+        - {x: 4.5, y: 27.5}
+        - {x: 4.5, y: 37.5}
+        - {x: 2.5, y: 39.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1105c0a40c29491286402e7d8994b34a
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_You
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 415
+        width: 205
+        height: 123
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -101.5, y: -61.5}
+        - {x: -102.5, y: -60.5}
+        - {x: -102.5, y: 61.5}
+        - {x: 102.5, y: 61.5}
+        - {x: 102.5, y: -61.5}
+      physicsShape:
+      - - {x: -102.5, y: 61.5}
+        - {x: -102.5, y: -60.5}
+        - {x: -101.5, y: -61.5}
+        - {x: 101.5, y: -61.5}
+        - {x: 102.5, y: -59.5}
+        - {x: 102.5, y: 61.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034908ef06114c029e4da2898c1c8980
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_OfferingRoom_Used
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 143
+        width: 79
+        height: 45
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.5, y: -22.5}
+        - {x: -39.5, y: -19.5}
+        - {x: -39.5, y: 22.5}
+        - {x: -8.5, y: 22.5}
+        - {x: 21.5, y: 15.5}
+        - {x: 38.5, y: 7.5}
+        - {x: 39.5, y: 5.5}
+        - {x: 39.5, y: -17.5}
+        - {x: 25.5, y: -22.5}
+      physicsShape:
+      - - {x: 39.5, y: 2.5}
+        - {x: 21.5, y: 15.5}
+        - {x: -2.5, y: 17.5}
+        - {x: -7.5, y: 22.5}
+        - {x: -39.5, y: 22.5}
+        - {x: -39.5, y: -11.5}
+        - {x: -36.5, y: -16.5}
+        - {x: -21.5, y: -22.5}
+        - {x: -7.5, y: -22.5}
+        - {x: -4.5, y: -19.5}
+        - {x: 32.5, y: -19.5}
+        - {x: 39.5, y: -13.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f750c2a833e64c54b2d7d387d88eb4fd
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_Snake
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 552
+        width: 205
+        height: 123
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -101.5, y: -61.5}
+        - {x: -102.5, y: -60.5}
+        - {x: -102.5, y: 61.5}
+        - {x: 102.5, y: 61.5}
+        - {x: 102.5, y: -61.5}
+      physicsShape:
+      - - {x: -102.5, y: 61.5}
+        - {x: -102.5, y: -60.5}
+        - {x: -101.5, y: -61.5}
+        - {x: 101.5, y: -61.5}
+        - {x: 102.5, y: -59.5}
+        - {x: 102.5, y: 61.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2b0facb865490a8631dc87d17d2b21
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Shop_Food
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 826
+        width: 82
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 2.5}
+        - {x: -39, y: 6.5}
+        - {x: -39, y: 9.5}
+        - {x: -39, y: 27.5}
+        - {x: -22, y: 27.5}
+        - {x: -19, y: 29.5}
+        - {x: 0, y: 29.5}
+        - {x: 1, y: 27.5}
+        - {x: 8, y: 32.5}
+        - {x: 36, y: 32.5}
+        - {x: 41, y: 24.5}
+        - {x: 41, y: -15.5}
+        - {x: 40, y: -22.5}
+        - {x: 38, y: -24.5}
+        - {x: 15, y: -24.5}
+        - {x: 11, y: -19.5}
+        - {x: 11, y: -29.5}
+        - {x: 8, y: -32.5}
+        - {x: -33, y: -32.5}
+        - {x: -40, y: -23.5}
+        - {x: -41, y: -18.5}
+      physicsShape:
+      - - {x: 0, y: 4.5}
+        - {x: -8, y: 18.5}
+        - {x: -1, y: 23.5}
+        - {x: -5, y: 29.5}
+        - {x: -15, y: 29.5}
+        - {x: -21, y: 26.5}
+        - {x: -19, y: 4.5}
+        - {x: -41, y: 2.5}
+        - {x: -41, y: -18.5}
+        - {x: -31, y: -31.5}
+        - {x: -28, y: -32.5}
+        - {x: -3, y: -32.5}
+        - {x: 9.999999, y: -24.5}
+        - {x: 9.999999, y: -1.5}
+      - - {x: 32, y: 32.5}
+        - {x: 3, y: 32.5}
+        - {x: -2, y: 21.5}
+        - {x: -2, y: 8.5}
+        - {x: 16, y: -24.5}
+        - {x: 25, y: -24.5}
+        - {x: 32, y: -22.5}
+        - {x: 41, y: -13.5}
+        - {x: 41, y: 19.5}
+        - {x: 37, y: 26.5}
+      - - {x: -33, y: 27.5}
+        - {x: -37, y: 26.5}
+        - {x: -37, y: 14.5}
+        - {x: -33, y: 5.5}
+        - {x: -28, y: 2.5}
+        - {x: -24, y: 2.5}
+        - {x: -21, y: 4.5}
+        - {x: -21, y: 27.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b3c68091954f50bd1257d078c8479d
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_Goat
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 679
+        width: 205
+        height: 123
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -101.5, y: -61.5}
+        - {x: -102.5, y: -60.5}
+        - {x: -102.5, y: 61.5}
+        - {x: 102.5, y: 61.5}
+        - {x: 102.5, y: -61.5}
+      physicsShape:
+      - - {x: -102.5, y: 61.5}
+        - {x: -102.5, y: -60.5}
+        - {x: -101.5, y: -61.5}
+        - {x: 101.5, y: -61.5}
+        - {x: 102.5, y: -59.5}
+        - {x: 102.5, y: 61.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca406f17e954c4991e4635ef786dd3d
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Tarot
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 74
+        width: 78
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: -33.5}
+        - {x: -39, y: -28.5}
+        - {x: -39, y: 25.5}
+        - {x: -27, y: 33.5}
+        - {x: 26, y: 33.5}
+        - {x: 39, y: 21.5}
+        - {x: 39, y: -29.5}
+        - {x: 37, y: -31.5}
+        - {x: 21, y: -33.5}
+      physicsShape:
+      - - {x: 39, y: 22.5}
+        - {x: 19, y: 33.5}
+        - {x: -19, y: 33.5}
+        - {x: -24, y: 30.5}
+        - {x: -38, y: 20.5}
+        - {x: -39, y: 18.5}
+        - {x: -39, y: -20.5}
+        - {x: -35, y: -33.5}
+        - {x: 11, y: -33.5}
+        - {x: 19, y: -32.5}
+        - {x: 39, y: -29.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe6af1ec79d4f15839fb77672bb93d8
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Temple_Open
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 671
+        width: 90
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: -39.5}
+        - {x: -45, y: -26.5}
+        - {x: -45, y: 15.5}
+        - {x: -41, y: 30.5}
+        - {x: -35, y: 39.5}
+        - {x: 31, y: 39.5}
+        - {x: 40, y: 27.5}
+        - {x: 45, y: 3.5}
+        - {x: 45, y: -26.5}
+        - {x: 32, y: -39.5}
+      physicsShape:
+      - - {x: 45, y: -21.5}
+        - {x: 45, y: 7.5}
+        - {x: 37, y: 29.5}
+        - {x: 24, y: 39.5}
+        - {x: 0, y: 39.5}
+        - {x: -9.999999, y: 34.5}
+        - {x: -29, y: 39.5}
+        - {x: -34, y: 39.5}
+        - {x: -45, y: 23.5}
+        - {x: -45, y: -29.5}
+        - {x: -37, y: -39.5}
+        - {x: 28, y: -39.5}
+        - {x: 30, y: -38.5}
+        - {x: 31, y: -25.5}
+        - {x: 41, y: -26.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67cee1797a84eec9c9267d5733d8aa3
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapPlayer
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 898
+        width: 74
+        height: 72
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: -36}
+        - {x: -37, y: -36}
+        - {x: -37, y: 31}
+        - {x: -35, y: 36}
+        - {x: 33, y: 36}
+        - {x: 37, y: 35}
+      physicsShape:
+      - - {x: 37, y: 31}
+        - {x: 33, y: 36}
+        - {x: -33, y: 36}
+        - {x: -37, y: 30}
+        - {x: -37, y: -30}
+        - {x: -33, y: -34}
+        - {x: -28, y: -36}
+        - {x: 30, y: -36}
+        - {x: 34, y: -35}
+        - {x: 37, y: -30}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bc930766f24aa185143f14be974c3c
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Village
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 754
+        width: 84
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: -34}
+        - {x: -42, y: -34}
+        - {x: -42, y: 8}
+        - {x: -28, y: 34}
+        - {x: 42, y: 34}
+        - {x: 42, y: -24}
+      physicsShape:
+      - - {x: 42, y: 6}
+        - {x: 32, y: 21}
+        - {x: 21, y: 34}
+        - {x: 12, y: 34}
+        - {x: -6, y: 25}
+        - {x: -12, y: 30}
+        - {x: -20, y: 31}
+        - {x: -42, y: 3}
+        - {x: -42, y: -11}
+        - {x: -38, y: -31}
+        - {x: -35, y: -34}
+        - {x: 9.999999, y: -34}
+        - {x: 32, y: -30}
+        - {x: 36, y: -23}
+        - {x: 42, y: -5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4def53bcf67c45fb9c814753165327fc
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_CultDoor
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 754
+        width: 93
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.5, y: -34.5}
+        - {x: -46.5, y: -34.5}
+        - {x: -46.5, y: -3.5}
+        - {x: -16.5, y: 34.5}
+        - {x: 16.5, y: 34.5}
+        - {x: 32.5, y: 19.5}
+        - {x: 46.5, y: -11.5}
+      physicsShape:
+      - - {x: 46.5, y: -21.5}
+        - {x: 44.5, y: -17.5}
+        - {x: 36.5, y: -10.5}
+        - {x: 37.5, y: -7.5}
+        - {x: 36.5, y: -2.5}
+        - {x: 26.5, y: 7.5}
+        - {x: 24.5, y: 17.5}
+        - {x: 4.5, y: 34.5}
+        - {x: -1.5, y: 34.5}
+        - {x: -19.5, y: 22.5}
+        - {x: -25.5, y: 14.5}
+        - {x: -38.5, y: -1.5}
+        - {x: -38.5, y: -11.5}
+        - {x: -43.5, y: -16.5}
+        - {x: -46.5, y: -20.5}
+        - {x: -46.5, y: -28.5}
+        - {x: -45.5, y: -29.5}
+        - {x: -36.5, y: -34.5}
+        - {x: 34.5, y: -34.5}
+        - {x: 38.5, y: -33.5}
+        - {x: 46.5, y: -28.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d0a1a6cbc8494c9fc011244cdac0ef
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_WeaponShop
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 72
+        width: 66
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: -32}
+        - {x: -33, y: -24}
+        - {x: -33, y: 5}
+        - {x: 8, y: 32}
+        - {x: 33, y: 32}
+        - {x: 33, y: 10}
+        - {x: 10, y: -22}
+        - {x: 5, y: -30}
+        - {x: -3, y: -32}
+      physicsShape:
+      - - {x: 33, y: 32}
+        - {x: 7, y: 32}
+        - {x: -15, y: 9}
+        - {x: -18, y: 11}
+        - {x: -29, y: 7}
+        - {x: -33, y: 1}
+        - {x: -33, y: -14}
+        - {x: -31, y: -24}
+        - {x: -24, y: -32}
+        - {x: -2, y: -32}
+        - {x: 9.999999, y: -27}
+        - {x: 14, y: -9.999999}
+        - {x: 33, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c88f379c2b94d35ae60aff7793a4dcc
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapIcon0003
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 415
+        width: 209
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103.5, y: -66.5}
+        - {x: -104.5, y: -65.5}
+        - {x: -104.5, y: 62.5}
+        - {x: -100.5, y: 66.5}
+        - {x: 100.5, y: 66.5}
+        - {x: 104.5, y: 63.5}
+        - {x: 104.5, y: -64.5}
+        - {x: 101.5, y: -66.5}
+      physicsShape:
+      - - {x: -18.5, y: -66.5}
+        - {x: -15.5, y: -65.5}
+        - {x: -10.5, y: -66.5}
+        - {x: 7.5, y: -66.5}
+        - {x: 14.5, y: -64.5}
+        - {x: 15.5, y: -66.5}
+        - {x: 96.5, y: -66.5}
+        - {x: 101.5, y: -64.5}
+        - {x: 104.5, y: -61.5}
+        - {x: 104.5, y: 64.5}
+        - {x: 100.5, y: 66.5}
+        - {x: -100.5, y: 66.5}
+        - {x: -104.5, y: 60.5}
+        - {x: -104.5, y: 55.5}
+        - {x: -103.5, y: 55.5}
+        - {x: -104.5, y: 44.5}
+        - {x: -104.5, y: -64.5}
+        - {x: -100.5, y: -66.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f6ac6dc5404808ada866e23bac5597
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Map_Base
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 413
+        height: 253
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -204.5, y: -126.5}
+        - {x: -206.5, y: -125.5}
+        - {x: -206.5, y: 124.5}
+        - {x: -204.5, y: 126.5}
+        - {x: 205.5, y: 126.5}
+        - {x: 206.5, y: 125.5}
+        - {x: 206.5, y: -126.5}
+      physicsShape:
+      - - {x: -204.5, y: 126.5}
+        - {x: -206.5, y: 122.5}
+        - {x: -206.5, y: -126.5}
+        - {x: 206.5, y: -126.5}
+        - {x: 206.5, y: 125.5}
+        - {x: 204.5, y: 126.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe42dec2227f47d8b78a3eed63097e75
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Shop_Resources
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 827
+        width: 91
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.5, y: -30.5}
+        - {x: -45.5, y: -27.5}
+        - {x: -45.5, y: 4.5}
+        - {x: -44.5, y: 9.5}
+        - {x: -31.5, y: 19.5}
+        - {x: -0.5, y: 19.5}
+        - {x: 2.5, y: 16.5}
+        - {x: 2.5, y: 26.5}
+        - {x: 5.5, y: 29.5}
+        - {x: 8.5, y: 30.5}
+        - {x: 37.5, y: 30.5}
+        - {x: 45.5, y: 21.5}
+        - {x: 45.5, y: -16.5}
+        - {x: 34.5, y: -26.5}
+        - {x: 21.5, y: -26.5}
+        - {x: 12.5, y: -11.5}
+        - {x: 12.5, y: -21.5}
+        - {x: 0.5, y: -30.5}
+      physicsShape:
+      - - {x: 7.5, y: -1.5}
+        - {x: 8.5, y: 11.5}
+        - {x: -2.5, y: 19.5}
+        - {x: -24.5, y: 19.5}
+        - {x: -35.5, y: 13.5}
+        - {x: -41.5, y: 5.5}
+        - {x: -45.5, y: -6.5}
+        - {x: -45.5, y: -25.5}
+        - {x: -43.5, y: -29.5}
+        - {x: -38.5, y: -30.5}
+        - {x: -4.5, y: -30.5}
+        - {x: 7.5, y: -25.5}
+        - {x: 12.5, y: -18.5}
+        - {x: 12.5, y: -8.5}
+      - - {x: 11.5, y: 30.5}
+        - {x: 5.5, y: 28.5}
+        - {x: 3.5, y: 18.5}
+        - {x: 2.5, y: 12.5}
+        - {x: 2.5, y: 8.5}
+        - {x: 20.5, y: -26.5}
+        - {x: 41.5, y: -26.5}
+        - {x: 45.5, y: -16.5}
+        - {x: 45.5, y: 26.5}
+        - {x: 41.5, y: 30.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b20e295f51402fb7c7a562ca6e695a
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Shop_Trinkets
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 898
+        width: 82
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: -29.5}
+        - {x: -41, y: -29.5}
+        - {x: -41, y: 29.5}
+        - {x: 41, y: 29.5}
+        - {x: 41, y: -27.5}
+      physicsShape:
+      - - {x: 15, y: -8.5}
+        - {x: 16, y: -25.5}
+        - {x: 18, y: -28.5}
+        - {x: 32, y: -25.5}
+        - {x: 40, y: -15.5}
+        - {x: 41, y: -13.5}
+        - {x: 41, y: 14.5}
+        - {x: 37, y: 23.5}
+        - {x: 31, y: 29.5}
+        - {x: -36, y: 29.5}
+        - {x: -41, y: 21.5}
+        - {x: -41, y: -24.5}
+        - {x: -40, y: -29.5}
+        - {x: -3, y: -29.5}
+        - {x: 2, y: -26.5}
+        - {x: 8, y: -3.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e64ffdd28154eb3a29a356b8f8cd6ae
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_ResourceRoom
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 0
+        width: 74
+        height: 63
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: -31.5}
+        - {x: -37, y: -30.5}
+        - {x: -37, y: 24.5}
+        - {x: -36, y: 28.5}
+        - {x: -18, y: 31.5}
+        - {x: 27, y: 31.5}
+        - {x: 32, y: 28.5}
+        - {x: 37, y: 12.5}
+        - {x: 37, y: -28.5}
+        - {x: 34, y: -31.5}
+      physicsShape:
+      - - {x: 22, y: 30.5}
+        - {x: 19, y: 31.5}
+        - {x: -6, y: 31.5}
+        - {x: -24, y: 24.5}
+        - {x: -30, y: 19.5}
+        - {x: -32, y: 2.5}
+        - {x: -37, y: -0.5}
+        - {x: -37, y: -22.5}
+        - {x: -35, y: -29.5}
+        - {x: -27, y: -30.5}
+        - {x: -18, y: -31.5}
+        - {x: 17, y: -31.5}
+        - {x: 37, y: -21.5}
+        - {x: 37, y: 5.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c4154502ab4f0ba341db5f423e749f
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapIcon0005
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 891
+        width: 102
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51, y: -32}
+        - {x: -51, y: -32}
+        - {x: -51, y: 32}
+        - {x: 49, y: 32}
+        - {x: 51, y: 30}
+      physicsShape:
+      - - {x: -51, y: 32}
+        - {x: -51, y: -32}
+        - {x: 51, y: -32}
+        - {x: 51, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177d9387ae4d414fb0cb41455c83b7cb
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Entrance
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 0
+        width: 68
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: -29}
+        - {x: -34, y: -16}
+        - {x: -34, y: 19}
+        - {x: -27, y: 29}
+        - {x: 34, y: 29}
+        - {x: 34, y: -29}
+      physicsShape:
+      - - {x: -24, y: 29}
+        - {x: -34, y: 17}
+        - {x: -34, y: -17}
+        - {x: -29, y: -29}
+        - {x: 34, y: -29}
+        - {x: 34, y: 29}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489322602923425abb3276db861e0140
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Boss
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 0
+        width: 78
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: -35}
+        - {x: -39, y: -33}
+        - {x: -39, y: 17}
+        - {x: -34, y: 32}
+        - {x: -21, y: 35}
+        - {x: 21, y: 35}
+        - {x: 39, y: 17}
+        - {x: 39, y: -26}
+        - {x: 29, y: -35}
+      physicsShape:
+      - - {x: 37, y: -18}
+        - {x: 39, y: -12}
+        - {x: 39, y: 8}
+        - {x: 37, y: 12}
+        - {x: 26, y: 28}
+        - {x: 16, y: 35}
+        - {x: -16, y: 35}
+        - {x: -21, y: 32}
+        - {x: -32, y: 21}
+        - {x: -39, y: 9.999999}
+        - {x: -39, y: -15}
+        - {x: -38, y: -22}
+        - {x: -30, y: -31}
+        - {x: -21, y: -35}
+        - {x: 20, y: -35}
+        - {x: 35, y: -27}
+        - {x: 37, y: -21}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac808cf5f484d9fb4b7692a48dea611
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Sozo
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 217
+        width: 60
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -30.5}
+        - {x: -30, y: -16.5}
+        - {x: -30, y: 25.5}
+        - {x: -23, y: 30.5}
+        - {x: 27, y: 30.5}
+        - {x: 30, y: 19.5}
+        - {x: 30, y: -15.5}
+        - {x: 14, y: -30.5}
+      physicsShape:
+      - - {x: 23, y: 24.5}
+        - {x: 13, y: 30.5}
+        - {x: -16, y: 30.5}
+        - {x: -21, y: 29.5}
+        - {x: -30, y: 15.5}
+        - {x: -30, y: -8.5}
+        - {x: -24, y: -13.5}
+        - {x: -9.999999, y: -13.5}
+        - {x: -11, y: -21.5}
+        - {x: -6, y: -30.5}
+        - {x: 9.999999, y: -30.5}
+        - {x: 29, y: -10.5}
+        - {x: 30, y: -8.5}
+        - {x: 30, y: 14.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfec468a07794f0eb84ab851f2559903
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_HealingRoom_Used
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 72
+        width: 55
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: -33.5}
+        - {x: -27.5, y: -32.5}
+        - {x: -27.5, y: 29.5}
+        - {x: -25.5, y: 30.5}
+        - {x: -6.5, y: 33.5}
+        - {x: 23.5, y: 33.5}
+        - {x: 27.5, y: 23.5}
+        - {x: 27.5, y: -33.5}
+      physicsShape:
+      - - {x: 25.5, y: 25.5}
+        - {x: 18.5, y: 32.5}
+        - {x: 12.5, y: 33.5}
+        - {x: -8.5, y: 33.5}
+        - {x: -23.5, y: 32.5}
+        - {x: -27.5, y: 28.5}
+        - {x: -27.5, y: -32.5}
+        - {x: -26.5, y: -33.5}
+        - {x: 25.5, y: -33.5}
+        - {x: 25.5, y: -23.5}
+        - {x: 23.5, y: -15.5}
+        - {x: 19.5, y: -0.5}
+        - {x: 25.5, y: 7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c440368c26448e2bb66fefa60333b03
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_FishingRoom
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 892
+        width: 82
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: -32.5}
+        - {x: -41, y: -32.5}
+        - {x: -41, y: -3.5}
+        - {x: -28, y: 32.5}
+        - {x: -1, y: 32.5}
+        - {x: 19, y: 27.5}
+        - {x: 41, y: -4.5}
+      physicsShape:
+      - - {x: -18, y: 11.5}
+        - {x: -12, y: 19.5}
+        - {x: 3, y: -7.5}
+        - {x: -1, y: -17.5}
+        - {x: 17, y: -32.5}
+        - {x: 38, y: -32.5}
+        - {x: 41, y: -30.5}
+        - {x: 41, y: -16.5}
+        - {x: 31, y: 6.5}
+        - {x: 21, y: 18.5}
+        - {x: -4, y: 32.5}
+        - {x: -23, y: 32.5}
+        - {x: -29, y: 14.5}
+        - {x: -34, y: -18.5}
+        - {x: -41, y: -17.5}
+        - {x: -41, y: -28.5}
+        - {x: -31, y: -32.5}
+        - {x: -6, y: -32.5}
+        - {x: -4, y: -25.5}
+        - {x: -7, y: -20.5}
+        - {x: -22, y: -15.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807b3ad3c7064988be246ea4e3d9d85d
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Home
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 542
+        width: 165
+        height: 125
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 81.5, y: -62.5}
+        - {x: -82.5, y: -62.5}
+        - {x: -82.5, y: -30.5}
+        - {x: -79.5, y: -16.5}
+        - {x: -21.5, y: 62.5}
+        - {x: 14.5, y: 62.5}
+        - {x: 38.5, y: 45.5}
+        - {x: 82.5, y: -29.5}
+        - {x: 82.5, y: -60.5}
+      physicsShape:
+      - - {x: 80.5, y: -60.5}
+        - {x: 82.5, y: -57.5}
+        - {x: 82.5, y: -45.5}
+        - {x: 81.5, y: -43.5}
+        - {x: 71.5, y: -30.5}
+        - {x: 70.5, y: -20.5}
+        - {x: 67.5, y: -14.5}
+        - {x: 56.5, y: -5.5}
+        - {x: 59.5, y: -3.5}
+        - {x: 56.5, y: 8.5}
+        - {x: 50.5, y: 14.5}
+        - {x: 35.5, y: 25.5}
+        - {x: 36.5, y: 27.5}
+        - {x: 36.5, y: 31.5}
+        - {x: 34.5, y: 36.5}
+        - {x: 25.5, y: 47.5}
+        - {x: 14.5, y: 56.5}
+        - {x: 5.5, y: 62.5}
+        - {x: -6.5, y: 62.5}
+        - {x: -16.5, y: 55.5}
+        - {x: -28.5, y: 46.5}
+        - {x: -37.5, y: 33.5}
+        - {x: -37.5, y: 25.5}
+        - {x: -54.5, y: 9.5}
+        - {x: -58.5, y: 2.5}
+        - {x: -58.5, y: -2.5}
+        - {x: -61.5, y: -8.5}
+        - {x: -72.5, y: -19.5}
+        - {x: -74.5, y: -33.5}
+        - {x: -82.5, y: -44.5}
+        - {x: -82.5, y: -58.5}
+        - {x: -81.5, y: -60.5}
+        - {x: -74.5, y: -62.5}
+        - {x: 74.5, y: -62.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d05fa20b684d27bf4d62d34b02052e
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Teleport
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 806
+        width: 92
+        height: 76
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46, y: -38}
+        - {x: -46, y: -38}
+        - {x: -46, y: -1}
+        - {x: -27, y: 37}
+        - {x: -27, y: 38}
+        - {x: 34, y: 38}
+        - {x: 46, y: 13}
+      physicsShape:
+      - - {x: 46, y: -7}
+        - {x: 30, y: 4}
+        - {x: 31, y: 13}
+        - {x: 32, y: 31}
+        - {x: 29, y: 37}
+        - {x: 28, y: 38}
+        - {x: -28, y: 38}
+        - {x: -28, y: 17}
+        - {x: -30, y: 12}
+        - {x: -27, y: 3}
+        - {x: -39, y: -1}
+        - {x: -46, y: -9}
+        - {x: -46, y: -23}
+        - {x: -38, y: -33}
+        - {x: -34, y: -36}
+        - {x: -19, y: -38}
+        - {x: 21, y: -38}
+        - {x: 33, y: -36}
+        - {x: 42, y: -31}
+        - {x: 46, y: -26}
+      - - {x: -7, y: -19}
+        - {x: -15, y: -19}
+        - {x: -18, y: -17}
+        - {x: -25, y: -17}
+        - {x: -23, y: -17}
+        - {x: -22, y: -16}
+        - {x: -18, y: -16}
+        - {x: -17, y: -15}
+        - {x: -9.999999, y: -15}
+        - {x: -7, y: -12}
+        - {x: -7, y: -11}
+        - {x: -9, y: -9.999999}
+        - {x: -9, y: -11}
+        - {x: -3, y: -16}
+        - {x: -2, y: -16}
+        - {x: 0, y: -18}
+        - {x: 2, y: -18}
+        - {x: 11, y: -8}
+        - {x: 9, y: -9}
+        - {x: 9, y: -11}
+        - {x: 12, y: -14}
+        - {x: 18, y: -15}
+        - {x: 21, y: -17}
+        - {x: 24, y: -17}
+        - {x: 14, y: -18}
+        - {x: 13, y: -19}
+        - {x: 7, y: -19}
+        - {x: 2, y: -20}
+        - {x: 1, y: -19}
+        - {x: -3, y: -19}
+        - {x: -5, y: -21}
+        - {x: -5, y: -20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95ae530fa7846a0826d1e358199c4be
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapIcon0004
+      rect:
+        serializedVersion: 2
+        x: 678.0267
+        y: 67.07612
+        width: 33.9465
+        height: 31.84776
+      alignment: 9
+      pivot: {x: 0.4999999, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: -16}
+        - {x: -17, y: -12}
+        - {x: -17, y: 15}
+        - {x: -15, y: 16}
+        - {x: 14, y: 16}
+        - {x: 17, y: 14}
+        - {x: 17, y: -15}
+        - {x: 14, y: -16}
+      physicsShape:
+      - - {x: -16, y: 15}
+        - {x: -16, y: -15}
+        - {x: 13, y: -15}
+        - {x: 16, y: -12}
+        - {x: 16, y: 15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a456dcd2046403099abf3823fb6064b
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_Temple_Closed
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 671
+        width: 90
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: -39.5}
+        - {x: -45, y: -26.5}
+        - {x: -45, y: 15.5}
+        - {x: -41, y: 30.5}
+        - {x: -35, y: 39.5}
+        - {x: 31, y: 39.5}
+        - {x: 40, y: 27.5}
+        - {x: 45, y: 3.5}
+        - {x: 45, y: -26.5}
+        - {x: 32, y: -39.5}
+      physicsShape:
+      - - {x: 45, y: -21.5}
+        - {x: 45, y: 7.5}
+        - {x: 37, y: 29.5}
+        - {x: 24, y: 39.5}
+        - {x: 0, y: 39.5}
+        - {x: -9.999999, y: 34.5}
+        - {x: -29, y: 39.5}
+        - {x: -34, y: 39.5}
+        - {x: -45, y: 23.5}
+        - {x: -45, y: -29.5}
+        - {x: -37, y: -39.5}
+        - {x: 28, y: -39.5}
+        - {x: 30, y: -38.5}
+        - {x: 31, y: -25.5}
+        - {x: 41, y: -26.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599242aebb56423ca77acdeb9bd4dbb7
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_KeyNo
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 891
+        width: 84
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: -24}
+        - {x: -42, y: -17}
+        - {x: -42, y: 18}
+        - {x: -39, y: 29}
+        - {x: -1, y: 35}
+        - {x: 36, y: 35}
+        - {x: 42, y: 19}
+        - {x: 42, y: -15}
+        - {x: 33, y: -35}
+        - {x: -10, y: -35}
+      physicsShape:
+      - - {x: 37, y: -26}
+        - {x: 33, y: -15}
+        - {x: 38, y: -7}
+        - {x: 42, y: 0}
+        - {x: 42, y: 16}
+        - {x: 33, y: 35}
+        - {x: 18, y: 35}
+        - {x: -11, y: 24}
+        - {x: -28, y: 25}
+        - {x: -36, y: 22}
+        - {x: -42, y: 13}
+        - {x: -42, y: -8}
+        - {x: -29, y: -19}
+        - {x: -2, y: -16}
+        - {x: -8, y: -22}
+        - {x: -2, y: -35}
+        - {x: 12, y: -35}
+        - {x: 16, y: -31}
+        - {x: 21, y: -35}
+        - {x: 29, y: -35}
+      - - {x: 0, y: 1}
+        - {x: 1, y: 3}
+        - {x: -3, y: 0}
+        - {x: -2, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fad2778963e485f800ed036f3611e5e
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapIcon0006
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 235
+        height: 154
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -117.5, y: -77}
+        - {x: -117.5, y: 77}
+        - {x: 117.5, y: 77}
+        - {x: 117.5, y: -77}
+      physicsShape:
+      - - {x: -92.49999, y: -50}
+        - {x: -93.5, y: -16}
+        - {x: -94.5, y: -14}
+        - {x: -116.5, y: -14}
+        - {x: -117.5, y: -17}
+        - {x: -117.5, y: -72}
+        - {x: -114.5, y: -77}
+        - {x: -56.5, y: -77}
+        - {x: -54.5, y: -72.99999}
+        - {x: -54.5, y: -52}
+        - {x: -75.5, y: -46}
+      - - {x: 96.5, y: -14}
+        - {x: 94.5, y: -19}
+        - {x: 83.5, y: -44}
+        - {x: 54.5, y: -51}
+        - {x: 54.5, y: -74}
+        - {x: 58.5, y: -77}
+        - {x: 116.5, y: -77}
+        - {x: 117.5, y: -76}
+        - {x: 117.5, y: -14}
+      - - {x: -54.5, y: 77}
+        - {x: -117.5, y: 77}
+        - {x: -117.5, y: 17}
+        - {x: -115.5, y: 16}
+        - {x: -96.5, y: 16}
+        - {x: -94.5, y: 21}
+        - {x: -62.5, y: 31}
+        - {x: -54.5, y: 44}
+      - - {x: 58.5, y: 77}
+        - {x: 54.5, y: 75}
+        - {x: 54.5, y: 56}
+        - {x: 61.5, y: 51}
+        - {x: 93.5, y: 49}
+        - {x: 90.5, y: 20}
+        - {x: 98.49999, y: 16}
+        - {x: 116.5, y: 16}
+        - {x: 117.5, y: 17}
+        - {x: 117.5, y: 77}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c54446f54a2415594287019f52218ee
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_OfferingRoom
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 806
+        width: 85
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.5, y: -40.5}
+        - {x: -42.5, y: -40.5}
+        - {x: -42.5, y: 24.5}
+        - {x: -25.5, y: 40.5}
+        - {x: 31.5, y: 40.5}
+        - {x: 41.5, y: 36.5}
+        - {x: 42.5, y: 35.5}
+        - {x: 42.5, y: -27.5}
+      physicsShape:
+      - - {x: 37.5, y: -16.5}
+        - {x: 33.5, y: -13.5}
+        - {x: 27.5, y: -12.5}
+        - {x: 23.5, y: -12.5}
+        - {x: 28.5, y: -12.5}
+        - {x: 34.5, y: -11.5}
+        - {x: 40.5, y: -15.5}
+        - {x: 42.5, y: -11.5}
+        - {x: 42.5, y: -5.5}
+        - {x: 32.5, y: 12.5}
+        - {x: 20.5, y: 15.5}
+        - {x: 10.5, y: 40.5}
+        - {x: 2.5, y: 40.5}
+        - {x: -2.5, y: 38.5}
+        - {x: -25.5, y: 20.5}
+        - {x: -29.5, y: 12.5}
+        - {x: -24.5, y: 10.5}
+        - {x: -14.5, y: 10.5}
+        - {x: -8.5, y: 4.5}
+        - {x: -10.5, y: 5.5}
+        - {x: -34.5, y: 7.5}
+        - {x: -42.5, y: 6.5}
+        - {x: -42.5, y: -38.5}
+        - {x: -32.5, y: -40.5}
+        - {x: 4.5, y: -40.5}
+        - {x: 8.5, y: -39.5}
+        - {x: 36.5, y: -35.5}
+        - {x: 39.5, y: -27.5}
+      - - {x: -4.5, y: -1.5}
+        - {x: -2.5, y: 0.5}
+        - {x: -1.5, y: -0.5}
+        - {x: 6.5, y: -2.5}
+        - {x: 9.5, y: 0.5}
+        - {x: 11.5, y: 0.5}
+        - {x: 14.5, y: 3.5}
+        - {x: 13.5, y: 5.5}
+        - {x: 11.5, y: 2.5}
+        - {x: 11.5, y: -2.5}
+        - {x: 12.5, y: -1.5}
+      - - {x: 35.5, y: 19.5}
+        - {x: 29.5, y: 16.5}
+        - {x: 29.5, y: 14.5}
+        - {x: 31.5, y: 10.5}
+        - {x: 35.5, y: 10.5}
+        - {x: 39.5, y: 13.5}
+        - {x: 40.5, y: 17.5}
+        - {x: 38.5, y: 19.5}
+      - - {x: 18.5, y: 32.5}
+        - {x: 14.5, y: 25.5}
+        - {x: 14.5, y: 19.5}
+        - {x: 17.5, y: 18.5}
+        - {x: 20.5, y: 18.5}
+        - {x: 22.5, y: 19.5}
+        - {x: 30.5, y: 24.5}
+        - {x: 30.5, y: 28.5}
+        - {x: 27.5, y: 32.5}
+      - - {x: -18.5, y: 40.5}
+        - {x: -20.5, y: 39.5}
+        - {x: -22.5, y: 34.5}
+        - {x: -22.5, y: 30.5}
+        - {x: -17.5, y: 23.5}
+        - {x: -11.5, y: 23.5}
+        - {x: -10.5, y: 26.5}
+        - {x: -10.5, y: 35.5}
+        - {x: -16.5, y: 40.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48659c72d93f49a78602fb869c388c83
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_bonus
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 145
+        width: 65
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: -34}
+        - {x: -32.5, y: -26}
+        - {x: -32.5, y: 34}
+        - {x: 32.5, y: 34}
+        - {x: 32.5, y: -22}
+        - {x: 28.5, y: -34}
+      physicsShape:
+      - - {x: -21.5, y: 34}
+        - {x: -29.5, y: 33}
+        - {x: -32.5, y: 29}
+        - {x: -32.5, y: 7}
+        - {x: -30.5, y: -5}
+        - {x: -27.5, y: -17}
+        - {x: -23.5, y: -21}
+        - {x: -8.5, y: -21}
+        - {x: -7.5, y: -31}
+        - {x: -5.5, y: -34}
+        - {x: 14.5, y: -34}
+        - {x: 32.5, y: -16}
+        - {x: 32.5, y: 23}
+        - {x: 29.5, y: 34}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7852d9abeefd4fb79057ad60d1fb2f4f
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_KeyYes
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 625
+        width: 84
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: -35}
+        - {x: -42, y: -15}
+        - {x: -42, y: 15}
+        - {x: -35, y: 24}
+        - {x: 12, y: 35}
+        - {x: 36, y: 35}
+        - {x: 42, y: 19}
+        - {x: 42, y: -9}
+        - {x: 20, y: -35}
+      physicsShape:
+      - - {x: 42, y: 13}
+        - {x: 39, y: 21}
+        - {x: 35, y: 30}
+        - {x: 32, y: 35}
+        - {x: 18, y: 35}
+        - {x: -11, y: 24}
+        - {x: -28, y: 25}
+        - {x: -36, y: 22}
+        - {x: -42, y: 13}
+        - {x: -42, y: -8}
+        - {x: -29, y: -18}
+        - {x: -11, y: -20}
+        - {x: 0, y: -35}
+        - {x: 14, y: -35}
+        - {x: 18, y: -33}
+        - {x: 35, y: -14}
+        - {x: 42, y: -2}
+      - - {x: 3, y: -4}
+        - {x: 0, y: -4}
+        - {x: -2, y: -6}
+        - {x: -4, y: -6}
+        - {x: -5, y: -7}
+        - {x: -4, y: -7}
+        - {x: -2, y: -5}
+        - {x: -2, y: 1}
+        - {x: 0, y: 1}
+        - {x: 4, y: 3}
+        - {x: 4, y: 0}
+        - {x: 6, y: -3}
+        - {x: 9.999999, y: -4}
+        - {x: 13, y: -2}
+        - {x: 8, y: -9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c023a110583499a8c6119d61dbebd11
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon_StartRoom
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 72
+        width: 46
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: -35.5}
+        - {x: -23, y: 35.5}
+        - {x: 23, y: 35.5}
+        - {x: 23, y: -35.5}
+      physicsShape:
+      - - {x: 23, y: -1.5}
+        - {x: 23, y: 35.5}
+        - {x: -21, y: 35.5}
+        - {x: -23, y: 32.5}
+        - {x: -23, y: 7.5}
+        - {x: -18, y: -0.5}
+        - {x: -23, y: -10.5}
+        - {x: -23, y: -32.5}
+        - {x: -20, y: -35.5}
+        - {x: 21, y: -35.5}
+        - {x: 23, y: -33.5}
+        - {x: 23, y: -10.5}
+        - {x: 22, y: -7.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691382d94ff841fea4eb52aae57f9e8a
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Icon_StartRoom: 21300074
+      Icon_Temple_Closed: 21300062
+      Icon_Entrance: 21300046
+      Icon_bonus: 21300070
+      Icon_PostBoss: 21300006
+      Map_Snake: 21300016
+      MapPlayer: 21300026
+      MapIcon0002: 21300008
+      Icon_Shop_Trinkets: 21300040
+      Icon_Tarot: 21300022
+      Icon_Sozo: 21300050
+      MapIcon0005: 21300044
+      Icon_KeyYes: 21300072
+      Icon_Shop_Food: 21300018
+      Icon_Temple_Open: 21300024
+      Icon_FishingRoom: 21300054
+      Icon_Shop_Resources: 21300038
+      MapIcon0004: 21300060
+      Icon_Shop_Followers: 21300004
+      Icon_HealingRoom_Used: 21300052
+      Icon_HealingRoom: 21300010
+      Icon_ResourceRoom: 21300042
+      Icon_Home: 21300056
+      Icon_CultDoor: 21300030
+      Icon_Village: 21300028
+      MapIcon0006: 21300066
+      Icon_KeyNo: 21300064
+      Icon_Follower: 21300000
+      Icon_Boss: 21300048
+      Map_You: 21300012
+      Map_Base: 21300036
+      Icon_OfferingRoom_Used: 21300014
+      Icon_WeaponShop: 21300032
+      Icon_OfferingRoom: 21300068
+      Map_Goat: 21300020
+      MapIcon0003: 21300034
+      Icon_DoctrineStone: 21300002
+      Icon_Teleport: 21300058
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
